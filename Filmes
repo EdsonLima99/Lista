@@ -98,11 +98,17 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/APRCRDFLCDA
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Teoria%20De%20Tudo.jpg", "A Teoria De Tudo"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/ATORIDTD.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ace%20Ventura%202%20-%20Um%20Maluco%20na%20%C3%81frica.jpg", "Ace Ventura 2: Um Maluco na África"
-https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ACVNTURA2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Acabando%20com%20o%20Sossego.jpg", "Acabando com o Sossego"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ACNDOCMOSOSGO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ace%20Ventura%20-%20Um%20Detetive%20Diferente.jpg", "Ace Ventura: Um Detetive Diferente"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ACVNTURA.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ace%20Ventura%202%20-%20Um%20Maluco%20na%20%C3%81frica.jpg", "Ace Ventura 2: Um Maluco na África"
+https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ACVNTURA2.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/%C3%81gua%20para%20Elefantes.jpg", "Água para Elefantes"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/AGUPRELFNTS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Aladdin.jpg", "Aladdin"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ALDN.mp4
@@ -145,6 +151,9 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCE
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Animais%20Fant%C3%A1sticos%20-%20Os%20Crimes%20de%20Grindelwald.jpg", "Animais Fantásticos: Os Crimes de Grindelwald "
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCOSCRMSDGRLWRD.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Antes%20S%C3%B3%20do%20que%20Mal%20Casado.jpg", "Antes Só do que Mal Casado"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ANTSODQMLCSDO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Apenas%20Um%20Show%20-%20O%20Filme.jpg", "Apenas um Show: O Filme"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/APNSUSWOFILME.mp4
@@ -191,6 +200,9 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/BEMVEAHSTRD
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Bingo%20-%20O%20Rei%20das%20Manh%C3%A3s.jpg", "Bingo: O Rei das Manhãs"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/BNGORDSMNH.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Caixa%20de%20P%C3%A1ssaros.jpg", "Bird Box: Caixa de Pássaros"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/CXDPASRO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Bob%20Esponja%20o%20Filme.jpg", "Bob Esponja - O Filme"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/BOBOFILME.mp4
 
@@ -211,6 +223,9 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/BRNCDNVEOST
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bumblebee.jpg", "Bumblebee"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/BUMBLE.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Buscando....jpg", "Buscando..."
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/BSCNDO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Cada%20Um%20na%20Sua%20Casa.jpg", "Cada Um na Sua Casa"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/CSUMNSUACS.mp4
@@ -452,6 +467,9 @@ https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/GRDOESDGLXI
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Guerra%20Mundial%20Z.jpg", "Guerra Mundial Z"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/GURAMNDLZ.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Halloween.jpg", "Halloween"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/HLWN2018DUB.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Happy%20Feet.jpg", "Happy Feet: O Pinguim"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/HPYFT.mp4
 
@@ -521,6 +539,12 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/INFLDONKLN.
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg", "Inimigo Mortal"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/INMGSMRTL.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Instinto%20Selvagem.jpg", "Instinto Selvagem"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/INSTOSLVGM.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Instinto%20Selvagem%202.jpg", "Instinto Selvagem 2"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/INSTOSLVGM2.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Irm%C3%A3o%20de%20Espi%C3%A3o.jpg", "Irmão de Espião"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/IRMADESPAO.mp4
 
@@ -550,6 +574,9 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Kung%20Fu%20Panda%203.jpg", "Kung Fu Panda 3"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/KUNGFUPND3.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Lanterna%20Verde.jpg", "Lanterna Verde"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/LNTRNVRDS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/LEGO%20Batman%20-%20O%20Filme.jpg", "LEGO Batman: O Filme"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/LEGBTMNOFLM.mp4
@@ -641,6 +668,9 @@ https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MNSTRSVSALI
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mortal%20Kombat%20-%20A%20Aniquila%C3%A7%C3%A3o.jpg", "Mortal Kombat: A Aniquilação"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/MRTLKMBTAANQLCAO.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mortal%20Kombat%20-%20O%20Filme.jpg", "Mortal Kombat: O FIlme"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/MRTLKMBTOLFM.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mulan1.jpg", "Mulan"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/MULAN01.mp4
 
@@ -679,9 +709,6 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/NRTOSHPFILM
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/The%20Last%20-%20Naruto%20O%20Filme.jpg", "Naruto Shippuden (Legendado) - Filme 07 - The Last Movie"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/NSPDNFILME07.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/N%C3%A3o%20Adianta%20Rezar.jpg", "Não Adianta Rezar"
-https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/NADNTRZR.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Natal%20Shrektacular%20do%20Burro.jpg", "Natal Shrektacular do Burro"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/NTLSHRKTCLRDBRO.mp4
@@ -722,9 +749,6 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/OESCPAOREI5
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Expresso%20Polar.jpg", "O Expresso Polar"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/OEXPRSPOLAR.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Filho%20Do%20Ace%20Ventura.jpg", "O Filho Do Ace Ventura"
-https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/OFLHDACVNTURA.mp4
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Filme%20Looney,%20Looney,%20Looney%20do%20Pernalonga.jpg", "O Filme Looney, Looney, Looney do Pernalonga"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OFLMLNYDPRNLNGA.mp4
 
@@ -733,6 +757,9 @@ https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OGLNHCHKNLT
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/O%20Grande%20Dave.jpg", "O Grande Dave"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OGRNDVE.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Grinch.jpg", "O Grinch"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/OGRNCH.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Homem%20das%20Cavernas.jpg", "O Homem das Cavernas"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OHMNDSCVNS.mp4
@@ -748,6 +775,9 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/OINCVLHLK.m
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Lorax%20-%20Em%20Busca%20da%20Tr%C3%BAfula%20Perdida.jpg", "O Lorax: Em Busca da Trúfula Perdida "
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OLORXEMBSCDTRFLA.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Mist%C3%A9rio%20do%20Rel%C3%B3gio%20na%20Parede.jpg", "O Mistério do Relógio na Parede"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/OMSTRDRLGIONPRDE.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Pequeno%20Stuart%20Little.jpg", "O Pequeno Stuart Little"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/OPQNSTRTLTLE.mp4
@@ -916,6 +946,9 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/RCKY2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rocky3.jpg", "Rocky 3: O Desafio Supremo "
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/RCKY3.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Scooby-Doo%20e%20a%20Maldi%C3%A7%C3%A3o%20do%2013%C2%B0%20Fantasma.jpg", "Scooby-Doo e a Maldição do 13° Fantasma "
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/SCOBYDOEAMLDCAOD13FNTSMA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Scooby-Doo!%20e%20Kiss%20-%20O%20Mist%C3%A9rio%20do%20Rock%20and%20Roll.jpg", "Scooby-Doo! e Kiss: O Mistério do Rock and Roll"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/SCBDFLM25.mp4
