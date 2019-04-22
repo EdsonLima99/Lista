@@ -395,6 +395,9 @@ https://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02E
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/American%20Gods%202.jpg" group-title="American Gods", "02x05 - Os Caminhos dos Mortos"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02EP05.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/American%20Gods%202.jpg" group-title="American Gods", "02x06 - Donar o Grande"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02EP06.mp4
+
 ################## As Visões da Raven ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer02/imgs-videos/As%20Vis%C3%B5es%20da%20Raven1.jpg" group-title="As Visões da Raven", "01x01 - Prova de Amizade"
@@ -696,6 +699,32 @@ https://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer02/ondemand/AVDRS04EP21
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer02/imgs-videos/As%20Vis%C3%B5es%20da%20Raven4.jpg" group-title="As Visões da Raven", "04x22 - Onde há Fumo"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer02/ondemand/AVDRS04EP22.mp4
+
+################## Black Summer ########################
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x01 - Fluxo Humano"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/BLCKSMRT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x02 - Impulso"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/BLCKSMRT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x03 - Escola de Verão"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/BLCKSMRT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x04 - Sozinho"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/BLCKSMRT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x05 - Lanchonete"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/BLCKSMRT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x06 - Assalto"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/BLCKSMRT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x07 - O Túnel"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/BLCKSMRT01EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x08 - O Estádio"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/BLCKSMRT01EP08.mp4
 
 ################## Breaking Bad ########################
 
@@ -2877,6 +2906,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP12
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2015.jpg" group-title="Grey’s Anatomy", "15x13 - Eu Ando na Linha"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP13.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2015.jpg" group-title="Grey’s Anatomy", "15x14 - Eu Quero Uma Nova Droga"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP14.mp4
+
 ################## iCarly ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/iCarly1.jpg" group-title="iCarly", "01x01 - Bem-Vindos ao iCarly.com"
@@ -4082,6 +4114,30 @@ https://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x10 - Quarentena"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x11 - Quarentena (Parte 2)"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x12 - Consequências"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x13 - Por Favor"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x14 - Rostos"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x15 - Risco e Recompensa"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x16 - Acreditar"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x17 - Colapso"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x18 - Trampolim"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/OBMDTRT02EP18.mp4
 
 ################## O Justiceiro ########################
 
@@ -5607,6 +5663,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP15.
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x16 - Não Vá Na Floresta"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x17 - Noite de Jogo"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP17.mp4
 
 ################## The Walking Dead ########################
 
