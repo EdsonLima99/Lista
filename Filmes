@@ -509,6 +509,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/GDZLA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Golpe%20Duplo.jpg", "Golpe Duplo"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer1/ondemand/GLPDPL.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg", "Green Book: O Guia"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/GRENBOKOGUA.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia.jpg", "Guardiões da Galáxia"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/GRDOESDGLXIA.mp4
 
@@ -1061,6 +1064,9 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/PCOHNTSOENT
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%202%20-%20Uma%20Jornada%20para%20o%20Novo%20Mundo.jpg", "Pocahontas II: Viagem a um Novo Mundo"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/PCOHNTS2UMJRNDPRONVMDO.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Poderia%20Me%20Perdoar.jpg", "Poderia Me Perdoar?"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/PDRMPDAR.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Power%20Rangers%20-%20O%20Filme.jpg", "Power Rangers: O Filme"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/PWRNGRSOFLM.mp4
 
@@ -1300,6 +1306,9 @@ https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/VIGM2AILHMS
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Viagem%20ao%20Centro%20da%20Terra.jpg", "Viagem ao Centro da Terra: O Filme "
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/VIGMAOCNTRDTRA.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg", "Vidro"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/VDRO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Vingadores%20-%20Era%20de%20Ultron.jpg", "Vingadores: Era de Ultron"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/VNGDRSEDURON.mp4
