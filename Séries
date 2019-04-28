@@ -398,6 +398,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02E
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/American%20Gods%202.jpg" group-title="American Gods", "02x06 - Donar o Grande"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02EP06.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/American%20Gods%202.jpg" group-title="American Gods", "02x07 - Tesouro do Sol"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02EP07.mp4
+
 ################## As Visões da Raven ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer02/imgs-videos/As%20Vis%C3%B5es%20da%20Raven1.jpg" group-title="As Visões da Raven", "01x01 - Prova de Amizade"
@@ -1705,6 +1708,56 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/FMLDNSREP64
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Fam%C3%ADlia%20Dinossauros4.jpg" group-title="Família Dinossauros", "04x65 - George Tem que Morrer"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/FMLDNSREP65.mp4
 
+################## Fugitivos ########################
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x01 - Reunião"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x02 - Rebobinar"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x03 - Destino"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x04 - Quinze"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x05 - Reino"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x06 - Metamorfose"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x07 - Refração"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x08 - Tsunami"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x09 - Apocalipse"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fugitivos1.jpg" group-title="Fugitivos", "01x10 - Hostil"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/FGTVST01EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Fugitivos%202.jpg" group-title="Fugitivos", "02x01 - Abrigo de Gimmie"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Fugitivos%202.jpg" group-title="Fugitivos", "02x02 - Rádio Ligado"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Fugitivos%202.jpg" group-title="Fugitivos", "02x03 - Zeros Duplos"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Fugitivos%202.jpg" group-title="Fugitivos", "02x04 - Moda Antiga"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Fugitivos%202.jpg" group-title="Fugitivos", "02x05 - Parte Inferior da Rocha"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Fugitivos%202.jpg" group-title="Fugitivos", "02x06 - Enterrar Outro"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP06.mp4
+
 ################## Game Of Thrones ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones1.jpg" group-title="Game Of Thrones", "01x00 - Piloto (Legendado)"
@@ -1919,6 +1972,9 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="Game Of Thrones", "08x01 - Winterfell"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20Of%20Thrones%208.jpg" group-title="Game Of Thrones", "08x02 - Uma Cavaleira do Sete Reinos"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP02.mp4
 
 ################## Grey’s Anatomy ########################
 
@@ -2909,6 +2965,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP13
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2015.jpg" group-title="Grey’s Anatomy", "15x14 - Eu Quero Uma Nova Droga"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP14.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2015.jpg" group-title="Grey’s Anatomy", "15x15 - Nós Não Começamos o Fogo"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP15.mp4
+
 ################## iCarly ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/iCarly1.jpg" group-title="iCarly", "01x01 - Bem-Vindos ao iCarly.com"
@@ -3803,6 +3862,38 @@ https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer10/ondemand/LCFRT03EP25
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Lucifer3.jpg" group-title="Lucifer", "03x26 - Era Uma Vez"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer10/ondemand/LCFRT03EP26.mp4
+
+################## Manto & Adaga ########################
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x01 - Primeira Luz"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer10/ondemand/MNTEADGAT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x02 - Sprints de Suicídio"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer10/ondemand/MNTEADGAT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x03 - Vitral"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer10/ondemand/MNTEADGAT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x04 - Chamada / Resposta"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer07/ondemand/MNTEADGAT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x05 - Ofensa de Princeton"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/MNTEADGAT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x06 - Espelhos da Diversão"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/MNTEADGAT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x07 - Comedores de Lótus"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/MNTEADGAT01EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x08 - Histórias de Fantasma"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/MNTEADGAT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x09 - Disjuntor Traseiro"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/MNTEADGAT01EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x10 - Colapso das Colônias"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/MNTEADGAT01EP10.mp4
 
 ################## Mr. Robot ########################
 
@@ -5666,6 +5757,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP16.
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x17 - Noite de Jogo"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x18 - Ausência"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP18.mp4
 
 ################## The Walking Dead ########################
 
