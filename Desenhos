@@ -5391,6 +5391,15 @@ http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/STHPRKT22EP0
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2022.jpg" group-title="South Park", "22x07 - Ninguém Tem Cereal?"
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/STHPRKT22EP07.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2022.jpg" group-title="South Park", "22x08 - Caixa de Buda"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/STHPRKT22EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2022.jpg" group-title="South Park", "22x09 - Não Cumpridas"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/STHPRKT22EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2022.jpg" group-title="South Park", "22x10 - Desfile de Bicicleta"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/STHPRKT22EP10.mp4
+
 ################## Super Choque ########################
  
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x01 - Choque no Sistema"
