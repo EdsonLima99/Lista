@@ -1421,6 +1421,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/UMESPEMEIO.
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Uma%20Aventura%20Lego.jpg", "Uma Aventura LEGO"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/UMAVNTRLGO.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Uma%20Aventura%20Lego%202.jpg", "Uma Aventura LEGO 2"
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/UMAVNTRLGO2.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Uma%20Manh%C3%A3%20Gloriosa.jpg", "Uma Manhã Gloriosa"
 https://d126y6al26xchi.cloudfront.net/RedeCanais/RCFServer4/ondemand/UMNHAGLRSA.mp4
 
