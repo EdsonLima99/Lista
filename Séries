@@ -401,6 +401,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02E
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/American%20Gods%202.jpg" group-title="American Gods", "02x07 - Tesouro do Sol"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02EP07.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/American%20Gods%202.jpg" group-title="American Gods", "02x08 - Sombra da Lua"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/AMRCGDST02EP08.mp4
+
 ################## As Visões da Raven ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer02/imgs-videos/As%20Vis%C3%B5es%20da%20Raven1.jpg" group-title="As Visões da Raven", "01x01 - Prova de Amizade"
@@ -1975,6 +1978,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20Of%20Thrones%208.jpg" group-title="Game Of Thrones", "08x02 - Uma Cavaleira do Sete Reinos"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20Of%20Thrones%208.jpg" group-title="Game Of Thrones", "08x03 - Batalha dos Mortos"
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP03.mp4
 
 ################## Grey’s Anatomy ########################
 
