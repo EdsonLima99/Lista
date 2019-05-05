@@ -1761,6 +1761,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP0
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Fugitivos%202.jpg" group-title="Fugitivos", "02x06 - Enterrar Outro"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP06.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Fugitivos%202.jpg" group-title="Fugitivos", "02x07 - Últimos Ritos"
+http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/FGTVST02EP07.mp4
+
 ################## Game Of Thrones ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones1.jpg" group-title="Game Of Thrones", "01x00 - Piloto (Legendado)"
@@ -2973,6 +2976,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP14
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2015.jpg" group-title="Grey’s Anatomy", "15x15 - Nós Não Começamos o Fogo"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2015.jpg" group-title="Grey’s Anatomy", "15x16 - Sangue e Água"
+http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GRATT15EP16.mp4
 
 ################## iCarly ########################
 
@@ -5766,6 +5772,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP17.
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x18 - Ausência"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP18.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x19 - Jack Na Caixa"
+http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/SPNT14EP19.mp4
 
 ################## The Walking Dead ########################
 
