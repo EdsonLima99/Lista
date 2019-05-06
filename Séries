@@ -1985,6 +1985,9 @@ https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20Of%20Thrones%208.jpg" group-title="Game Of Thrones", "08x03 - Batalha dos Mortos"
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP03.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20Of%20Thrones%208.jpg" group-title="Game Of Thrones", "08x04 - Inimigos no Norte"
+http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP04.mp4
+
 ################## Grey’s Anatomy ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Grey%92s%20Anatomy1.jpg" group-title="Grey’s Anatomy", "01x01 - Noite de um Dia Duro"
