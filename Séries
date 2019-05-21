@@ -1994,6 +1994,9 @@ http://ori11d.azureedge.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP04.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20Of%20Thrones%208.jpg" group-title="Game Of Thrones", "08x05 - A Guerra dos Tronos"
 http://ori11d.azureedge.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP05.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20Of%20Thrones%208.jpg" group-title="Game Of Thrones", "08x06 - Um Sonho de Primavera"
+http://ori11d.azureedge.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP06.mp4
+
 ################## Grey’s Anatomy ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Grey%92s%20Anatomy1.jpg" group-title="Grey’s Anatomy", "01x01 - Noite de um Dia Duro"
@@ -2991,6 +2994,9 @@ http://ori11d.azureedge.net/RedeCanais/RCServer06/ondemand/GRATT15EP16.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2015.jpg" group-title="Grey’s Anatomy", "15x17 - E Sonho de Ovelhas"
 http://ori11d.azureedge.net/RedeCanais/RCServer06/ondemand/GRATT15EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2015.jpg" group-title="Grey’s Anatomy", "15x18 - Adicione"
+http://ori11d.azureedge.net/RedeCanais/RCServer06/ondemand/GRATT15EP18.mp4
 
 ################## iCarly ########################
 
