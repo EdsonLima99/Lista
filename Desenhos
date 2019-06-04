@@ -7610,16 +7610,16 @@ https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer01/videos/9f6a8e5
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Pica20Pau20Novo.jpg" group-title="Pica Pau", "02x105 - Sei o que Você Fez na Noite Passada"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer01/videos/7d0101ee.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Winnie%20Pica%20Pau.jpg" group-title="Pica Pau", "02x106 - Um Dia No Cabelereiro"
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Winnie%20Pica%20Pau.jpg" group-title="Pica Pau", "03x106 - Um Dia No Cabelereiro"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer01/videos/a6c82505.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Winnie%20Pica%20Pau.jpg" group-title="Pica Pau", "02x116 - Patinando e Trabalhando"
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Winnie%20Pica%20Pau.jpg" group-title="Pica Pau", "03x116 - Patinando e Trabalhando"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer01/videos/1d822ff3.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Knothead%20-%20Splinter.jpg" group-title="Pica Pau", "02x117 - Camping Abutre"
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Knothead%20-%20Splinter.jpg" group-title="Pica Pau", "04x117 - Camping Abutre"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer01/videos/846b9d0f.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Knothead%20-%20Splinter.jpg" group-title="Pica Pau", "02x126 - Deixando a Desejar"
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Knothead%20-%20Splinter.jpg" group-title="Pica Pau", "04x126 - Deixando a Desejar"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer01/videos/7663af2d.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Picolino.jpg" group-title="Pica Pau", "02x127 - Cobertor Elétrico"
@@ -8626,11 +8626,77 @@ https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRTF
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x01 - Choque no Sistema"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP01.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x02 - Depois do Choque"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x03 - A Raça"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x04 - Debaixo da Terra"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x05 - Estão Tocando a Minha Música"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x06 - O Novo Garoto"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x07 - Brincadeira de Criança"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x08 - Filhos dos Pais"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x09 - Júnior"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP09.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x10 - Ventos da Mudança"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP10.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x11 - Perdendo a Forma"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP11.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x12 - Replay"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP12.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque1.jpg" group-title="Super Choque", "01x13 - Fúria"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP13.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x14 - Manchas Solares"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP14.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x15 - Problema ao Quadrado"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP15.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x16 - Ato Entre Irmãos"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP16.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x17 - Super Shaq"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP17.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x18 - Congelado"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP18.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x19 - Má Elasticidade"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP19.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x20 - A Namorada do Papai"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP20.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x21 - Ataque dos Fantoches Vivos"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP21.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x22 - Jogo de Poder"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP22.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x23 - Consequência"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP23.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x24 - As Ligas Profissionais"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP24.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x25 - Jimmy"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP25.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque2.jpg" group-title="Super Choque", "02x26 - Disfarçado"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP26.mp4
@@ -8638,11 +8704,77 @@ https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCH
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x27 - Garras Metálicas"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP27.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x28 - Gear"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP28.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x29 - Super Choque na África"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP29.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x30 - Shebang"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP30.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x31 - O Maior Suspeito"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP31.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x32 - Sua Própria Liga (Parte 1)"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP32.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x33 - Sua Própria Liga (Parte 2)"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP33.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x34 - Hora do Show"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP34.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x35 - Romeu na Briga"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP35.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x36 - Brinquedos à Solta"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP36.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x37 - Armadilha Para os Pais"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP37.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x38 - Flashback"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP38.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque3.jpg" group-title="Super Choque", "03x39 - Voltando ao Passado"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP39.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x40 - Choque do Futuro"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP40.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x41 - Ela Voltou"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP41.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x42 - Fora da África"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP42.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x43 - Herói Caído"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP43.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x44 - Exercito das Trevas"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP44.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x45 - Nenhum Homem é uma Ilha"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP45.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x46 - Esquadra da Cesta"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP46.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x47 - Agora Você Vê Ele"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP47.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x48 - Onde a Borracha Encontra o Asfalto"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP48.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x49 - Ligado"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP49.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x50 - Molhada e Feroz"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP50.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x51 - Sequestrado"
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP51.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Super%20Choque4.jpg" group-title="Super Choque", "04x52 - Racionamento de Energia"
 https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/SPRCHQEP52.mp4
