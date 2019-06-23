@@ -1,5 +1,11 @@
 #EXTM3U
 
+################## 16x14 - RCFServer4 ######################## 
+################## 17x01 - RCFServer3, RCFServer2, RCFServer1 ########################
+
+################## 16x14 - RCServer13, RCServer04, RCServer12, RCServer05, RCServer06, RCServer01, RCServer02, RCServer03 ########################
+################## 17x01 - RCServer09, RCServer10, RCServer11, RCServer07, RCServer08 ########################
+
 ################## Séries ########################
 
 ################## Agents of S.H.I.E.L.D. ########################
@@ -3753,40 +3759,40 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer13/o
 ################## Lucifer ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x01 - Piloto"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP01.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x02 - Lúcifer, Fique. Bom Diabo."
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP02.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP02.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x03 - O Quase Príncipe das Trevas"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP03.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x04 - Atributos"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP04.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP04.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x05 - Sapatos"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP05.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP05.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x06 - Filho Favorito"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP06.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP06.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x07 - Parceiro"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP07.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP07.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x08 - Et Tu, Doutor?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP08.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP08.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x09 - Um Padre Entra no Bar"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP09.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP09.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x10 - Pops"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP10.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP10.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x11 - Santo Lúcifer"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP11.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP11.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x12 - #TimeLucifer"
-http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP12.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP12.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Lucifer1.jpg" group-title="Lucifer", "01x13 - Leve-me de Volta ao Inferno"
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/LCFRT01EP13.mp4
@@ -4612,82 +4618,82 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer10/o
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer10/ondemand/ORGITBT04EP13.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP01.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP02.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP02.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP03.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP04.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP04.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP05.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP05.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP06.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP06.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP07.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP07.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP08.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP08.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP09.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP09.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP10.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP10.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP11.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP11.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x01 - Medo de Ficar por Fora"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP12.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP12.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Orange%20Is%20The%20New%20Black5.jpg" group-title="Orange Is the New Black", "05x13 - Tempo de Tempestade"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP13.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT05EP13.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP01.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP02.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP02.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP03.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP04.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP04.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP05.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP05.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP06.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP06.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP07.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP07.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP08.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP08.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP09.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP09.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP10.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP10.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP11.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP11.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x01 - Quem Sabe Mais do Que Eu?"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP12.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP12.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x13 - Liberte-se"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP13.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/ORGITBT06EP13.mp4
 
 ################## Prison Break ########################
 
@@ -4944,16 +4950,16 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer11/o
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer11/ondemand/PRBKT05EP05.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x06 - Fuga Pelo Deserto"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/PRBKT05EP06.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/PRBKT05EP06.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x07 - Mar Negro"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/PRBKT05EP07.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/PRBKT05EP07.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x08 - Descendência"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/PRBKT05EP08.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/PRBKT05EP08.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x09 - Atrás dos Olhos"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer12/ondemand/PRBKT05EP09.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer12/ondemand/PRBKT05EP09.mp4
 
 ################## Sobrenatural ########################
 
@@ -5852,37 +5858,37 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer08/o
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer08/ondemand/SPNT14EP09.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x10 - Niilismo"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP10.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP10.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x11 - Mercadorias Estragadas"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP11.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP11.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x12 - Profeta e Perda"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP12.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP12.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x13 - Lebanon"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP13.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP13.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x14 - Ouroboros"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP14.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP14.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x15 - Paz de Espírito"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP15.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP15.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x16 - Não Vá Na Floresta"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP16.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP16.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x17 - Noite de Jogo"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP17.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP17.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x18 - Ausência"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP18.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP18.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x19 - Jack Na Caixa"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP19.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP19.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x20 - Moriah"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP20.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer06/ondemand/SPNT14EP20.mp4
 
 ################## The Walking Dead ########################
 
