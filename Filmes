@@ -1,5 +1,11 @@
 #EXTM3U
 
+################## 16x14 - RCFServer4 ######################## 
+################## 17x01 - RCFServer3, RCFServer2, RCFServer1 ########################
+
+################## 16x14 - RCServer13, RCServer04, RCServer12, RCServer05, RCServer06, RCServer01, RCServer02, RCServer03 ########################
+################## 17x01 - RCServer09, RCServer10, RCServer11, RCServer07, RCServer08 ########################
+
 ################## Filmes ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/101%20Dalmatas1.jpg", "101 Dálmatas: A Guerra dos Dálmatas "
@@ -351,10 +357,10 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCFServer4/o
 http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCFServer4/ondemand/ASMLPLVRS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Billy%20e%20Mandy%20A%20Ira%20da%20Aranha-Rainha.jpg", "As Terríveis Aventuras De Billy e Mandy - Filme: A Ira da Aranha-Rainha"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer04/ondemand/ATADBMFAIDAR.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer04/ondemand/ATADBMFAIDAR.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Billy%20e%20Mandy%20Contra%20o%20Bicho%20Papao.jpg", "As Terríveis Aventuras De Billy e Mandy - Filme: Contra o Bicho Papão"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer04/ondemand/ATADBMFCOBP.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer04/ondemand/ATADBMFCOBP.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/AssassinS%20Creed.jpg", "Assassin's Creed"
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4
@@ -651,58 +657,58 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCFServer4/o
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer3/ondemand/DBFILME01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2002%20-%20A%20Bela%20Adormecida%20do%20Castelo%20Amaldi%C3%A7oado.jpg", "Dragon Ball - Filme 02 - A Bela Adormecida do Castelo Amaldiçoado "
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBFILME02.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBFILME02.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2003%20-%20A%20Aventura%20M%C3%ADstica.jpg", "Dragon Ball - Filme 03 - A Aventura Mística"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBFILME03.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBFILME03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2004%20-%20Em%20Busca%20do%20Poder.jpg", "Dragon Ball - Filme 04 - Em Busca do Poder"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBFILME04.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBFILME04.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20GT%20-%20O%20Legado%20de%20um%20Heroi.jpg", "Dragon Ball GT (Legendado) - Filme 01 - O Legado de um Heroi"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBGTLEGFILME1.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBGTLEGFILME1.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dragon%20Ball%20Super%20-%20Broly.jpg", "Dragon Ball Super: Broly"
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer2/ondemand/DBSPRBRLY.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2001%20-%20Devolva-me%20Gohan.jpg", "Dragon Ball Z - Filme 01 - Devolva-me Gohan"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME01.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 02 - O Homem Mais Forte do Mundo"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME02.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME02.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 03 - A Árvore do Poder"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME03.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 04 - Goku, o Super Sayajin"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME04.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME04.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 05 - Uma Vingança para Freeza"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME05.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME05.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 06 - O Retorno de Coola"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME06.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME06.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 07 - O Retorno dos Andróides"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME07.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME07.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 08 - O Poder Invencível"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME08.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME08.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 09 - A Batalha Nos Dois Mundos"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME09.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME09.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 10 - O Retorno do Guerreiro Lendário"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME10.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME10.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 11 - O Combate Final: Bio-Broly"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME11.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME11.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 12 - Uma Nova Fusão! Goku e Vegeta"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME12.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME12.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z%20Filmes.jpg", "Dragon Ball Z - Filme 13 - O Ataque do Dragão"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME13.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/DBZFILME13.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Dragon%20Ball%20Z%20Batalha%20dos%20Deuses.jpg", "Dragon Ball Z - Filme 14 - A Batalha dos Deuses"
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer1/ondemand/DBZFILME14.mp4
@@ -978,10 +984,10 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer3/o
 http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCFServer4/ondemand/IBZTDPLDJ.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Inazuma%20Eleven%20Filme%20O%20Mais%20Forte%20do%20Exercito%20Ogro%20Ataca.jpg", "Inazuma Eleven (Legendado) - Filme 01 - O Mais Forte do Exercito Ogro Ataca"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer03/ondemand/INZMELVMOMFDEOA.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer03/ondemand/INZMELVMOMFDEOA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Inazuma%20Eleven%20GO%20Filme%20O%20V%C3%ADnculo%20Perfeito%20do%20Grifo.jpg", "Inazuma Eleven GO (Legendado) - Filme 01 - O Vínculo Perfeito do Grifo"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer03/ondemand/INZMELVGOMVOVPDG.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer03/ondemand/INZMELVGOMVOVPDG.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Infiltrado%20na%20Klan.jpg", "Infiltrado na Klan"
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer2/ondemand/INFLDONKLN.mp4
@@ -1263,28 +1269,28 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCFServer4/o
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer09/ondemand/NRTOFILME01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/NarutoFilme01.jpg", "Naruto Clássico (Legendado) - Filme 01 - Crônicas Ninjas da Princesa da Neve"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/c45a807a.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/c45a807a.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Naruto%20Filme02.jpg", "Naruto Clássico (Legendado) - Filme 02 - Grande Colisão! As Fantásticas Ruínas das Profundezas!"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/393736fb.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/393736fb.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Naruto%20Filme03.png", "Naruto Clássico (Legendado) - Filme 03 - A Revolta dos Animais da Ilha da Lua Crescente!"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/d63109a8.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/d63109a8.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Naruto%20Shippuden%20Filme%2001.jpg", "Naruto Shippuden (Legendado) - Filme 01 - A Morte de Naruto!"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/971d2140.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/971d2140.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Naruto%20Shippuden%20Filme%2002.jpg", "Naruto Shippuden (Legendado) - Filme 02 - Laços"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/4c194536.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/4c194536.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Naruto%20Shippuuden%20Filme%2003.jpg", "Naruto Shippuden (Legendado) - Filme 03 - Herdeiros da Determinação do Fogo"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/972d3e5f.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/972d3e5f.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Naruto%20Shippuden%20Filme%2004.jpg", "Naruto Shippuden (Legendado) - Filme 04 - Torre Perdida"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/935d8edf.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/935d8edf.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Naruto%20Shippuden%20Filme%2005.jpg", "Naruto Shippuden (Legendado) - Filme 05 - A Prisão de Sangue"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/dbccaf0f.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/dbccaf0f.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Naurto%20Shippuden%20Filme6.jpg", "Naruto Shippuden (Legendado) - Filme 06 - Caminho para o Ninja"
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer1/ondemand/NRTOSHPFILME06.mp4
@@ -2199,10 +2205,10 @@ http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCFServer4/o
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer3/ondemand/XMEN04.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Yu-Gi-Oh%20Filme%2010%20Anos.jpg", "Yu-Gi-OH! - Filme - 10th Anniversary (Legendado)"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/cba9c3c2.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/cba9c3c2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Yu-Gi-Oh%20Filme01.jpg", "Yu-Gi-OH!: Duel Monsters - Filme - Piramide da Luz"
-http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCServer01/videos/539c897b.mp4
+http://wpc.b6230.thetacdn.net/80B6230/cdn1.ddelivery.top/RedeCanais/RCServer01/videos/539c897b.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Yu-Gi-Oh!%20-%20O%20Lado%20Negro%20das%20Dimens%C3%B5es.jpg", "Yu-Gi-Oh!: O Lado Negro das Dimensões"
 http://wpc.b6230.thetacdn.net/80B6230/cdn2.ddelivery.top/RedeCanais/RCFServer3/ondemand/YUGIOHOLDONGRDSDMSOES.mp4
