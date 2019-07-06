@@ -4,9 +4,6 @@
 
 ################## Absolute Duo (Legendado) ########################
 
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="https://static.psrv.io/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
-https://d23rjiks3a9j1h.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTkgOTowNDoyMCBQTSZoYXNoX3ZhbHVlPVdlcGcrN0JHQUgyckNiM2IrOGZxSXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Absolute%20Duo.jpg" group-title="Absolute Duo (Legendado)", "01x01 - Chama (Legendado)"
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer10/ondemand/ABSLTDUOEP01.mp4
 
