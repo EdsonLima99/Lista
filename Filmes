@@ -8,6 +8,9 @@
 
 ################## Filmes ########################
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/2%20Velozes%202%20Furiosos.jpg", "+ Velozes + Furiosos"
+http://entrega2.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS02.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/12%20Horas%20Para%20Sobreviver%20-%20O%20Ano%20da%20Elei%C3%A7%C3%A3o.jpg", "12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3"
 http://entrega2.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer3/ondemand/UMNTDCRM3.mp4
 
@@ -3040,6 +3043,12 @@ http://entrega1.global.ssl.fastly.net/RedeCanais/RCFServer4/ondemand/VLRIANEACDE
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Valiant%20-%20Um%20Her%C3%B3i%20que%20Vale%20a%20Pena.jpg", "Valiant: Um Herói que Vale a Pena"
 http://entrega1.global.ssl.fastly.net/RedeCanais/RCFServer4/ondemand/VALNTUMHRQVLEAPENA.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Velozes%20e%20Furiosos.jpg", "Velozes & Furiosos"
+http://entrega2.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Velozes%20e%20Furiosos%20-%20Desafio%20em%20T%C3%B3quio.jpg", "Velozes & Furiosos: Desafio em Tóquio"
+http://entrega2.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Velozes%20e%20Furiosos%204.jpg", "Velozes & Furiosos 4"
 http://entrega2.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS04.mp4
