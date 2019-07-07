@@ -3,16 +3,37 @@
 ################## Filmes e Séries ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/FX.jpg" group-title="Filmes e Séries", "FX"
-
+https://dqrlo08fv7y4w.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgNjo0NDoxOCBQTSZoYXNoX3ZhbHVlPUVJZWZRT1ZiaGp4cFd3NmhTS3RqRnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/paramount.jpg" group-title="Filmes e Séries", "Paramount Channel"
-https://d23rjiks3a9j1h.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTkgOToxNjozMyBQTSZoYXNoX3ZhbHVlPTdEYjRPOTBVUm1JWmVUYW00ZFJ5SUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://dqrlo08fv7y4w.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTkgOToxNjozMyBQTSZoYXNoX3ZhbHVlPTdEYjRPOTBVUm1JWmVUYW00ZFJ5SUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Space.jpg" group-title="Filmes e Séries", "Space"
+----------
 
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/StudioUniversal.jpg" group-title="Filmes e Séries", "*Studio Universal*"
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/StudioUniversal.jpg" group-title="Filmes e Séries", "Studio Universal"
 ----------
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/syfy.jpg" group-title="Filmes e Séries", "Syfy"
-https://d23rjiks3a9j1h.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTkgOToxOTo0NiBQTSZoYXNoX3ZhbHVlPVpzdnA3Yk4yT2ZZSmpZUkpmeklSVkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://dqrlo08fv7y4w.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTkgOToxOTo0NiBQTSZoYXNoX3ZhbHVlPVpzdnA3Yk4yT2ZZSmpZUkpmeklSVkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinecult.jpg" group-title="Filmes e Séries", "Telecine Cult"
+----------
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinefun.jpg" group-title="Filmes e Séries", "Telecine Fun"
+----------
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinepipoca.jpg" group-title="Filmes e Séries", "Telecine Pipoca"
+----------
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tnt.jpg" group-title="Filmes e Séries", "TNT"
+----------
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tntseries.jpg" group-title="Filmes e Séries", "TNT Series"
+----------
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/universal.jpg" group-title="Filmes e Séries", "Universal Channel"
+----------
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/warner.jpg" group-title="Filmes e Séries", "Warner TV"
+----------
