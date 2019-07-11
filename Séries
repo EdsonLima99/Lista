@@ -4138,6 +4138,9 @@ http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/MNTEADGAT02
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x03 - Eus da Sombra"
 http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/MNTEADGAT02EP03.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x04 - Toca do Coelho"
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/MNTEADGAT02EP04.mp4
+
 ################## Mr. Robot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mr.%20Robot1.jpg" group-title="Mr. Robot", "01x01 - eps1.0_oiamigo.mov"
