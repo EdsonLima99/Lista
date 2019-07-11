@@ -4274,6 +4274,9 @@ http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer09/ondemand/BOBESPJEP34
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Bob%20Esponja11.jpg" group-title="Bob Esponja", "11x442 - Limonada De Tinta"
 http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/BOBESPJEP442.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Bob%20Esponja11.jpg" group-title="Bob Esponja", "11x459 - Cidade Das Bolhas"
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/BOBESPJEP459.mp4
+
 ################## BoJack Horseman ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/BoJack%20Horseman1.jpg" group-title="BoJack Horseman", "01x01 - A História do BoJack Horseman, Capítulo Um"
@@ -7647,6 +7650,12 @@ http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/OSMPST30EP1
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Simpsons%2030.jpg" group-title="Os Simpsons", "30x13 - Gordançando Como Louco"
 http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/OSMPST30EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Simpsons%2030.jpg" group-title="Os Simpsons", "30x14 - O Show do Palhaço Não Pode Parar"
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/OSMPST30EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Simpsons%2030.jpg" group-title="Os Simpsons", "30x15 - As 101 Mitigações"
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/OSMPST30EP15.mp4
 
 ################## Paradise PD ########################
 
