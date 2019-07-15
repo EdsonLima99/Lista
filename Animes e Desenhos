@@ -9111,8 +9111,14 @@ http://d3mdp6ybs0958.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/0e4e
 
 ################## Zatch Bell ########################
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Zatch%20Bell%20Capa.jpg" group-title="Zatch Bell", "01x01 - O Garoto Relâmpago do Mundo dos Demônios"
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Zatch%20Bell1.JPG" group-title="Zatch Bell", "01x01 - O Garoto Relâmpago do Mundo dos Demônios"
 http://d3mdp6ybs0958.cloudfront.net/RedeCanais/RedeCanais/RCServer03/ondemand/ZTCHBLEP001.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Zatch%20Bell%20Capa.jpg" group-title="Zatch Bell", "02x51 - Sob Ataque!! O Demônio Mascarado, Lord"
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Zatch%20Bell1.JPG" group-title="Zatch Bell", "01x02 - Feitiço de Gelo, Gikoru vs Zakeru"
+http://d3mdp6ybs0958.cloudfront.net/RedeCanais/RedeCanais/RCServer03/ondemand/ZTCHBLEP002.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Zatch%20Bell1.JPG" group-title="Zatch Bell", "01x50 - Invocação! A Sexta Magia, Rauzaruku!!"
+http://d3mdp6ybs0958.cloudfront.net/RedeCanais/RedeCanais/RCServer03/ondemand/ZTCHBLEP050.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Zatch%20Bell2.jpg" group-title="Zatch Bell", "02x51 - Sob Ataque!! O Demônio Mascarado, Lord"
 http://d3mdp6ybs0958.cloudfront.net/RedeCanais/RedeCanais/RCServer03/ondemand/ZTCHBLEP051.mp4
