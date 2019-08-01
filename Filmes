@@ -599,6 +599,9 @@ http://roda8081.azureedge.net/RCFServer2/ondemand/AUSTRLIA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Avatar.jpg", "Avatar"
 http://roda8081.azureedge.net/RCFServer1/ondemand/AVTR.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Axl%20-%20O%20C%C3%A3o%20Rob%C3%B4.jpg", "Axl: O Cão Robô"
+http://roda8081.azureedge.net/RCFServer1/ondemand/AXLOCAORBO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Bad%20Boys1.jpg", "Bad Boys"
 http://roda8081.azureedge.net/RCFServer1/ondemand/BDBYS1.mp4
 
