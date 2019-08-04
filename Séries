@@ -4197,6 +4197,15 @@ http://roda8080.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP03.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x04 - Toca do Coelho"
 http://roda8080.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP04.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x05 - Gráfico de Alinhamento"
+http://roda8080.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x06 - Lados B"
+http://roda8080.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x07 - Som de Vikingtown"
+http://roda8080.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP07.mp4
+
 ################## Mr. Robot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mr.%20Robot1.jpg" group-title="Mr. Robot", "01x01 - eps1.0_oiamigo.mov"
@@ -4897,6 +4906,45 @@ http://roda8080.azureedge.net/RCServer12/ondemand/ORGITBT06EP12.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Orange%20Is%20the%20New%20Black6.jpg" group-title="Orange Is the New Black", "06x13 - Liberte-se"
 http://roda8080.azureedge.net/RCServer12/ondemand/ORGITBT06EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x01 - O Começo do Fim"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Orange%20Is%20The%20New%20Black%207.jpg" group-title="Orange Is the New Black", "07x13 - Despedidas e Recomeços"
+http://roda8080.azureedge.net/RCServer06/ondemand/ORGITBT07EP13.mp4
 
 ################## Olhos que Condenam ########################
 
