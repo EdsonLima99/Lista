@@ -4277,6 +4277,9 @@ http://roda8080.azureedge.net/RCServer06/ondemand/BOBESPJEP442.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Bob%20Esponja11.jpg" group-title="Bob Esponja", "11x459 - Cidade Das Bolhas"
 http://roda8080.azureedge.net/RCServer06/ondemand/BOBESPJEP459.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Especial%20de%20Anivers%C3%A1rio%20do%20Bob%20Esponja.jpg" group-title="Bob Esponja", "Especial de Aniversário do Bob Esponja"
+http://roda8080.azureedge.net/RCServer06/ondemand/BOBESPJESPANVSRIO.mp4
+
 ################## BoJack Horseman ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/BoJack%20Horseman1.jpg" group-title="BoJack Horseman", "01x01 - A História do BoJack Horseman, Capítulo Um"
