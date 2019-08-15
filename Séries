@@ -4232,6 +4232,9 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP06.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x07 - Som de Vikingtown"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP07.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x08 - Dois Jogadores"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP08.mp4
+
 ################## Mr. Robot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mr.%20Robot1.jpg" group-title="Mr. Robot", "01x01 - eps1.0_oiamigo.mov"
@@ -4985,6 +4988,80 @@ http://cdnfe2.azureedge.net/RCServer03/ondemand/OLHSQCNDMT01EP03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Olhos%20que%20Condenam%201.jpg" group-title="Olhos que Condenam", "01x04 - Parte 4"
 http://cdnfe2.azureedge.net/RCServer03/ondemand/OLHSQCNDMT01EP04.mp4
+
+################## Peaky Blinders ########################
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%201.jpg" group-title="Peaky Blinders", "01x01"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%201.jpg" group-title="Peaky Blinders", "01x02"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%201.jpg" group-title="Peaky Blinders", "01x03"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%201.jpg" group-title="Peaky Blinders", "01x04"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%201.jpg" group-title="Peaky Blinders", "01x05"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%201.jpg" group-title="Peaky Blinders", "01x06"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%202.jpg" group-title="Peaky Blinders", "02x01"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%202.jpg" group-title="Peaky Blinders", "02x02"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT02EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%202.jpg" group-title="Peaky Blinders", "02x03"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT02EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%202.jpg" group-title="Peaky Blinders", "02x04"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT02EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%202.jpg" group-title="Peaky Blinders", "02x05"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT02EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%202.jpg" group-title="Peaky Blinders", "02x06"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT02EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%203.jpg" group-title="Peaky Blinders", "03x01"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT03EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%203.jpg" group-title="Peaky Blinders", "03x02"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT03EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%203.jpg" group-title="Peaky Blinders", "03x03"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT03EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%203.jpg" group-title="Peaky Blinders", "03x04"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT03EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%203.jpg" group-title="Peaky Blinders", "03x05"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT03EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%203.jpg" group-title="Peaky Blinders", "03x06"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT03EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%204.jpg" group-title="Peaky Blinders", "04x01 - A Forca"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT04EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%204.jpg" group-title="Peaky Blinders", "04x02 - Bárbaros"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT04EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%204.jpg" group-title="Peaky Blinders", "04x03 - Questão de Segurança Nacional"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT04EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%204.jpg" group-title="Peaky Blinders", "04x04 - Perigo à Vista"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT04EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%204.jpg" group-title="Peaky Blinders", "04x05 - À Revolução!"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT04EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%204.jpg" group-title="Peaky Blinders", "04x06 - À Paz!"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT04EP06.mp4
 
 ################## Prison Break ########################
 
@@ -6232,6 +6309,38 @@ http://cdnfe2.azureedge.net/RCServer04/ondemand/THEBOST01EP07.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Boys%201.jpg" group-title="The Boys", "01x08 - Você Me Encontrou"
 http://cdnfe2.azureedge.net/RCServer04/ondemand/THEBOST01EP08.mp4
+
+################## The Umbrella Academy ########################
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x01 - A Gente Só Se Encontra Em Casamentos E Funerais"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x02 - Corre, Cara, Corre"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x03 - Comum (Só Que Não)"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x04 - Sentado Na Lua"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x05 - Número Cinco"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x06 - O Dia Que Não Aconteceu"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x07 - O Dia Que Aconteceu"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x08 - Ouvi Um Boato"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x09 - Mudanças"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Umbrella%20Academy%201.jpg" group-title="The Umbrella Academy", "01x10 - O Violino Branco"
+http://cdnfe2.azureedge.net/RCServer04/ondemand/THUMBRLACDMYT01EP10.mp4
 
 ################## The Walking Dead ########################
 
