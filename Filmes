@@ -1139,6 +1139,9 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/ELKTRA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Em%20Busca%20do%20Baile.jpg", "Em Busca do Baile"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/EMBSCDBLE.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Em%20Busca%20do%20Vale%20Encantado.jpg", "Em Busca do Vale Encantado"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/EMBSCDVLENCTDO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Em%20Ritmo%20De%20Fuga.jpg", "Em Ritmo de Fuga"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/EMRTMDFG.mp4
 
@@ -1757,8 +1760,11 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/LOGN.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Looney%20Tunes%20-%20De%20Volta%20%C3%A0%20A%C3%A7%C3%A3o.jpg", "Looney Tunes: De Volta à Ação"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/LONEYTNSDVLTACO.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Lucas%20-%20Um%20Intruso%20no%20Formigueiro.jpg", "Lucas, Um Intruso no Formigueiro "
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Lucas%20-%20Um%20Intruso%20no%20Formigueiro.jpg", "Lucas, Um Intruso no Formigueiro"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/LCSUMINTRSONFRMGRO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Lutando%20Pela%20Fam%C3%ADlia.jpg", "Lutando Pela Família"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/LTNDPLFMLIA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mad%20Max%20-%20Estrada%20da%20F%C3%BAria.jpg", "Mad Max: Estrada da Fúria"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/MDMXESTDFUR.mp4
@@ -1903,6 +1909,9 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/MSAOIMPSVEL05.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Miss%C3%A3o%20Imposs%C3%ADvel4.jpg", "Missão Impossível: Protocolo Fantasma"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MSAOIMPSVEL04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20no%20Mar%20Vermelho.jpg", "Missão no Mar Vermelho"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MSAONMRVRMLHO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Moana%20-%20Um%20Mar%20de%20Aventuras.jpg", "Moana: Um Mar de Aventuras"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/MONUMRDAVTRA.mp4
