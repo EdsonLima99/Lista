@@ -4238,6 +4238,9 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP08.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x09 - Nota Azul"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP09.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x10 - Subir de Nível"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP10.mp4
+
 ################## Mr. Robot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mr.%20Robot1.jpg" group-title="Mr. Robot", "01x01 - eps1.0_oiamigo.mov"
