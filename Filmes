@@ -338,6 +338,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/AGUSRAS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Aladdin.jpg", "Aladdin"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ALDN.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Aladdin%202019.jpg", "Aladdin"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALDN.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Aladdin%20e%20os%2040%20Ladr%C3%B5es.jpg", "Aladdin e os 40 Ladrões"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ALDNEOS40LDRS.mp4
 
@@ -682,6 +685,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/BLTSPRCAO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bonga,%20O%20Vagabundo.jpg", "Bonga, O Vagabundo"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/BNGOVGBNDO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bons%20de%20Bico.jpg", "Bons de Bico"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/BNSDBICO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Boruto%20-%20Naruto%20The%20Movie.jpg", "Boruto: Naruto the Movie (Legendado)"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/NRTOSHPFILME08.mp4
@@ -1520,6 +1526,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/HONY3.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Hop%20Rebeldes%20sem%20P%C3%A1scoa.jpg", "Hop: Rebelde Sem Páscoa"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/HOPRBLSPSC.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Horton%20e%20o%20Mundo%20dos%20Quem.jpg", "Horton e o Mundo dos Quem"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRTONEOMNDODQUM.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Hot%20Wheels%20-%20AcceleRacers%20-%20A%20Corrida%20Final.jpg", "Hot Wheels: AcceleRacers: A Corrida Final"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/HTWLSACRDFNL.mp4
 
@@ -1670,6 +1679,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/DVLTAOJG.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/John%20Wick%20-%20Um%20Novo%20Dia%20Para%20Matar.jpg", "John Wick: Um Novo Dia Para Matar"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/JHNWCKUMNVDIAPRMTR.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/John%20Wick%203%20-%20Parabellum.jpg", "John Wick 3: Parabellum"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/JHNWCK3.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Johnny%20English.jpg", "Johnny English"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/JHNYENGLSH.mp4
 
@@ -1789,6 +1801,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/LCSUMINTRSONFRMGRO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Lutando%20Pela%20Fam%C3%ADlia.jpg", "Lutando Pela Família"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/LTNDPLFMLIA.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mac%20e%20Devin%20V%C3%A3o%20Para%20a%20Escola.jpg", "Mac e Devin Vão Para a Escola"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MACEDVNVPRAESCLA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mad%20Max%20-%20Estrada%20da%20F%C3%BAria.jpg", "Mad Max: Estrada da Fúria"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/MDMXESTDFUR.mp4
@@ -2078,6 +2093,9 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/OBOMDINO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Bom%20Filho%20%C3%A0%20Casa%20Torna.jpg", "O Bom Filho à Casa Torna"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OBMFLHACSTRN.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Caminho%20para%20El%20Dorado.jpg", "O Caminho para El Dorado"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OCMNHPRELDORDO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Candidato%20Honesto.jpg", "O Candidato Honesto"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OCNDDTHNST.mp4
 
@@ -2203,6 +2221,12 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/OEXTRMDRDFUT2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Exterminador%20do%20Futuro3.jpg", "O Exterminador do Futuro 3: A Rebelião das Máquinas"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OEXTRMDRDFUT03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Fada%20do%20Dente.jpg", "O Fada do Dente"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OFADSDNTS.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Fada%20do%20Dente%202.jpg", "O Fada do Dente 2"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OFADSDNTS2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Filho%20de%20Chucky.jpg", "O Filho de Chucky"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OFLHDCHCKY.mp4
@@ -3364,6 +3388,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/TRQDMSTR.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Truque%20de%20Mestre%202.jpg", "Truque de Mestre: O Segundo Ato"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/TRQDMSTR2.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Turbo.jpg", "Turbo"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/TRBO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Turbo%20-%20Power%20RangerS%202.jpg", "Turbo: Power Rangers 2"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/TRBOPWRNGRS2.mp4
