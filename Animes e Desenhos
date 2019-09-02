@@ -6392,6 +6392,9 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/MRPCKLST02EP09.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Mr.%20Pickles2.jpg" group-title="Mr. Pickles", "02x10 - Fim da 2ª Temporada"
 http://cdnfe2.azureedge.net/RCServer13/ondemand/MRPCKLST02EP10.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Mr.%20Pickles%203.jpg" group-title="Mr. Pickles", "03x01 - Download Cerebral"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MRPCKLST03EP01.mp4
+
 ################## Nanatsu no Taizai / Os Sete Pecados Capitais / The Seven Deadly Sins ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Os%20Sete%20Pecados%20Capitais%20Capa.jpg" group-title="Nanatsu no Taizai / Os Sete Pecados Capitais / The Seven Deadly Sins", "01x01 - Os Sete Pecados Capitais"
