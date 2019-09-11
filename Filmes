@@ -44,6 +44,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/AAUTSPS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Barraca%20do%20Beijo.jpg", "A Barraca do Beijo"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ABARCDBJ.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Batalha%20de%20Riddick.jpg", "A Batalha de Riddick"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ABTLHDRDCK.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Bela%20Adormecida.jpg", "A Bela Adormecida"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ABLADRMCDA.mp4
 
@@ -527,6 +530,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASCRNCSDNRNOLEAFETEOGRDRP.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Cr%C3%B4nicas%20de%20N%C3%A1rnia%20-%20Pr%C3%ADncipe%20Caspian.jpg", "As Crônicas de Nárnia: Príncipe Caspian"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASCRNCSDNRNPRNCPCASPAN.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/As%20Cr%C3%B4nicas%20de%20Riddick%20-%20Eclipse%20Mortal.jpg", "As Crônicas de Riddick: Eclipse Mortal"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ASCRNCDRDCKECLPSMRTL.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Cr%C3%B4nicas%20de%20Spiderwick.jpg", "As Crônicas de Spiderwick"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASCRNCSDSPRWCK.mp4
 
@@ -595,6 +601,12 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/ATVDADPRNRML3.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Atividade%20Paranormal4.jpg", "Atividade Paranormal 4"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ATVDADPRNRML4.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Atlantis%20-%20O%20Reino%20Perdido.jpg", "Atlantis: O Reino Perdido"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ATNTSORNOPRDO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Atlantis%20-%20O%20Retorno%20de%20Milo.jpg", "Atlantis: O Retorno de Milo"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ATNDOAOHTLTJMHL.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Austin%20Powers%20em%20o%20Homem%20do%20Membro%20de%20Ouro.jpg", "Austin Powers em O Homem do Membro de Ouro"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/AUSTNPWRSEOHMDMDO.mp4
@@ -2009,6 +2021,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/MLHRMRVLHA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mussum%20-%20Um%20Filme%20do%20Cacildis.jpg", "Mussum: Um Filme do Cacildis"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MSUMFLMDCACLDS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/My%20Hero%20Academia%20-%202%20Her%C3%B3is%20-%20O%20Filme.jpg", "My Hero Academia: 2 Heróis: O Filme"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MYHRACDM2HRSOFLM.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Na%20Batida%20do%20Cora%C3%A7%C3%A3o.jpg", "Na Batida do Coração"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/NABTDCRCAO.mp4
 
@@ -2020,6 +2035,9 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/NOLH.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/N%C3%A3o%20Vai%20Dar.jpg", "Não Vai Dar"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/NVAIDA.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/N%C3%A3o%20Vai%20Ter%20Golpe.jpg", "Não Vai Ter Golpe"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/NVATRGLPE.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Naruto%20Filme1.jpg", "Naruto Clássico - Filme 01 - Confronto Ninja no País da Neve"
 http://cdnfe3.azureedge.net/RCServer09/ondemand/NRTOFILME01.mp4
@@ -2243,6 +2261,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/OGLNHCHKNLT.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/O%20Grande%20Dave.jpg", "O Grande Dave"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OGRNDVE.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Grande%20Drag%C3%A3o%20Branco.jpg", "O Grande Dragão Branco"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OGRNDRGBRNCO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Grande%20Mentiroso.jpg", "O Grande Mentiroso"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OGRNDMENTRSO1.mp4
 
@@ -2450,6 +2471,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/OSNHRDSANSORTNDREI.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20S%C3%A9timo%20Filho.jpg", "O Sétimo Filho"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSTMFLH.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Sexto%20Sentido.jpg", "O Sexto Sentido"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSXTSNTDO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/The%20Silence.jpg", "O Silêncio: The Silence"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/THSLCNCE.mp4
 
@@ -2506,6 +2530,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/ONGBK2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Ong%20Bak%203.jpg", "Ong Bak 3"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ONGBK3.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Opera%C3%A7%C3%A3o%20Bab%C3%A1.jpg", "Operação Babá"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OPRCBAB.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Opera%C3%A7%C3%A3o%20Big%20Hero.jpg", "Operação Big Hero"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OPRCBGHRO.mp4
@@ -2935,6 +2962,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/REVIL05.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Resident%20Evil%206%20-%20O%20Cap%C3%ADtulo%20Final.jpg", "Resident Evil 6: O Capítulo Final"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/REVIL06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Riddick%203.jpg", "Riddick 3"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/RDCK3.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rio.jpg", "Rio"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/RIO.mp4
@@ -3577,6 +3607,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/XMENAPCLPSE.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/X-Men%20-%20Dias%20de%20um%20Futuro%20Esquecido.jpg", "X-Men: Dias de um Futuro Esquecido"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/XMEN07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/X-Men%20-%20F%C3%AAnix%20Negra.jpg", "X-Men: Fênix Negra"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/XMENFNXNGRA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/X-Men%20-%20O%20Confronto%20Final.jpg", "X-Men: O Confronto Final"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/XMEN03.mp4
