@@ -41,6 +41,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/A5OND.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Autopsia.jpg", "A Autópsia"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AAUTSPS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20do%20B.O.B..jpg", "A Balada do B.O.B."
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ABLADOBOB.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Barraca%20do%20Beijo.jpg", "A Barraca do Beijo"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ABARCDBJ.mp4
 
@@ -226,6 +229,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/AMUM.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20M%C3%BAmia%20-%20Tumba%20do%20Imperador%20Drag%C3%A3o.jpg", "A Múmia: Tumba do Imperador Dragão"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AMUMIATMBDIMPRDDRG.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Noite%20das%20Cenouras%20Vivas.jpg", "A Noite das Cenouras Vivas"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ANTDSCNRSVIVS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Noite%20do%20Jogo.jpg", "A Noite do Jogo"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ANTDJGO.mp4
@@ -1916,6 +1922,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/MEUNMETYLR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/MIB%20-%20Homens%20de%20Preto1.jpg", "MIB: Homens de Preto"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRT01.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/MIB%20-%20Homens%20de%20Preto%20Internacional.jpg", "MIB: Homens de Preto - Internacional"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRTINTER.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/MIB%20-%20Homens%20de%20Preto2.jpg", "MIB: Homens de Preto 2"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRT02.mp4
 
@@ -1984,6 +1993,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/MNSTRSA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Monstros%20Vs.%20Alien%C3%ADgenas.jpg", "Monstros Vs. Alienígenas"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/MNSTRSVSALIEN.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Monstros%20vs.%20Alien%C3%ADgenas%20-%20Ab%C3%B3boras%20Mutantes%20do%20Espa%C3%A7o.jpg", "Monstros vs. Alienígenas: Abóboras Mutantes do Espaço"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MNSTRSVSALIENABRSMTNTSDEPCO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Moonlight%20-%20Sob%20a%20Luz%20do%20Luar.jpg", "Moonlight: Sob a Luz do Luar"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/MONLGHTSBLZDLR.mp4
