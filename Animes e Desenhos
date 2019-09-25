@@ -5597,6 +5597,36 @@ http://cdnfe3.azureedge.net/RCServer07/ondemand/DESCNTOT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%201.jpg" group-title="(Des)encanto", "01x10 - Ataque á Terra dos Sonhos"
 http://cdnfe3.azureedge.net/RCServer07/ondemand/DESCNTOT01EP10.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x01 - A (Des)encantadora"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x02 - Escadaria Para o Inferno"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x03 - Aquela Coisa"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x04 - O Coração Solitário é Caçador"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x05 - Nossos Corpos, Nossos Elfos"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x06 - Missão Terra dos Sonhos"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x07 - O Abraço Gosmento do Amor"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x08 - Desigualdade de Direitos"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x09 - A Princesa Elétrica"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/(Des)encanto%202.jpg" group-title="(Des)encanto", "02x10 - A Princesa Acusada"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DESCNTOT02EP10.mp4
+
 ################## Digimon Frontier ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Digimon%20Frontier.jpg" group-title="Digimon Frontier", "01x01 - O Guerreiro Lendário, Agnimon do Fogo"
@@ -6155,6 +6185,32 @@ http://cdnfe2.azureedge.net/RCServer04/ondemand/INVSZIMEP01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Invasor%20Zim.jpg" group-title="Invasor Zim", "01x46 - O Mestre Cuca que Veio do Espaço"
 http://cdnfe2.azureedge.net/RCServer04/ondemand/INVSZIMEP46.mp4
+
+################## Johnny Bravo ########################
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Johnny%20Bravo%201.jpg" group-title="Johnny Bravo", "01x01 - O Grande Livro do Coelhinho / Enfrentando o Esquilo / Frankie Bravo"
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Johnny%20Bravo%201.jpg" group-title="Johnny Bravo", "01x10 - Tratamento Intensivo"
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Johnny%20Bravo%202.jpg" group-title="Johnny Bravo", "02x01 - O Grande Livro do Coelhinho / Enfrentando o Esquilo / Frankie Bravo"
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Johnny%20Bravo%202.jpg" group-title="Johnny Bravo", "02x25 - Johnny Deus Trovão"
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP25.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Johnny%20Bravo%203.jpg" group-title="Johnny Bravo", "03x01 - O Grande Livro do Coelhinho / Enfrentando o Esquilo / Frankie Bravo"
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Johnny%20Bravo%203.jpg" group-title="Johnny Bravo", "03x35 - O Projeto da Bruxa de João e Maria / Johnny Q.I. / Pegue o Fedorento"
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP35.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Johnny%20Bravo%204.jpg" group-title="Johnny Bravo", "04x01 - O Grande Livro do Coelhinho / Enfrentando o Esquilo / Frankie Bravo"
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Johnny%20Bravo%204.jpg" group-title="Johnny Bravo", "04x09 - Antes e Depois"
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP09.mp4
 
 ################## Kakegurui: Compulsive Gambler ########################
 
@@ -7445,6 +7501,12 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/JVNSTNSEMACOT05EP14.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x21 - O Presidente é um Gênio"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/JVNSTNSEMACOT05EP21.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x34 - Super Acampamento de Verão dos Heróis: Piratas da Floresta"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP34.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x35 - Super Acampamento de Verão dos Heróis: O Bergerac"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP35.mp4
 
 ################## Os Padrinhos Mágicos ########################
 
