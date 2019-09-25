@@ -482,6 +482,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/ANBL.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Annabelle%202%20-%20A%20Cria%C3%A7%C3%A3o%20do%20Mal.jpg", "Annabelle 2: A Criação do Mal"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ANBL2ACRCDML.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Annabelle%203%20-%20De%20Volta%20para%20Casa.jpg", "Annabelle 3: De Volta para Casa"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Anoitecer%20Violento.jpg", "Anoitecer Violento"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ANTCRVLNT1.mp4
 
@@ -643,6 +646,12 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/BMBI.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bambi%202.jpg", "Bambi 2: O Grande Príncipe da Floresta"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/BMBI2.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/filmes/Bater%20ou%20Correr.jpg", "Bater ou Correr"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/BTROUCORER.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bater%20ou%20Correr%20em%20Londres.jpg", "Bater ou Correr em Londres"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/BTROUCORERLNDRS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Batman%20Begins.jpg", "Batman Begins"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/BTMN05.mp4
@@ -1523,6 +1532,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNDEFRO03.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Homem-Aranha%20-%20De%20Volta%20ao%20Lar.jpg", "Homem-Aranha: De Volta ao Lar"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Homem-Aranha%20-%20Longe%20de%20Casa.jpg", "Homem-Aranha: Longe de Casa"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Homem-Aranha%20No%20Aranhaverso.jpg", "Homem-Aranha No Aranhaverso"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/HOMARNHNARNVRSO.mp4
 
@@ -2026,6 +2038,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/MULAN01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mulan2.jpg", "Mulan 2: A Lenda Continua"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MULAN02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mulher-Gato.jpg", "Mulher-Gato"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MLHRGTO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Mulher%20Maravilha.jpg", "Mulher-Maravilha"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MLHRMRVLHA.mp4
@@ -2858,6 +2873,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/POLIEMAPRS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Policial%20em%20Apuros%202.jpg", "Policial em Apuros 2"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/POLIEMAPRS2.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ponte%20para%20Terab%C3%ADtia.jpg", "Ponte para Terabítia"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PNTPRTRBTIA.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Power%20Rangers.jpg", "Power Rangers"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/PWRNGRS.mp4
 
@@ -3508,6 +3526,9 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/VQDRCRT.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Vai%20Que%20Da%20Certo%202.jpg", "Vai que Dá Certo 2"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/VQDRCRT2.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Valente.jpg", "Valente"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/VLNTE.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Valerian%20e%20a%20Cidade%20dos%20Mil%20Planetas.jpg", "Valerian e a Cidade dos Mil Planetas"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/VLRIANEACDEDSMLPLNT.mp4
