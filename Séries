@@ -471,6 +471,9 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/AGTOSHLDT06EP03.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x04 - Código Amarelo"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP04.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x05 - A Outra Coisa"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP05.mp4
+
 ################## Agents of S.H.I.E.L.D.: Slingshot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x01 - Vingança (Legendado)"
@@ -7958,6 +7961,30 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/VISAVIST03EP07.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%203.jpg" group-title="Vis a Vis", "03x08 - O Que Sabemos Sobre os Monstros"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/VISAVIST03EP08.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%204.jpg" group-title="Vis a Vis", "04x01 - A Barbie"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/VISAVIST04EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%204.jpg" group-title="Vis a Vis", "04x02 - A Fuga"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/VISAVIST04EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%204.jpg" group-title="Vis a Vis", "04x03 - Limite da Dor"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/VISAVIST04EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%204.jpg" group-title="Vis a Vis", "04x04 - Mãe"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/VISAVIST04EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%204.jpg" group-title="Vis a Vis", "04x05 - Traição"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/VISAVIST04EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%204.jpg" group-title="Vis a Vis", "04x06 - Pessoa Má"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/VISAVIST04EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%204.jpg" group-title="Vis a Vis", "04x07 - De Volta ao Lar"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/VISAVIST04EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vis%20a%20Vis%204.jpg" group-title="Vis a Vis", "04x08 - A Maré Amarela"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/VISAVIST04EP08.mp4
+
 ################## Zeke e Luther ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%201.jpg" group-title="Zeke e Luther", "01x01 - Skatistas Profissionais"
@@ -8083,17 +8110,17 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT02EP19.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "02x20 - A Lista Brother"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT02EP20.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "*02x21 - Seoul Bros*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "02x21 - Seoul Bros"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT02EP21.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "*02x22 - Bola De Lixo*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "02x22 - A Lama"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT02EP22.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "*02x23 - A Lama*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "02x23 - Zanzando Por Aí"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT02EP23.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "*02x24 - Zanzando Por Aí*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "02x24 - Bola De Lixo"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT02EP24.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%202.jpg" group-title="Zeke e Luther", "*02x25 - Skates De Natal*"
 ----------
@@ -8155,26 +8182,26 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP17.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x18 - Viagem Do Irmão"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP18.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "*03x19 - O Gingernador*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x19 - O Gingernador"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP19.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "*03x20 - Prêmios De Vídeo De Skate*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x20 - Prêmios De Vídeo De Skate"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP20.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "*03x21 - Skate Ou Nadar*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x21 - Skate Ou Nadar"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP21.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "*03x22 - Dentro Do Cérebro De Lutero*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x22 - Dentro Do Cérebro De Lutero"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP22.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "*03x23 - Kojo Perde Seu Mojo*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x23 - Kojo Perde Seu Mojo"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP23.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "*03x24 - Herói Acidental*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x24 - Herói Acidental"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP24.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "*03x25 - Não Há Negócios Como O Negócio Dos Irmãos (Parte 1)*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x25 - Não Há Negócios Como O Negócio Dos Irmãos (Parte 1)"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP25.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "*03x26 - Não Há Negócios Como O Negócio Dos Irmãos (Parte 2)*"
-----------
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Zeke%20e%20Luther%203.jpg" group-title="Zeke e Luther", "03x26 - Não Há Negócios Como O Negócio Dos Irmãos (Parte 2)"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ZKELTHRT03EP26.mp4
