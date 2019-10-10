@@ -131,6 +131,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/AESPRDUMLGRE.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Face%20da%20Morte%20-%20O%20Dem%C3%B4nio%20Veste%20Sorriso.jpg", "A Face da Morte: O Demônio Veste Sorriso"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AFCDMRTODEMOVSTSRSO.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Fam%C3%ADlia%20do%20Futuro.jpg", "A Família do Futuro"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/AFMLDFTRO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Fant%C3%A1stica%20F%C3%A1brica%20de%20Chocolate%202005.jpg", "A Fantástica Fábrica de Chocolate"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AFNTSCFBRCDCHCLT2005.mp4
 
@@ -1169,6 +1172,15 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/DRODMTR5.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Edward%20M%C3%A3os%20de%20Tesoura.jpg", "Edward Mãos de Tesoura"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/EDWRDMSDTSR.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Efeito%20Borboleta.jpg", "Efeito Borboleta"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/EFTOBRBLTA.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Efeito%20Borboleta%202.jpg", "Efeito Borboleta 2"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/EFTOBRBLTA2.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Efeito%20Borboleta%20-%20Revela%C3%A7%C3%A3o.jpg", "Efeito Borboleta: Revelação"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/EFTOBRBLTA3.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Ei%20Arnold!%20Na%20Selva.jpg", "Ei Arnold! - Na Selva: O Filme"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/EIARNLDNSLVA.mp4
 
@@ -1279,6 +1291,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/FNLMENT18.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Fique%20Rico%20ou%20Morra%20Tentando.jpg", "Fique Rico ou Morra Tentando"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/FQRCOUMRATNTDO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Forca%20G.jpg", "Força G"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/FRCAG.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Forrest%20Gump%20-%20O%20Contador%20de%20Hist%C3%B3rias.jpg", "Forrest Gump: O Contador de Histórias"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/FORSTGRMPOCNTADRDHSTRIA.mp4
@@ -1726,6 +1741,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/JHNYENGLSH3.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jos%C3%A9%20-%20O%20Rei%20dos%20Sonhos.jpg", "José: O Rei dos Sonhos"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/JOSORIDSNHS.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20vs.%20Jovens%20Tit%C3%A3s.jpg", "Jovens Titãs em Ação! vs. Jovens Titãs"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/JVNSTNSEMACOVSJVNSTAS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jumanji.jpg", "Jumanji"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/JUMNJ.mp4
@@ -2603,6 +2621,12 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/CACFNTSM2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Os%20Croods.jpg", "Os Croods"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OSCRDS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Esquenta-Banco.jpg", "Os Esquenta Banco"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSESQNTBNCS.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Esquenta-Banco%202%20-%20Quebrando%20As%20Bolas.jpg", "Os Esquenta-Banco 2: Quebrando as Bolas"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSESQNTBNCS2.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Estranhos.jpg", "Os Estranhos"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OSESTNHS.mp4
 
@@ -2827,6 +2851,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/PTRPN2003.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos.jpg", "Pets: A Vida Secreta dos Bichos"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/PETSAVSCDBS.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos%202.jpg", "Pets: A Vida Secreta dos Bichos 2"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PETSAVSCDBS2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Pica-Pau%20-%20O%20Filme.jpg", "Pica-Pau: O Filme"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/PICPAU.mp4
@@ -3425,6 +3452,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Toy%20Story3.jpg", "Toy Story 3"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY3.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Toy%20Story%204.jpg", "Toy Story 4"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY4.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Nos%20Limites.jpg", "Tracers: Nos Limites"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/NSLMTS.mp4
 
@@ -3542,6 +3572,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/UNTNMSU3.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Universidade%20Monstros.jpg", "Universidade Monstros"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UNIMNSTRS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Up%20-%20Altas%20Aventuras.jpg", "Up: Altas Aventuras"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/UPALTSAVNTRS.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/V%20de%20Vingan%C3%A7a.jpg", "V de Vingança"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VDVNGNCA.mp4
 
@@ -3631,6 +3664,9 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/VOVZNA3.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Wall-E.jpg", "Wall-E"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/WLLE.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Wallace%20e%20Gromit%20-%20A%20Batalha%20dos%20Vegetais.jpg", "Wallace e Gromit: A Batalha dos Vegetais"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/WLCEGRMTABTLGHDSVGNTS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Warcraft%20-%20O%20Primeiro%20Encontro%20de%20Dois%20Mundos.jpg", "Warcraft: O Primeiro Encontro de Dois Mundos"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/WARCRFT.mp4
