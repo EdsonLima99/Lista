@@ -1184,6 +1184,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/EFTOBRBLTA3.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Ei%20Arnold!%20Na%20Selva.jpg", "Ei Arnold! - Na Selva: O Filme"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/EIARNLDNSLVA.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/El%20Camino%20-%20A%20Breaking%20Bad%20Movie.jpg", "El Camino: A Breaking Bad Movie"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ELCMNOABRKNGBDMVE.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Ela%20Dan%C3%A7a%20Eu%20Dan%C3%A7o1.jpg", "Ela Dança, Eu Danço"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ELDNCEUDNC1.mp4
 
@@ -1348,6 +1351,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/GNTGRND2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/George,%20O%20Rei%20Da%20Floresta.jpg", "George, O Rei Da Floresta"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/GEORGEOREIDFLRSTA.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Gigantes%20de%20A%C3%A7o.jpg", "Gigantes de Aço"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/GNTSDACO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Godzilla.jpg", "Godzilla"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/GDZLA.mp4
@@ -2314,6 +2320,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/OFLMLNYDPRNLNGA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Galinho%20Chicken%20Little.jpg", "O Galinho Chicken Little"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OGLNHCHKNLT.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Gigante%20de%20Ferro.jpg", "O Gigante de Ferro"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OGNTDFERO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/O%20Grande%20Dave.jpg", "O Grande Dave"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OGRNDVE.mp4
@@ -3314,6 +3323,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/STHPRKFILME01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Space%20Jam%20-%20O%20Jogo%20do%20S%C3%A9culo.jpg", "Space Jam: O Jogo do Século"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/SPCJAMOJGDSCLO.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Steven%20Universo%20-%20O%20Filme.jpg", "Steven Universo: O Filme"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/STVNUNVSOFLM.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Stitch!%20O%20Filme.jpg", "Stitch!: O Filme"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/STCHOFLM.mp4
 
@@ -3527,6 +3539,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMLGRSLNCOSO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Um%20Pr%C3%ADncipe%20em%20Nova%20York.jpg", "Um Príncipe em Nova York"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Um%20Sal%C3%A3o%20do%20Barulho.jpg", "Um Salão do Barulho"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/UMSLAODBRLHO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Um%20Sal%C3%A3o%20do%20Barulho%202%20-%20Barbeiragem%20Total.jpg", "Um Salão do Barulho 2: Barbeiragem Total"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMSLAODBRLHO2.mp4
 
@@ -3568,6 +3583,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/UNTNMSU2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Uma%20Noite%20no%20Museu3.jpg", "Uma Noite no Museu 3: O Segredo da Tumba"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/UNTNMSU3.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Uma%20Turma%20do%20Barulho.jpg", "Uma Turma do Barulho"
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/UMTRMDBRLHO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Universidade%20Monstros.jpg", "Universidade Monstros"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UNIMNSTRS.mp4
