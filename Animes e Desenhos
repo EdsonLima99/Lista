@@ -4206,6 +4206,39 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/BGMTHT02EP09.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%202.jpg" group-title="Big Mouth", "02x10 - Departamento Da Puberdade"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/BGMTHT02EP10.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x01 - O Amor É Um Terror"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x02 - Garotas Também Ficam Bravas"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x03 - Celular"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x04 - Obsessão"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x05 - Flórida"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x06 - Como Ter Um Orgasmo"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x07 - Duke"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x08 - Rankings"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x09 - Provão"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x10 - Assédio Sexual: O Musical"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Big%20Mouth%203.jpg" group-title="Big Mouth", "03x11 - Super-heróis"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BGMTHT03EP11.mp4
+
 ################## Bob Esponja ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Bob%20Esponja1.jpg" group-title="Bob Esponja", "01x01 - Precisasse de Atendente"
@@ -5778,8 +5811,11 @@ http://cdnfe2.azureedge.net/RCServer01/videos/DBZEXTRA01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z.jpg" group-title="Dragon Ball Z", "Extra 02 - A História de Trunks"
 http://cdnfe2.azureedge.net/RCServer01/videos/DBZEXTRA02.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20Z.jpg" group-title="Dragon Ball Z", "Ova - Episódio de Bardock (Legendado)"
-http://cdnfe2.azureedge.net/RCServer01/videos/56855a7a.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animes/Dragon%20Ball%20Z%20-%20Epis%C3%B3dio%20de%20Bardock.jpg" group-title="Dragon Ball Z", "Ova - Episódio de Bardock"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DBZOVABRDCK.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animes/Dragon%20Ball%20Z%20OVA.jpg" group-title="Dragon Ball Z", "Ova - O Retorno de Goku e Seus Amigos (Legendado)"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/DBZLEGOVA.mp4
 
 ################## Drama Total ########################
 
@@ -8920,6 +8956,9 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/STHPRKT22EP09.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2022.jpg" group-title="South Park", "22x10 - Desfile de Bicicleta"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/STHPRKT22EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2023.jpg" group-title="South Park", "23x01 - Coringa Mexicano"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/STHPRKT23EP01.mp4
 
 ################## Street Fighter II Victory ########################
 
