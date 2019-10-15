@@ -474,6 +474,12 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP04.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x05 - A Outra Coisa"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP05.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x06 - Inescapável"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x07 - Toldja"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP07.mp4
+
 ################## Agents of S.H.I.E.L.D.: Slingshot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x01 - Vingança (Legendado)"
@@ -3335,6 +3341,9 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/GRATT15EP25.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2016.jpg" group-title="Grey’s Anatomy", "16x01 - Não Há Nada a Que Se Agarrar"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/GRATS16EP01.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Greys%20Anatomy%2016.jpg" group-title="Grey’s Anatomy", "16x02 - De Volta à Sela"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/GRATS16EP02.mp4
+
 ################## iCarly ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/iCarly1.jpg" group-title="iCarly", "01x01 - Bem-Vindos ao iCarly.com"
@@ -5230,6 +5239,24 @@ http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT04EP05.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%204.jpg" group-title="Peaky Blinders", "04x06 - À Paz!"
 http://cdnfe2.azureedge.net/RCServer04/ondemand/PEKYBLNDRSANT04EP06.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%205.jpg" group-title="Peaky Blinders", "05x01 - Catástrofe na Terça-feira"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PEKYBLNDRSANT05EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%205.jpg" group-title="Peaky Blinders", "05x02 - Gatos Pretos"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PEKYBLNDRSANT05EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%205.jpg" group-title="Peaky Blinders", "05x03 - Estratégia"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PEKYBLNDRSANT05EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%205.jpg" group-title="Peaky Blinders", "05x04 - O Ciclo"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PEKYBLNDRSANT05EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%205.jpg" group-title="Peaky Blinders", "05x05 - A Surpresa"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PEKYBLNDRSANT05EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Peaky%20Blinders%205.jpg" group-title="Peaky Blinders", "05x06 - Sr. Jones"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PEKYBLNDRSANT05EP06.mp4
+
 ################## Prison Break ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x01 - Em Busca da Verdade (Piloto)"
@@ -6907,40 +6934,8 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP15.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%209%20PT2.jpg" group-title="The Walking Dead", "09x16 - A Tempestade"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP16.mp4
 
-################## Titãs ########################
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x01 - Titãs"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP01.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x02 - Falcão e Pomba"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP02.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x03 - Origens"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP03.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x04 - Patrulha do Destino"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP04.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x05 - Juntos"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP05.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x06 - O Mensageiro"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP06.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x07 - Jason Todd"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP07.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x08 - Angela"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP08.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x09 - Donna Troy"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP09.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x10 - Koriand'r"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP10.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Tit%C3%A3s%201.jpg" group-title="Titãs", "01x11 - Dick Grayson"
-http://cdnfe2.azureedge.net/RCServer06/ondemand/TITNST01EP11.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x01 - Caminhos Que Cruzamos"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP01.mp4
 
 ################## Todo Mundo Odeia o Chris ########################
 
