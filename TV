@@ -1,9 +1,32 @@
 #EXTM3U
 
+################## Esportes ########################
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiereclubes.png" group-title="Esportes", "Premiere Clubes"
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_5cfbacea33d09cc6927ab45e20ec1fcde1add90d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Canais/premiere2.jpg" group-title="Esportes", "Premiere 2"
+https://cdnfe1.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Canais/premiere3.jpg" group-title="Esportes", "Premiere 3"
+https://cdnfe1.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Canais/premiere4.jpg" group-title="Esportes", "Premiere 4"
+https://cdnfe1.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Canais/premiere5.jpg" group-title="Esportes", "Premiere 5"
+https://cdnfe1.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Canais/premiere6.jpg" group-title="Esportes", "Premiere 6"
+https://cdnfe1.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Canais/premiere7.jpg" group-title="Esportes", "Premiere 7"
+https://cdnfe1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=
+
 ################## Filmes e Séries ########################
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/FX.jpg" group-title="Filmes e Séries", "FX"
-https://dqrlo08fv7y4w.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgNjo0NDoxOCBQTSZoYXNoX3ZhbHVlPUVJZWZRT1ZiaGp4cFd3NmhTS3RqRnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e Séries", "FX"
+http://172.105.148.146/hls/s:155.138.227.156/fx_667be543_4a8e726b3f6ec2c13be247beebd608ebef93e229/720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/paramount.jpg" group-title="Filmes e Séries", "Paramount Channel"
 https://dqrlo08fv7y4w.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTkgOToxNjozMyBQTSZoYXNoX3ZhbHVlPTdEYjRPOTBVUm1JWmVUYW00ZFJ5SUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
@@ -37,3 +60,4 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/warner.jpg" group-title="Filmes e Séries", "Warner TV"
 ----------
+
