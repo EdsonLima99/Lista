@@ -7591,6 +7591,9 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP35.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x37 - Lareira!"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP37.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x41 - A Força de um Homem Grande"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP41.mp4
+
 ################## Os Padrinhos Mágicos ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer02/imgs-videos/Os%20Padrinhos%20Magicos1.jpg" group-title="Os Padrinhos Mágicos", "01x01 - O Grande Problema"
@@ -8965,6 +8968,9 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/STHPRKT23EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2023.jpg" group-title="South Park", "23x02 - Banda na China"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/STHPRKT23EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2023.jpg" group-title="South Park", "23x03 - Tiros!!!"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/STHPRKT23EP03.mp4
 
 ################## Street Fighter II Victory ########################
 
