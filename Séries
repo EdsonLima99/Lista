@@ -480,6 +480,12 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP06.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x07 - Toldja"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP07.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x08 - Curso De Colisão (Parte 1)"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x09 - Curso De Colisão (Parte 2)"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP09.mp4
+
 ################## Agents of S.H.I.E.L.D.: Slingshot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x01 - Vingança (Legendado)"
@@ -6478,6 +6484,9 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/SPNT14EP19.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/series/Sobrenatural%2014.jpg" group-title="Sobrenatural", "14x20 - Moriah"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/SPNT14EP20.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x01 - De Volta Para o Futuro"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/SPNT15EP01.mp4
+
 ################## The Boys ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Boys%201.jpg" group-title="The Boys", "01x01 - O Nome do Jogo"
@@ -6939,6 +6948,9 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x02 - Nós Somos o Fim do Mundo"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x03 - Fantasmas"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP03.mp4
 
 ################## Todo Mundo Odeia o Chris ########################
 
