@@ -140,6 +140,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/AFNTSCFBRCDCHCLT2005.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Filha%20dos%20Trapalh%C3%B5es.jpg", "A Filha dos Trapalhões"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AFLHDSTRAPLHS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Forca.jpg", "A Forca"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFRCA.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Forma%20da%20%C3%81gua.jpg", "A Forma da Água"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AFRMDAGU.mp4
 
