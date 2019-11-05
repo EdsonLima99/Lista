@@ -6487,6 +6487,9 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/SPNT14EP20.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x01 - De Volta Para o Futuro"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/SPNT15EP01.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x02 - Levantando o Inferno"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/SPNT15EP02.mp4
+
 ################## The Boys ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Boys%201.jpg" group-title="The Boys", "01x01 - O Nome do Jogo"
@@ -6951,6 +6954,9 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP02.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x03 - Fantasmas"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x04 - Silencie os Sussurradores"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP04.mp4
 
 ################## Todo Mundo Odeia o Chris ########################
 
