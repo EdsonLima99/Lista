@@ -143,6 +143,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/AFLHDSTRAPLHS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Forca.jpg", "A Forca"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFRCA.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Forca%202%20-%20Segundo%20Ato.jpg", "A Forca 2: Segundo Ato"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFRCA2SGNDATO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Forma%20da%20%C3%81gua.jpg", "A Forma da Água"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AFRMDAGU.mp4
 
