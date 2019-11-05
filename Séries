@@ -556,6 +556,14 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/AMRCGDST02EP07.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/American%20Gods%202.jpg" group-title="American Gods", "02x08 - Sombra da Lua"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/AMRCGDST02EP08.mp4
 
+################## Arnold ########################
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Arnold%201.jpg" group-title="Arnold", "01x01 - A Mudança"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ARNLDT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Arnold%201.jpg" group-title="Arnold", "01x24 - A Escola das Meninas"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ARNLDT01EP24.mp4
+
 ################## As Visões da Raven ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer02/imgs-videos/As%20Vis%C3%B5es%20da%20Raven1.jpg" group-title="As Visões da Raven", "01x01 - Prova de Amizade"
@@ -1132,6 +1140,20 @@ http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP12.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x13 - Esperando o Homem"
 http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP13.mp4
+
+################## Crash e Bernstein ########################
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Crash%20e%20Bernstein%201.jpg" group-title="Crash e Bernstein", "01x01 - Crashlândia"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/CRSHEBNSTNT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Crash%20e%20Bernstein%201.jpg" group-title="Crash e Bernstein", "01x25 - Crash no Caminho"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/CRSHEBNSTNT01EP25.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Crash%20e%20Bernstein%202.jpg" group-title="Crash e Bernstein", "02x01 - A Plástica no Nariz"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/CRSHEBNSTNT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Crash%20e%20Bernstein%202.jpg" group-title="Crash e Bernstein", "*02x13 - Cabeças Duplas*"
+----------
 
 ################## Dark ########################
 
