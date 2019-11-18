@@ -486,6 +486,15 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP08.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x09 - Curso De Colisão (Parte 2)"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP09.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x10 - Salto"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x11 - Das Cinzas"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT06EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x12 - O Signo"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT06EP12.mp4
+
 ################## Agents of S.H.I.E.L.D.: Slingshot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x01 - Vingança (Legendado)"
@@ -6512,6 +6521,9 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/SPNT15EP01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x02 - Levantando o Inferno"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/SPNT15EP02.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x03 - A Ruptura"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/SPNT15EP03.mp4
+
 ################## The Boys ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Boys%201.jpg" group-title="The Boys", "01x01 - O Nome do Jogo"
@@ -6979,6 +6991,12 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x04 - Silencie os Sussurradores"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x05 - O Que Sempre É"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT10EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x06 - Ossos"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT10EP06.mp4
 
 ################## Todo Mundo Odeia o Chris ########################
 
