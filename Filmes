@@ -458,6 +458,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/AMZDECLRDA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Angry%20Birds%20-%20O%20Filme.jpg", "Angry Birds: O Filme"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Angry%20Birds%202%20-%20O%20Filme.jpg", "Angry Birds 2: O Filme"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ANGRYBRDS2FLM.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Animais%20Fant%C3%A1sticos%20e%20Onde%20Habitam.jpg", "Animais Fantásticos e Onde Habitam"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
 
@@ -739,6 +742,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/BRGHT.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Brinquedo%20Assassino1.jpg", "Brinquedo Assassino"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/BRNQDASASN1.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Brinquedo%20Assassino.jpg", "Brinquedo Assassino"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/BRNQDASASNO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Brinquedo%20Assassino2.jpg", "Brinquedo Assassino 2"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/BRNQDASASN2.mp4
@@ -1804,6 +1810,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/KCKASS2.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/King%20Kong%202005.jpg", "King Kong"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/KNKONG2005.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Klaus.jpg", "Klaus"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/KLAUS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/KND%20-%20Opera%C3%A7%C3%A3o%20Z.E.R.O.jpg", "KND: A Turma do Bairro - Filme 01 - Operação Z.E.R.O"
 http://cdnfe2.azureedge.net/RCServer02/ondemand/KNDATRMDBROFLM01.mp4
@@ -3625,6 +3634,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/VLZEFROSOS01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Velozes%20e%20Furiosos%20-%20Desafio%20em%20T%C3%B3quio.jpg", "Velozes & Furiosos: Desafio em Tóquio"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VLZEFROSOS03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Velozes%20E%20Furiosos%20-%20Hobbs%20e%20Shaw.jpg", "Velozes & Furiosos: Hobbs & Shaw"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/VLZEFROSOSHBSESW.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Velozes%20e%20Furiosos%204.jpg", "Velozes & Furiosos 4"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VLZEFROSOS04.mp4
