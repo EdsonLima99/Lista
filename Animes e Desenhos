@@ -7612,11 +7612,23 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP34.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x35 - Super Acampamento de Verão dos Heróis: O Bergerac"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP35.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x36 - Meleca e Lagrimas"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP36.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x37 - Lareira!"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP37.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x40 - Geleia Real"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP40.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x41 - A Força de um Homem Grande"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP41.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x43 - Noite das Meninas (Parte 1)"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/JVNSTNSEMACOT05EP43.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x44 - Noite das Meninas (Parte 2)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/JVNSTNSEMACOT05EP44.mp4
 
 ################## Os Padrinhos Mágicos ########################
 
@@ -8995,6 +9007,12 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/STHPRKT23EP02.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2023.jpg" group-title="South Park", "23x03 - Tiros!!!"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/STHPRKT23EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2023.jpg" group-title="South Park", "23x04 - Deixe-os Comer Gosma"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/STHPRKT23EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/South%20Park%2023.jpg" group-title="South Park", "23x05 - Especial do Dia das Bruxas das Explorações Agrícolas de Tegridy"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/STHPRKT23EP05.mp4
 
 ################## Street Fighter II Victory ########################
 
