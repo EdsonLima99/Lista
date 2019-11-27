@@ -1685,6 +1685,9 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/IRMAS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/IT%20-%20A%20Coisa.jpg", "It: A Coisa"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ITACOS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/It%20-%20Cap%C3%ADtulo%20Dois.jpg", "It: Capítulo 2"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ITCAP2.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Sexta-Feira%2013-9.jpg", "Jason Vai para o Inferno: A Última Sexta-Feira"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/SXTFR13PTIX.mp4
 
@@ -3571,6 +3574,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/UMSNHPSVL.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Um%20Suburbano%20Sortudo.jpg", "Um Suburbano Sortudo"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMSUBSRTDO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Um%20Time%20Show%20de%20Bola.jpg", "Um Time Show de Bola"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMTMSHWDBLA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Uma%20Aventura%20Lego.jpg", "Uma Aventura LEGO"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/UMAVNTRLGO.mp4
