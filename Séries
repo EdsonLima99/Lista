@@ -495,6 +495,9 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT06EP11.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x12 - O Signo"
 http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT06EP12.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x13 - Vida Nova"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT06EP13.mp4
+
 ################## Agents of S.H.I.E.L.D.: Slingshot ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x01 - Vingança (Legendado)"
@@ -572,6 +575,12 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/ARNLDT01EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Arnold%201.jpg" group-title="Arnold", "01x24 - A Escola das Meninas"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/ARNLDT01EP24.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Arnold%202.jpg" group-title="Arnold", "02x01 - A Namorada de Arnold (Parte 1)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/ARNLDT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Arnold%202.jpg" group-title="Arnold", "02x26 - O Dedo Duro"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/ARNLDT02EP26.mp4
 
 ################## As Visões da Raven ########################
 
