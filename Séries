@@ -6533,6 +6533,12 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/SPNT15EP02.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x03 - A Ruptura"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/SPNT15EP03.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x04 - Monstros Atômicos"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/SPNT15EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x05 - Provérbios 17:3"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/SPNT15EP05.mp4
+
 ################## The Boys ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Boys%201.jpg" group-title="The Boys", "01x01 - O Nome do Jogo"
