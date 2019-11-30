@@ -7007,6 +7007,12 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT10EP05.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x06 - Ossos"
 http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT10EP06.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x07 - Abra Seus Olhos"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT10EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Walking%20Dead%2010.1.jpg" group-title="The Walking Dead", "10x08 - O Mundo de Antes"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT10EP08.mp4
+
 ################## Todo Mundo Odeia o Chris ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Todo%20Mundo%20Odeia%20O%20Chris1.jpg" group-title="Todo Mundo Odeia o Chris", "01x01 - Todo mundo odeia o Chris"
