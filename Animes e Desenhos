@@ -5841,6 +5841,15 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/DBZOVABRDCK.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animes/Dragon%20Ball%20Z%20OVA.jpg" group-title="Dragon Ball Z", "Ova - O Retorno de Goku e Seus Amigos (Legendado)"
 http://cdnfe2.azureedge.net/RCServer12/ondemand/DBZLEGOVA.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animes/Dragon%20Ball%20Z%20-%20O%20Plano%20de%20Erradicar%20os%20Sayajins%20(2010).jpg" group-title="Dragon Ball Z", "Ova - O Plano de Erradicar os Sayajins (Legendado)"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/DBZOPDEOS2010LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animes/Dragon%20Ball%20Z%20-%20O%20Plano%20de%20Erradicar%20os%20Sayajins%20(1993).jpg" group-title="Dragon Ball Z", "Ova - O Plano de Erradicar os Sayajins: Parte 1 (Legendado)"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/DBZOPDEOSLEGPT01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animes/Dragon%20Ball%20Z%20-%20O%20Plano%20de%20Erradicar%20os%20Sayajins%20(1993).jpg" group-title="Dragon Ball Z", "Ova - O Plano de Erradicar os Sayajins: Parte 2 (Legendado)"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/DBZOPDEOSLEGPT02.mp4
+
 ################## Drama Total ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Drama%20Total1.jpg" group-title="Drama Total", "01x01 - Não Tão Felizes Campistas (Parte 1)"
