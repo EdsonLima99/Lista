@@ -158,6 +158,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/AFGADSGLHNS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Grande%20Muralha.jpg", "A Grande Muralha"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AGRNDMRLHA.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Hora%20da%20Virada.jpg", "A Hora da Virada"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AHRDVRDA.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo1.jpg", "A Hora do Pesadelo"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AHRDPSDL01.mp4
 
@@ -562,6 +565,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/ASCRNCDRDCKECLPSMRTL.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Cr%C3%B4nicas%20de%20Spiderwick.jpg", "As Crônicas de Spiderwick"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASCRNCSDSPRWCK.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/As%20F%C3%A9rias%20de%20Mr.%20Bean.jpg", "As Férias de Mr. Bean"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFRSDMRBEN.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/As%20Garotas%20Da%20Trag%C3%A9dia.jpg", "As Garotas Da Tragédia"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASGRTSDTRGDIA.mp4
@@ -2099,6 +2105,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Motoqueiro%20Fantasma%20Espirito%20de%20Vingan%C3%A7a.jpg", "Motoqueiro Fantasma - Espírito de Vingança"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM02.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mr.%20Bean%20-%20O%20Filme.jpg", "Mr. Bean: O Filme"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/MRBENOFLM.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Mudan%C3%A7a%20de%20H%C3%A1bito.jpg", "Mudança De Hábito"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/MDNCDHBTO.mp4
 
@@ -2504,6 +2513,12 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/OPQNINO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Pequeno%20Stuart%20Little.jpg", "O Pequeno Stuart Little"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OPQNSTRTLTLE.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Pequeno%20Stuart%20Little%202.jpg", "O Pequeno Stuart Little 2"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OPQNSTRTLTLE2.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Pequeno%20Stuart%20Little%203.jpg", "O Pequeno Stuart Little 3"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OPQNSTRTLTLE3.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Pesadelo.jpg", "O Pesadelo"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OPSDLO.mp4
 
@@ -2569,6 +2584,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/REILAO03.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Reino%20Proibido.jpg", "O Reino Proibido"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ORNOPRBDO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Retorno%20da%20Fam%C3%ADlia%20Addams.jpg", "O Retorno da Família Addams"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ORTRNDAFMLADMS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Retorno%20da%20M%C3%BAmia.jpg", "O Retorno da Múmia"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ORTNDAMUMIA.mp4
@@ -2696,8 +2714,14 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/OSESTNHSCACDNTRNA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Fantasmas%20Trapalh%C3%B5es.jpg", "Os Fantasmas Trapalhões"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSFNTMSTRPLHS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Flintstones%20-%20O%20Casamento%20de%20Bam-Bam%20e%20Pedrita.jpg", "Os Flintstones: O Casamento de Bam-Bam & Pedrita"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OSFLNTSONSOCSMNTDBMBMEPRDTA.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Os%20Flintstone%20-%20O%20Filme.jpg", "Os Flintstones: O Filme"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OSFLSTNS.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Flintstones%20-%20Vov%C3%B4s%20Em%20Hollyrock.jpg", "Os Flintstones: Vovôs Em Hollyrock"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OSFLNTSONSVOVEMHLYRCK.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Os%20Flintstones%20em%20Viva%20Rock%20Vegas.jpg", "Os Flintstones em Viva Rock Vegas"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OSFLSTNSEMVIVRCKVGS.mp4
@@ -3053,6 +3077,9 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/QRTFNTSCEOSFSTPRT.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Quase%2018.jpg", "Quase 18"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/QSE18.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Quem%20Quer%20Ser%20um%20Milion%C3%A1rio.jpg", "Quem Quer Ser um Milionário?"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/QUMQRSRUMLNRIO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Rambo%20-%20Programado%20para%20Matar.jpg", "Rambo: Programado para Matar"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/RMBO1.mp4
 
@@ -3407,6 +3434,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/TACHVNDHMBRGR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/T%C3%A1%20Chovendo%20Hamb%C3%BArguer%202.jpg", "Tá Chovendo Hamburguer 2"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/TACHVNDHMBRGR2.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tarzan.jpg", "Tarzan"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/TRZN.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tarzan%20e%20Jane.jpg", "Tarzan & Jane"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/TRZNEJNE.mp4
 
@@ -3598,6 +3628,9 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMESPEMEIO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Um%20Lugar%20Silencioso.jpg", "Um Lugar Silencioso"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMLGRSLNCOSO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Natal%20dos%20Flintstones%201977.jpg", "Um Natal Flintstones"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/NTLDSFLSTNS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Um%20Pr%C3%ADncipe%20em%20Nova%20York.jpg", "Um Príncipe em Nova York"
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4
