@@ -951,6 +951,9 @@ http://cdnfe3.azureedge.net/RCServer08/ondemand/ARNLDT08EP06.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Arnold%208.jpg" group-title="Arnold", "08x13 - Bulimia"
 http://cdnfe3.azureedge.net/RCServer08/ondemand/ARNLDT08EP13.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Arnold%208.jpg" group-title="Arnold", "08x14 - O Irmão Mais Velho do Sam"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/ARNLDT08EP13.mp4
+
 ################## As Visões da Raven ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer02/imgs-videos/As%20Vis%C3%B5es%20da%20Raven1.jpg" group-title="As Visões da Raven", "01x01 - Prova de Amizade"
@@ -1252,6 +1255,14 @@ http://cdnfe2.azureedge.net/RCServer02/ondemand/AVDRS04EP21.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer02/imgs-videos/As%20Vis%C3%B5es%20da%20Raven4.jpg" group-title="As Visões da Raven", "04x22 - Onde há Fumo"
 http://cdnfe2.azureedge.net/RCServer02/ondemand/AVDRS04EP22.mp4
+
+################## Até o Fim: Flamengo Campeão da Libertadores (Nacional) ########################
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Series/At%C3%A9%20o%20Fim%20-%20Flamengo%20Campe%C3%A3o%20da%20Libertadores.jpg" group-title="Até o Fim: Flamengo Campeão da Libertadores (Nacional)", "01x01 - Onde Estiver, Estarei"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/ATOFMT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Series/At%C3%A9%20o%20Fim%20-%20Flamengo%20Campe%C3%A3o%20da%20Libertadores.jpg" group-title="Até o Fim: Flamengo Campeão da Libertadores (Nacional)", "01x02 - Os Mistérios do Mister"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/ATOFMT01EP02.mp4
 
 ################## Black Summer ########################
 
@@ -6908,6 +6919,9 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/SPNT15EP04.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x05 - Provérbios 17:3"
 http://cdnfe2.azureedge.net/RCServer13/ondemand/SPNT15EP05.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x06 - Era Dourada"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/SPNT15EP06.mp4
+
 ################## The Boys ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/The%20Boys%201.jpg" group-title="The Boys", "01x01 - O Nome do Jogo"
@@ -8105,6 +8119,9 @@ http://cdnfe2.azureedge.net/RCServer03/ondemand/UMLCONPDCOT06EP24.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Series/Uma%20Noite%20de%20Crime%202.jpg" group-title="Uma Noite de Crime", "02x07 - Devo Ficar Ou Devo Ir"
 http://cdnfe3.azureedge.net/RCServer08/ondemand/THPRGT02EP07.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Series/Uma%20Noite%20de%20Crime%202.jpg" group-title="Uma Noite de Crime", "02x08 - Antes Das Sirenes"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/THPRGT02EP08.mp4
+
 ################## Vikings ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Vikings1.jpg" group-title="Vikings", "01x01 - Rites de Passagens"
@@ -8316,6 +8333,12 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/VKGST05EP19.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Vikings%205%20Pt2.jpg" group-title="Vikings", "05x20 - Ragnarok"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/VKGST05EP20.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x01 - Novos Começos"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/VKGST06EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x02 - O Profeta"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/VKGST06EP02.mp4
 
 ################## Vis a Vis ########################
 
