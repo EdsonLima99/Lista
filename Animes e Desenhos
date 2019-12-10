@@ -6084,6 +6084,45 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/FNLSPCET01EP09.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Final%20Space%201.jpg" group-title="Final Space", "01x10"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/FNLSPCET01EP10.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x01 - Regata De Toro"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x02 - Lugar Feliz"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x03 - A Grande Rendição"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x04 - O Outro Lado"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x05 - A Notória Sra. Goodspeed"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x06 - Aracnitetos"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x07 - Quando Eles Se Conheceram"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x08 - Lembranças"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x09 - Quanto Mais Perto..."
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x10 - Espião Perdido"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x11 - Preparação"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x12 - Descida Para A Escuridão"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Desenhos/Final%20Space%202.jpg" group-title="Final Space", "02x13 - A Sexta Chave"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FNLSPCET02EP13.mp4
+
 ################## Futurama ########################
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Futurama1.jpg" group-title="Futurama", "01x01 - Fry no Ano 3000"
