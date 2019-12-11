@@ -347,6 +347,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/ACVNTURA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ace%20Ventura%202%20-%20Um%20Maluco%20na%20%C3%81frica.jpg", "Ace Ventura 2: Um Maluco na África"
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ACVNTURA2.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Filmes/Ad%20Astra%20-%20Rumo%20%C3%A0s%20Estrelas.jpg", "Ad Astra: Rumo às Estrelas"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ADSTRMASESTRLS.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ador%C3%A1vel%20Trapalh%C3%A3o.jpg", "Adorável Trapalhão"
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ADRVLTRPLHAO.mp4
 
@@ -2746,6 +2749,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/OSFLNTSONSVOVEMHLYRCK.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Os%20Flintstones%20em%20Viva%20Rock%20Vegas.jpg", "Os Flintstones em Viva Rock Vegas"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OSFLSTNSEMVIVRCKVGS.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.observer/player3/imgs-videos/Filmes/Os%20Flintstones%20Encontram%20Pedr%C3%A1cula%20e%20Frankenstone.jpg", "Os Flintstones Encontram Pedrácula e Frankenstone"
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OSFLSTNSENCRTMPDRCEFRNKSTNE.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Her%C3%B3is%20Trapalh%C3%B5es%20-%20Uma%20Aventura%20na%20Selva.jpg", "Os Heróis Trapalhões: Uma Aventura na Selva"
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/OSHRSTRPLHN.mp4
