@@ -542,6 +542,9 @@ https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/PTRPN.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Pi.jpg", "As Aventuras de Pi"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/ASAVNTDPI.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/As%20Aventuras%20de%20Sammy.jpg", "As Aventuras de Sammy"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/ASAVNTRSDSMY.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20de%20Scooby-Doo%20-%20O%20Mapa%20Misterioso.jpg", "As Aventuras de Scooby-Doo: O Mapa Misterioso"
 https://d1za1dd8tvwa43.cloudfront.net/RCServer09/ondemand/SCBDFLM21.mp4
 
@@ -1333,6 +1336,9 @@ https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/FNLMENT18.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Fique%20Rico%20ou%20Morra%20Tentando.jpg", "Fique Rico ou Morra Tentando"
 https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/FQRCOUMRATNTDO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Firebreather.jpg", "Firebreather: O Lança-Fogo"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/FREBRTHR.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Forca%20G.jpg", "Força G"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/FRCAG.mp4
@@ -2150,6 +2156,9 @@ https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/MLHRGTO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Mulher%20Maravilha.jpg", "Mulher-Maravilha"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/MLHRMRVLHA.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Muppets%202%20-%20Procurados%20e%20Amados.jpg", "Muppets 2: Procurados e Amados"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/OSMPTS2.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mussum%20-%20Um%20Filme%20do%20Cacildis.jpg", "Mussum: Um Filme do Cacildis"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/MSUMFLMDCACLDS.mp4
 
@@ -2663,6 +2672,9 @@ https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/OULTMEXCSMPT2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20%C3%9Altimo%20Mestre%20do%20Ar.jpg", "O Último Mestre do Ar"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/OULTMMSTDAR.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Ursinho%20Pooh.jpg", "O Ursinho Pooh"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/OURSNHPOH.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Virgem%20de%2040%20Anos.jpg", "O Virgem de 40 Anos"
 https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/OVRGMD40ANS.mp4
 
@@ -2780,6 +2792,9 @@ https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/OMRCNRS02.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Os%20Mercenarios%203.jpg", "Os Mercenários 3"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/OMRCNRS03.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Muppets.jpg", "Os Muppets"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/OSMPTS.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Os%20Par%C3%A7as.jpg", "Os Parças"
 https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/OSPRCS.mp4
 
@@ -2866,6 +2881,9 @@ https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/OUJONDTDCM.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Ouija%20Origem%20do%20Mal.jpg", "Ouija: Origem Do Mal"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/OUJORGMDML.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Oz,%20Magico%20e%20Poderoso.jpg", "Oz, Mágico e Poderoso"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/OZMGCEPDRSO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Pai%20do%20Ano.jpg", "Pai do Ano"
 https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/PAIDANO.mp4
@@ -3214,6 +3232,9 @@ https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/RCKY5.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Roubo%20nas%20Alturas.jpg", "Roubo nas Alturas"
 https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/ROBNSALTS.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Sammy%20-%20A%20Grande%20Fuga.jpg", "Sammy: A Grande Fuga"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/SMYAGRNDFGA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Scooby-Doo1.jpg", "Scooby-Doo"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer2/ondemand/SCBYDO1.mp4
@@ -3889,6 +3910,9 @@ https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/YUGIOHOLDONGRDSDMSOES.
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Zapped.jpg", "Zapped"
 https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/ZPED.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Zathura%20-%20Uma%20Aventura%20Espacial.jpg", "Zathura: Uma Aventura Espacial"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Zerando%20a%20Vida.jpg", "Zerando a Vida"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/ZRNDAVDA.mp4
