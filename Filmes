@@ -1730,6 +1730,9 @@ https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/JSNX.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jessabelle%20-%20O%20Passado%20Nunca%20Morre.jpg", "Jessabelle: O Passado Nunca Morre"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer2/ondemand/JSBLE.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jimmy%20Neutron,%20o%20Menino%20G%C3%AAnio.jpg", "Jimmy Neutron, o Menino Gênio"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/JMYNTRNOMNOGNIO.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jo%C3%A3o%20e%20Maria%20-%20Ca%C3%A7adores%20de%20Bruxas.jpg", "João e Maria: Caçadores de Bruxas"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/JAOEMRA01.mp4
 
@@ -2156,6 +2159,9 @@ https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/MLHRGTO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Mulher%20Maravilha.jpg", "Mulher-Maravilha"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/MLHRMRVLHA.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Muppets%20-%20O%20Filme.jpg", "Muppets: O Filme"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/MUPTSOFLME.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Muppets%202%20-%20Procurados%20e%20Amados.jpg", "Muppets 2: Procurados e Amados"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/OSMPTS2.mp4
 
@@ -2311,6 +2317,9 @@ https://rccdn.global.ssl.fastly.net/RCFServer4/ondemand/OCRCLO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20C%C3%B3digo%20Da%20Vinci.jpg", "O Código Da Vinci"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/OCODVNC.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Conto%20De%20Natal%20Dos%20Muppets.jpg", "O Conto de Natal dos Muppets"
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/OCNTDNTLDOSMPTS.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Corcunda%20De%20Notre%20Dame.jpg", "O Corcunda de Notre Dame"
 https://d1za1dd8tvwa43.cloudfront.net/RCFServer1/ondemand/OCRCNDDNTRDM.mp4
