@@ -944,6 +944,9 @@ http://origa8080.azureedge.net/RCFServer4/ondemand/CNSTNTNE.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Coraline.jpg", "Coraline e o Mundo Secreto"
 http://origa8081.azureedge.net/RCFServer2/ondemand/CORLNE.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Coringa.jpg", "Coringa"
+https://sueli.global.ssl.fastly.net/RCFServer3/ondemand/CRNGA.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Corpo%20Fechado.jpg", "Corpo Fechado"
 http://origa8080.azureedge.net/RCFServer4/ondemand/CRPFCHDO.mp4
 
@@ -1712,6 +1715,9 @@ http://origa8081.azureedge.net/RCFServer3/ondemand/INVCAODML2.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Irm%C3%A3o%20de%20Espi%C3%A3o.jpg", "Irmão de Espião"
 http://origa8081.azureedge.net/RCFServer3/ondemand/IRMADESPAO.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Irm%C3%A3o%20Urso.jpg", "Irmão Urso"
+https://sueli.global.ssl.fastly.net/RCFServer3/ondemand/IRMURS.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Irm%C3%A3s.jpg", "Irmãs"
 http://origa8081.azureedge.net/RCFServer2/ondemand/IRMAS.mp4
 
@@ -1861,6 +1867,12 @@ http://origa8080.azureedge.net/RCServer02/ondemand/KNDATRMDBROFLM02.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Kong%20A%20Ilha%20da%20Caveira.jpg", "Kong: A Ilha da Caveira"
 http://origa8080.azureedge.net/RCFServer4/ondemand/KONGAILHCVR.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Kung%20Fu%20Panda%20-%20Especial%20de%20Natal.jpg", "Kung Fu Panda: Especial de Natal"
+https://sueli.global.ssl.fastly.net/RCFServer3/ondemand/KUNGFUPNDESPCDNTL.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Kung%20Fu%20Panda%20-%20Os%20Segredos%20dos%20Mestres.jpg", "Kung Fu Panda: Os Segredos dos Mestres"
+https://sueli.global.ssl.fastly.net/RCFServer3/ondemand/KUNGFUPNDOSGRNDMSTR.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Kung%20Fu%20Panda%20-%20Segredos%20do%20Pergaminho.jpg", "Kung Fu Panda: Segredos do Pergaminho"
 http://origa8081.azureedge.net/RCFServer2/ondemand/KUNGFUPNDSGRDDPRGMH.mp4
@@ -2728,6 +2740,12 @@ http://origa8081.azureedge.net/RCFServer3/ondemand/101DMLTSFILME.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Os%20102%20Dalmatas.jpg", "Os 102 Dálmatas"
 http://origa8081.azureedge.net/RCFServer3/ondemand/102DMLTS.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Os%20Batutinhas.jpg", "Os Batutinhas"
+https://sueli.global.ssl.fastly.net/RCFServer3/ondemand/OSBTNHS.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Os%20Batutinhas%20-%20Uma%20Nova%20Aventura.jpg", "Os Batutinhas: Uma Nova Aventura"
+https://sueli.global.ssl.fastly.net/RCFServer3/ondemand/OSBTNHSUMNVAVNRTA.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Os%20Brutamontes.jpg", "Os Brutamontes"
 http://origa8080.azureedge.net/RCFServer4/ondemand/OSBRTMNTS1.mp4
