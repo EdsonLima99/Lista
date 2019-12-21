@@ -1264,6 +1264,12 @@ http://origa8081.azureedge.net/RCServer08/ondemand/ATOFMT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/At%C3%A9%20o%20Fim%20-%20Flamengo%20Campe%C3%A3o%20da%20Libertadores.jpg" group-title="Até o Fim: Flamengo Campeão da Libertadores (Nacional)", "01x02 - Os Mistérios do Mister"
 http://origa8081.azureedge.net/RCServer08/ondemand/ATOFMT01EP02.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/At%C3%A9%20o%20Fim%20-%20Flamengo%20Campe%C3%A3o%20da%20Libertadores.jpg" group-title="Até o Fim: Flamengo Campeão da Libertadores (Nacional)", "01x03 - A Torcida Magnética"
+https://sueli.global.ssl.fastly.net/RCServer08/ondemand/ATOFMT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/At%C3%A9%20o%20Fim%20-%20Flamengo%20Campe%C3%A3o%20da%20Libertadores.jpg" group-title="Até o Fim: Flamengo Campeão da Libertadores (Nacional)", "01x04 - Clássico de Gerações"
+https://sueli.global.ssl.fastly.net/RCServer08/ondemand/ATOFMT01EP04.mp4
+
 ################## Black Summer ########################
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x01 - Fluxo Humano"
@@ -5949,6 +5955,11 @@ http://origa8080.azureedge.net/RCServer12/ondemand/PRBKT05EP08.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Prison%20Break5.jpg" group-title="Prison Break", "05x09 - Atrás dos Olhos"
 http://origa8080.azureedge.net/RCServer12/ondemand/PRBKT05EP09.mp4
 
+################## Riverdale ########################
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Riverdale%204.jpg" group-title="Riverdale", "04x09 - Capítulo Sessenta e Seis: Tangerina"
+https://sueli.global.ssl.fastly.net/RCServer08/ondemand/RVDLT04EP09.mp4
+
 ################## Sex Education ########################
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%201.jpg" group-title="Sex Education", "01x01"
@@ -6921,6 +6932,9 @@ http://origa8080.azureedge.net/RCServer13/ondemand/SPNT15EP05.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x06 - Era Dourada"
 http://origa8081.azureedge.net/RCServer08/ondemand/SPNT15EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x07 - Última Chamada"
+https://sueli.global.ssl.fastly.net/RCServer08/ondemand/SPNT15EP07.mp4
 
 ################## The Boys ########################
 
@@ -8122,6 +8136,9 @@ http://origa8081.azureedge.net/RCServer08/ondemand/THPRGT02EP07.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Uma%20Noite%20de%20Crime%202.jpg" group-title="Uma Noite de Crime", "02x08 - Antes Das Sirenes"
 http://origa8081.azureedge.net/RCServer08/ondemand/THPRGT02EP08.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Uma%20Noite%20de%20Crime%202.jpg" group-title="Uma Noite de Crime", "02x09 - Ave Maria"
+https://sueli.global.ssl.fastly.net/RCServer08/ondemand/THPRGT02EP09.mp4
+
 ################## Vikings ########################
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Vikings1.jpg" group-title="Vikings", "01x01 - Rites de Passagens"
@@ -8342,6 +8359,9 @@ http://origa8081.azureedge.net/RCServer08/ondemand/VKGST06EP02.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x03 - Fantasmas, Deuses e Cães Correndo"
 http://origa8081.azureedge.net/RCServer08/ondemand/VKGST06EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x04 - Todos os Prisioneiros"
+https://sueli.global.ssl.fastly.net/RCServer08/ondemand/VKGST06EP04.mp4
 
 ################## Vis a Vis ########################
 
