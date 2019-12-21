@@ -2687,8 +2687,8 @@ http://origa8080.azureedge.net/RCServer04/ondemand/ATADBMEP070.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/As%20Terriveis%20Aventuras%20De%20Billy%20e%20Mandy3.jpg" group-title="As Terríveis Aventuras De Billy e Mandy", "03x71 - Um Passeio por Asgard"
 http://origa8080.azureedge.net/RCServer04/ondemand/ATADBMEP071.mp4
 
-#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/As%20Terriveis%20Aventuras%20De%20Billy%20e%20Mandy3.jpg" group-title="As Terríveis Aventuras De Billy e Mandy", "*03x72 - Sombra das Cinco Horas*"
-----------
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/As%20Terriveis%20Aventuras%20De%20Billy%20e%20Mandy3.jpg" group-title="As Terríveis Aventuras De Billy e Mandy", "03x72 - Sombra das Cinco Horas"
+https://sueli.global.ssl.fastly.net/RCServer08/ondemand/ATADBMEP072.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/As%20Terriveis%20Aventuras%20De%20Billy%20e%20Mandy3.jpg" group-title="As Terríveis Aventuras De Billy e Mandy", "03x73 - O Ataque dos Palhaços"
 http://origa8080.azureedge.net/RCServer04/ondemand/ATADBMEP073.mp4
@@ -8287,6 +8287,20 @@ http://origa8080.azureedge.net/RCServer01/videos/7912003c.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Picolino.jpg" group-title="Pica Pau", "02x153 - Chilly Lilly"
 http://origa8080.azureedge.net/RCServer01/videos/1a82ed04.mp4
 
+################## Randy Cunningham: Ninja Total ########################
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Randy%20Cunningham%20-%20Ninja%20Total%201.jpg" group-title="Randy Cunningham: Ninja Total", "01x01 - O Ultimo Armário à Esquerda"
+https://sueli.global.ssl.fastly.net/RCServer07/ondemand/RNDYCNGHMNJTLT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Randy%20Cunningham%20-%20Ninja%20Total%201.jpg" group-title="Randy Cunningham: Ninja Total", "01x51 - Randy Cunningham: Ninja do Século 13"
+https://sueli.global.ssl.fastly.net/RCServer07/ondemand/RNDYCNGHMNJTLT01EP51.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Randy%20Cunningham%20-%20Ninja%20Total%202.jpg" group-title="Randy Cunningham: Ninja Total", "02x01 - Esgorrega-Monstro / A Luta Pela Piscina"
+https://sueli.global.ssl.fastly.net/RCServer07/ondemand/RNDYCNGHMNJTLT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Randy%20Cunningham%20-%20Ninja%20Total%202.jpg" group-title="Randy Cunningham: Ninja Total", "02x24 - Tudo Fica Bem se a Amizade Continua / Erros de Gravação"
+https://sueli.global.ssl.fastly.net/RCServer07/ondemand/RNDYCNGHMNJTLT02EP24.mp4
+
 ################## Rick and Morty ########################
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Rick%20and%20Morty1.jpg" group-title="Rick and Morty", "01x01 - Piloto"
@@ -9298,6 +9312,9 @@ http://origa8081.azureedge.net/RCServer08/ondemand/STHPRKT23EP07.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/South%20Park%2023.jpg" group-title="South Park", "23x08 - Assaltantes de Turd"
 http://origa8081.azureedge.net/RCServer08/ondemand/STHPRKT23EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/South%20Park%2023.jpg" group-title="South Park", "23x09 - Cabo Básico"
+https://sueli.global.ssl.fastly.net/RCServer08/ondemand/STHPRKT23EP09.mp4
 
 ################## Street Fighter II Victory ########################
 
