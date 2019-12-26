@@ -945,7 +945,7 @@ https://d27vdgs2gpon8g.cloudfront.net/RCFServer4/ondemand/CNSTNTNE.mp4
 https://d3ehk1pdca4xg7.cloudfront.net/RCFServer2/ondemand/CORLNE.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Coringa.jpg" group-title="Letra - C", "Coringa"
-https://d3ehk1pdca4xg7.cloudfront.net/RCFServer3/ondemand/CRNGA.mp4
+http://omegaclo.azureedge.net/RCFServer3/ondemand/CRNGA.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Corpo%20Fechado.jpg" group-title="Letra - C", "Corpo Fechado"
 https://d27vdgs2gpon8g.cloudfront.net/RCFServer4/ondemand/CRPFCHDO.mp4
@@ -2825,6 +2825,9 @@ https://d3ehk1pdca4xg7.cloudfront.net/RCFServer1/ondemand/OMRCNRS02.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Os%20Mercenarios%203.jpg" group-title="Letra - O", "Os Mercenários 3"
 https://d3ehk1pdca4xg7.cloudfront.net/RCFServer1/ondemand/OMRCNRS03.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Os%20Miser%C3%A1veis.jpg" group-title="Letra - O", "Os Miseráveis"
+http://omegaclo.azureedge.net/RCFServer3/ondemand/OSMSRVEIS.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Os%20Muppets.jpg" group-title="Letra - O", "Os Muppets"
 https://d3ehk1pdca4xg7.cloudfront.net/RCFServer3/ondemand/OSMPTS.mp4
 
@@ -3029,6 +3032,9 @@ https://d27vdgs2gpon8g.cloudfront.net/RCFServer4/ondemand/PICPAU.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Phineas%20e%20Ferb%20-%20O%20Filme%20-%20Atrav%C3%A9s%20da%202%C2%AA%20Dimens%C3%A3o.jpg" group-title="Letra - P", "Phineas e Ferb: O Filme: Através da 2ª Dimensão"
 https://d27vdgs2gpon8g.cloudfront.net/RCFServer4/ondemand/PHNASEFRBATRSVD2DMSAO.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Phineas%20e%20Ferb%20-%20Star%20Wars.jpg" group-title="Letra - P", "Phineas e Ferb: Star Wars"
+http://omegaclo.azureedge.net/RCFServer3/ondemand/PHNSEFRBSSTRWRS.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Pin%C3%B3quio.jpg" group-title="Letra - P", "Pinóquio"
 https://d27vdgs2gpon8g.cloudfront.net/RCFServer4/ondemand/PNQIO.mp4
 
@@ -3127,6 +3133,9 @@ https://d27vdgs2gpon8g.cloudfront.net/RCFServer4/ondemand/PRCRNDONEM.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Projeto%20Almanaque.jpg" group-title="Letra - P", "Projeto Almanaque"
 https://d3ehk1pdca4xg7.cloudfront.net/RCFServer1/ondemand/PRJTALMNQ.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Projeto%20Gemini.jpg" group-title="Letra - P", "Projeto Gemini"
+http://omegaclo.azureedge.net/RCFServer3/ondemand/PRJTGMNI.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Projeto%20X%20-%20Uma%20Festa%20Fora%20de%20Controle.jpg" group-title="Letra - P", "Projeto X: Uma Festa Fora de Controle"
 https://d27vdgs2gpon8g.cloudfront.net/RCFServer4/ondemand/PRJTOXUFFDC.mp4
