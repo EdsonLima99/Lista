@@ -7906,6 +7906,12 @@ https://d14chltqrjxpin.cloudfront.net/RCServer12/ondemand/JVNSTNSEMACOT05EP43.mp
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x44 - Noite das Meninas (Parte 2)"
 https://d14chltqrjxpin.cloudfront.net/RCServer13/ondemand/JVNSTNSEMACOT05EP44.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x45 - O Grande Desastre"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/JVNSTNSEMACOT05EP45.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%205.jpg" group-title="Os Jovens Titãs em Ação", "05x46 - Você Decide"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/JVNSTNSEMACOT05EP46.mp4
+
 ################## Os Padrinhos Mágicos ########################
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Os%20Padrinhos%20Magicos1.jpg" group-title="Os Padrinhos Mágicos", "01x01 - O Grande Problema"
@@ -9553,6 +9559,41 @@ https://dvpa3ulcl9eyc.cloudfront.net/RCServer09/ondemand/THECVLNDSHWT04EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/The%20Cleveland%20Show4.jpg" group-title="The Cleveland Show", "04x23 - Roda! De! Família!"
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer09/ondemand/THECVLNDSHWT04EP23.mp4
+
+################## Três Espiãs Demais ########################
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%201.jpg" group-title="Três Espiãs Demais", "01x01 - Uma Queda por Músicos"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%201.jpg" group-title="Três Espiãs Demais", "01x26 - Homem Ou Máquina"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST01EP26.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%202.jpg" group-title="Três Espiãs Demais", "02x01 - Quem é a Estrela"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%202.jpg" group-title="Três Espiãs Demais", "02x26 - Nasce Uma Espiã (Parte 2)"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST02EP26.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%203.jpg" group-title="Três Espiãs Demais", "03x01 - Lei Da Gravidade"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST03EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%203.jpg" group-title="Três Espiãs Demais", "03x26 - A Promoção Do Mal (Parte 3)"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST03EP26.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%204.jpg" group-title="Três Espiãs Demais", "04x01 - O Trio dos Sonhos"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST04EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%204.jpg" group-title="Três Espiãs Demais", "04x26 - Espiãs na Fazenda"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST04EP26.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%205.jpg" group-title="Três Espiãs Demais", "05x01 - Formatura do Mal"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST05EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%205.jpg" group-title="Três Espiãs Demais", "05x26 - Loucura Total (Parte 2)"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer07/ondemand/TRSESPSDMST05EP25.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Desenhos/Tr%C3%AAs%20Espi%C3%A3s%20Demais%206.jpg" group-title="Três Espiãs Demais", "06x02 - Nove Vidas"
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/TRSESPSDMST06EP02.mp4
 
 ################## Uma Família da Pesada / Family Guy ########################
  
