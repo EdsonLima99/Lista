@@ -716,6 +716,9 @@ http://tcloud3.azureedge.net/RCFServer4/ondemand/BMVNDASLV.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Bem-vindo%20aos%2040.jpg" group-title="Letra - B", "Bem-vindo aos 40"
 http://tcloud3.azureedge.net/RCFServer4/ondemand/BMVNDAOS40.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Besouro.jpg" group-title="Letra - B", "Besouro"
+http://tcloud2.azureedge.net/RCFServer3/ondemand/BSRO.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Bingo%20-%20O%20Rei%20das%20Manh%C3%A3s.jpg" group-title="Letra - B", "Bingo: O Rei das Manhãs"
 http://tcloud3.azureedge.net/RCFServer4/ondemand/BNGORDSMNH.mp4
 
@@ -1720,6 +1723,9 @@ http://tcloud2.azureedge.net/RCFServer3/ondemand/IRMADESPAO.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Irm%C3%A3o%20Urso.jpg" group-title="Letra - I", "Irmão Urso"
 http://tcloud2.azureedge.net/RCFServer3/ondemand/IRMURS.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Irm%C3%A3o%20Urso%202.jpg" group-title="Letra - I", "Irmão Urso 2"
+http://tcloud2.azureedge.net/RCFServer3/ondemand/IRMURS2.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Irm%C3%A3s.jpg" group-title="Letra - I", "Irmãs"
 http://tcloud2.azureedge.net/RCFServer2/ondemand/IRMAS.mp4
@@ -3814,6 +3820,9 @@ http://tcloud3.azureedge.net/RCFServer4/ondemand/VLRIANEACDEDSMLPLNT.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Valiant%20-%20Um%20Her%C3%B3i%20que%20Vale%20a%20Pena.jpg" group-title="Letra - V", "Valiant: Um Herói que Vale a Pena"
 http://tcloud3.azureedge.net/RCFServer4/ondemand/VALNTUMHRQVLEAPENA.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Van%20Helsing%20-%20O%20Ca%C3%A7ador%20de%20Monstros.jpg" group-title="Letra - V", "Van Helsing: O Caçador de Monstros"
+http://tcloud2.azureedge.net/RCFServer3/ondemand/VNHLSHOCDRDMSNTRO.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Velozes%20e%20Furiosos.jpg" group-title="Letra - V", "Velozes & Furiosos"
 http://tcloud2.azureedge.net/RCFServer1/ondemand/VLZEFROSOS01.mp4
