@@ -3774,7 +3774,7 @@ https://d16mczbqy7j9rw.cloudfront.net/RCServer06/ondemand/GRATT15EP24.mp4
 https://d16mczbqy7j9rw.cloudfront.net/RCServer06/ondemand/GRATT15EP25.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Greys%20Anatomy%2016.jpg" group-title="Grey’s Anatomy", "16x01 - Não Há Nada a Que Se Agarrar"
-https://d16mczbqy7j9rw.cloudfront.net/RCServer12/ondemand/GRATS16EP01.mp4
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/GRATT16EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Greys%20Anatomy%2016.jpg" group-title="Grey’s Anatomy", "16x02 - De Volta à Sela"
 https://d16mczbqy7j9rw.cloudfront.net/RCServer12/ondemand/GRATS16EP02.mp4
@@ -5181,6 +5181,36 @@ https://d16mczbqy7j9rw.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP17.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x18 - Trampolim"
 https://d16mczbqy7j9rw.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP18.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x01 - Desastre"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x02 - Dívidas"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x03 - Claire"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x04 - Pegue a Minha Mão"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x05 - Primeiro Caso, Segunda Base"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x06 - Ângulo de 45 Graus"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x07 - Deaf"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x08 - Para a Lua"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x09 - Incompleta"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/O%20Bom%20Doutor%203.jpg" group-title="O Bom Doutor / The Good Doctor", "03x10 - Amigos e Família"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/OBMDTRT03EP10.mp4
+
 ################## O Justiceiro ########################
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x01 - Três da Madrugada"
@@ -5988,6 +6018,30 @@ https://d16mczbqy7j9rw.cloudfront.net/RCServer04/ondemand/SXEDCTNT01EP07.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%201.jpg" group-title="Sex Education", "01x08"
 https://d16mczbqy7j9rw.cloudfront.net/RCServer04/ondemand/SXEDCTNT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%202.jpg" group-title="Sex Education", "02x01"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/SXEDCTNT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%202.jpg" group-title="Sex Education", "02x02"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/SXEDCTNT02EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%202.jpg" group-title="Sex Education", "02x03"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/SXEDCTNT02EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%202.jpg" group-title="Sex Education", "02x04"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/SXEDCTNT02EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%202.jpg" group-title="Sex Education", "02x05"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/SXEDCTNT02EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%202.jpg" group-title="Sex Education", "02x06"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/SXEDCTNT02EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%202.jpg" group-title="Sex Education", "02x07"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/SXEDCTNT02EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%202.jpg" group-title="Sex Education", "02x08"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/SXEDCTNT02EP08.mp4
 
 ################## Sobrenatural ########################
 
@@ -8394,6 +8448,15 @@ https://dvpa3ulcl9eyc.cloudfront.net/RCServer08/ondemand/VKGST06EP03.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x04 - Todos os Prisioneiros"
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer08/ondemand/VKGST06EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x05 - A Chave"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/VKGST06EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x06 - Morte e a Serpente"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/VKGST06EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x07 - A Donzela de Gelo"
+https://d1gml6241y9axx.cloudfront.net/RCServer08/ondemand/VKGST06EP07.mp4
 
 ################## Vis a Vis ########################
 
