@@ -1145,6 +1145,9 @@ http://orinew8090.azureedge.net/RCFServer4/ondemand/DOSDPL.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Doutor%20Estranho.jpg" group-title="Letra - D", "Doutor Estranho"
 http://orinew8091.azureedge.net/RCFServer3/ondemand/DRESTNHO.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Doutor%20Sono.jpg" group-title="Letra - D", "Doutor Sono"
+http://cdn2.canais.ink/RCFServer3/ondemand/DTRSNO.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Drag%C3%B5es%20-%20O%20Presente%20do%20F%C3%BAria%20da%20Noite.jpg" group-title="Letra - D", "Dragões: O Presente do Fúria da Noite"
 http://orinew8090.azureedge.net/RCFServer4/ondemand/DRGOSOPRNSTDFURA.mp4
 
