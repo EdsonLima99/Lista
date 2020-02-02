@@ -3779,6 +3779,9 @@ http://cdn2.canais.ink/RCServer08/ondemand/GRATT16EP01.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Greys%20Anatomy%2016.jpg" group-title="Grey’s Anatomy", "16x02 - De Volta à Sela"
 http://cdn.canais.ink/RCServer12/ondemand/GRATS16EP02.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Greys%20Anatomy%2016.jpg" group-title="Grey’s Anatomy", "16x03 - Reunidos"
+http://cdn2.canais.ink/RCServer08/ondemand/GRATT16EP03.mp4
+
 ################## iCarly ########################
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/iCarly1.jpg" group-title="iCarly", "01x01 - Bem-Vindos ao iCarly.com"
@@ -5993,6 +5996,12 @@ http://cdn.canais.ink/RCServer12/ondemand/PRBKT05EP09.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Riverdale%204.jpg" group-title="Riverdale", "04x09 - Capítulo Sessenta e Seis: Tangerina"
 http://cdn2.canais.ink/RCServer08/ondemand/RVDLT04EP09.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Riverdale%204.jpg" group-title="Riverdale", "04x11 - Capitulo Sessenta e Sete: Varsity Blues"
+http://cdn2.canais.ink/RCServer08/ondemand/RVDLT04EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Riverdale%204.jpg" group-title="Riverdale", "04x11 - Capitulo Sessenta e Oito: Show de Perguntas"
+http://cdn2.canais.ink/RCServer08/ondemand/RVDLT04EP11.mp4
+
 ################## Sex Education ########################
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sex%20Education%201.jpg" group-title="Sex Education", "01x01"
@@ -6992,6 +7001,12 @@ http://cdn.canais.ink/RCServer08/ondemand/SPNT15EP06.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x07 - Última Chamada"
 http://cdn.canais.ink/RCServer08/ondemand/SPNT15EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x08 - Pai Nosso, Que Não Está no Céu"
+http://cdn2.canais.ink/RCServer08/ondemand/SPNT15EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Sobrenatural%2015.jpg" group-title="Sobrenatural", "15x09 - A Armadilha"
+http://cdn2.canais.ink/RCServer08/ondemand/SPNT15EP09.mp4
 
 ################## The Boys ########################
 
@@ -8457,6 +8472,12 @@ http://cdn2.canais.ink/RCServer08/ondemand/VKGST06EP06.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x07 - A Donzela de Gelo"
 http://cdn2.canais.ink/RCServer08/ondemand/VKGST06EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x08 - Valhalla Pode Esperar"
+http://cdn2.canais.ink/RCServer08/ondemand/VKGST06EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Series/Vikings%206.jpg" group-title="Vikings", "06x09 - Ressurreição"
+http://cdn2.canais.ink/RCServer08/ondemand/VKGST06EP09.mp4
 
 ################## Vis a Vis ########################
 
