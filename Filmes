@@ -968,7 +968,7 @@ http://cdn.canais.ink/RCFServer4/ondemand/CNSTNTNE.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Coraline.jpg" group-title="Letra - C", "Coraline e o Mundo Secreto"
 http://cdn2.canais.ink/RCFServer2/ondemand/CORLNE.mp4
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1gof6_ThNQ3AONCwpquCoybrUvI08rakL" group-title="Letra - C", "Coringa"
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1gof6_ThNQ3AONCwpquCoybrUvI08rakL" group-title="Letra - C" subtitles="https://drive.google.com/uc?export=download&id=1d8nkATqGm2XcgtkOl-oMAgtbnkwkACgj", "Coringa"
 http://cdn2.canais.ink/RCFServer3/ondemand/CRNGA.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Corpo%20Fechado.jpg" group-title="Letra - C", "Corpo Fechado"
