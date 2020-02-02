@@ -968,7 +968,7 @@ http://cdn.canais.ink/RCFServer4/ondemand/CNSTNTNE.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Coraline.jpg" group-title="Letra - C", "Coraline e o Mundo Secreto"
 http://cdn2.canais.ink/RCFServer2/ondemand/CORLNE.mp4
 
-#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Coringa.jpg" group-title="Letra - C", "Coringa"
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1gof6_ThNQ3AONCwpquCoybrUvI08rakL" group-title="Letra - C", "Coringa"
 http://cdn2.canais.ink/RCFServer3/ondemand/CRNGA.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Corpo%20Fechado.jpg" group-title="Letra - C", "Corpo Fechado"
@@ -1148,7 +1148,7 @@ http://cdn.canais.ink/RCFServer4/ondemand/DOSDPL.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Doutor%20Estranho.jpg" group-title="Letra - D", "Doutor Estranho"
 http://cdn2.canais.ink/RCFServer3/ondemand/DRESTNHO.mp4
 
-#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Doutor%20Sono.jpg" group-title="Letra - D", "Doutor Sono"
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1P0v_XxLiLUIE5taTJskiioNer-BPhnBZ" group-title="Letra - D", "Doutor Sono"
 http://cdn2.canais.ink/RCFServer3/ondemand/DTRSNO.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Drag%C3%B5es%20-%20O%20Presente%20do%20F%C3%BAria%20da%20Noite.jpg" group-title="Letra - D", "Dragões: O Presente do Fúria da Noite"
@@ -1384,6 +1384,9 @@ http://cdn2.canais.ink/RCFServer3/ondemand/FREBRTHR.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Forca%20G.jpg" group-title="Letra - F", "Força G"
 http://cdn2.canais.ink/RCFServer1/ondemand/FRCAG.mp4
+
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1Lbug2C6hXsIXsvOidwFl6QR6kLsg3P5B" group-title="Letra - F", "*Ford vs Ferrari*"
+----------
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Forrest%20Gump%20-%20O%20Contador%20de%20Hist%C3%B3rias.jpg" group-title="Letra - F", "Forrest Gump: O Contador de Histórias"
 http://cdn.canais.ink/RCFServer4/ondemand/FORSTGRMPOCNTADRDHSTRIA.mp4
