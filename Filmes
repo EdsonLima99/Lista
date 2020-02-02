@@ -584,6 +584,9 @@ http://cdn2.canais.ink/RCFServer1/ondemand/ASCRNCDRDCKECLPSMRTL.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/As%20Cr%C3%B4nicas%20de%20Spiderwick.jpg" group-title="Letra - A", "As Crônicas de Spiderwick"
 http://cdn.canais.ink/RCFServer4/ondemand/ASCRNCSDSPRWCK.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/As%20Discipulas%20de%20Charles%20Manson.jpg"" group-title="Letra - A", "As Discipulas de Charles Manson"
+http://cdn2.canais.ink/RCFServer3/ondemand/ASDSCPLSDCRLSMNSN.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/As%20F%C3%A9rias%20de%20Mr.%20Bean.jpg" group-title="Letra - A", "As Férias de Mr. Bean"
 http://cdn2.canais.ink/RCFServer3/ondemand/AFRSDMRBEN.mp4
 
@@ -1274,6 +1277,9 @@ http://cdn2.canais.ink/RCFServer3/ondemand/ELDNCEUDNC4.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Ela%20Dan%C3%A7a%20Eu%20Dan%C3%A7o5.jpg" group-title="Letra - E", "Ela Dança, Eu Danço 5: Tudo ou Nada"
 http://cdn2.canais.ink/RCFServer3/ondemand/ELDNCEUDNC5.mp4
 
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Ela%20Dan%C3%A7a,%20Eu%20Dan%C3%A7o%206.jpg" group-title="Letra - E", "Ela Dança, Eu Danço 6"
+http://cdn2.canais.ink/RCFServer3/ondemand/ELDNCEUDNC6.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Elektra.jpg" group-title="Letra - E", "Elektra"
 http://cdn2.canais.ink/RCFServer2/ondemand/ELKTRA.mp4
 
@@ -1732,6 +1738,18 @@ http://cdn2.canais.ink/RCFServer3/ondemand/INTNET.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Intoc%C3%A1veis.jpg" group-title="Letra - I", "Intocáveis"
 http://cdn.canais.ink/RCFServer4/ondemand/INTCVS.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/InuYasha%201%20-%20Sentimentos%20que%20Transcendem%20o%20Tempo.jpg" group-title="Letra - I", "InuYasha 1: Sentimentos que Transcendem o Tempo"
+http://cdn2.canais.ink/RCFServer3/ondemand/INYSHFLM1.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/InuYasha%202%20-%20O%20Castelo%20das%20Ilus%C3%B5es%20Dentro%20do%20Espelho.jpg" group-title="Letra - I", "InuYasha 2: O Castelo das Ilusões Dentro do Espelho"
+http://cdn2.canais.ink/RCFServer3/ondemand/INYSHFLM2.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/InuYasha%203%20-%20A%20Espada%20Dominadora%20do%20Mundo.jpg" group-title="Letra - I", "InuYasha 3: A Espada Dominadora do Mundo"
+http://cdn2.canais.ink/RCFServer3/ondemand/INYSHFLM3.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/InuYasha%204%20-%20Fogo%20na%20Ilha%20M%C3%ADstica.jpg" group-title="Letra - I", "InuYasha 4: Fogo na Ilha Mística"
+http://cdn2.canais.ink/RCFServer3/ondemand/INYSHFLM4.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Invas%C3%A3o.jpg" group-title="Letra - I", "Invasão"
 http://cdn2.canais.ink/RCFServer2/ondemand/INVSAO.mp4
@@ -2459,7 +2477,7 @@ http://cdn2.canais.ink/RCFServer2/ondemand/OEXTRMDRDFUT1.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/O%20Exterminador%20do%20Futuro4.jpg" group-title="Letra - O", "O Exterminador do Futuro: A Salvação"
 http://cdn2.canais.ink/RCFServer2/ondemand/OEXTRMDRDFUT4.mp4
 
-#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/O%20Exterminador%20do%20Futuro4.jpg" group-title="Letra - O", "O Exterminador do Futuro: Destino Sombrio"
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/O%20Exterminador%20do%20Futuro%20-%20Destino%20Sombrio.jpg" group-title="Letra - O", "O Exterminador do Futuro: Destino Sombrio"
 http://cdn2.canais.ink/RCFServer3/ondemand/OEXTRMDRDFUTDSTNSMB.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/O%20Exterminador%20do%20Futuro5.jpg" group-title="Letra - O", "O Exterminador do Futuro: Gênesis"
@@ -2494,6 +2512,9 @@ http://cdn2.canais.ink/RCFServer1/ondemand/OGNTDFERO.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Legado/O%20Grande%20Dave.jpg" group-title="Letra - O", "O Grande Dave"
 http://cdn.canais.ink/RCFServer4/ondemand/OGRNDVE.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/O%20Grande%20Ditador.jpg" group-title="Letra - O", "O Grande Ditador"
+http://cdn2.canais.ink/RCFServer3/ondemand/OGRNDTDR.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/O%20Grande%20Drag%C3%A3o%20Branco.jpg" group-title="Letra - O", "O Grande Dragão Branco"
 http://cdn2.canais.ink/RCFServer1/ondemand/OGRNDRGBRNCO.mp4
