@@ -8,11 +8,11 @@
 
 ################## Filmes ########################
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/2%20Velozes%202%20Furiosos.jpg" subtitles="" group-title="Números & Símbolos", "+ Velozes + Furiosos"
-http://cdn2.canais.ink/RCFServer1/ondemand/VLZEFROSOS02.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1JiH8zILRUwDpAFqrMjE0TzjjFOmZ8Lzg" subtitles="" group-title="Números & Símbolos", "+ Velozes + Furiosos"
+https://lh3.googleusercontent.com/-dvLmqjUyYsjbf4j0NLrSrvVKxJEw_gtE1Rtsc4pbSwrqrGo3u4q8wsm-25uZQRPqs9XfdB6ZKQcMtkDcgeMXZoDpLmPK54uI6-wfMWvL3TZqUn9vXpuMU0uH2I-FFqnIFWaim2mdQ=m37
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/12%20Horas%20Para%20Sobreviver%20-%20O%20Ano%20da%20Elei%C3%A7%C3%A3o.jpg" subtitles="" group-title="Números & Símbolos", "12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3"
-http://cdn2.canais.ink/RCFServer3/ondemand/UMNTDCRM3.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1Q9tkqDbonIhU02dXIJFMxzi0d3eRIT3H" subtitles="" group-title="Números & Símbolos", "12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3"
+https://lh3.googleusercontent.com/RAhH9OIUZJrTwodiBZ96n60ZBdQFyjTx_YvDVOs_r9L2Kn8xKGwIW8soribqFbJezB5Qns1-WG9Pq95jACjct4nHg4ulkZ3IS9_w1_QX_pRlhhWA0jv6TFMWHq8hP1zwhRlJaPu_Bw=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/17%20Outra%20Vez.jpg" subtitles="" group-title="Números & Símbolos", "17 Outra Vez"
 http://cdn2.canais.ink/RCFServer2/ondemand/17OUTVZ.mp4
@@ -130,6 +130,9 @@ http://cdn.canais.ink/RCFServer4/ondemand/AESPRDUMLGRE.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/A%20Face%20da%20Morte%20-%20O%20Dem%C3%B4nio%20Veste%20Sorriso.jpg" subtitles="" group-title="Letra - A", "A Face da Morte: O Demônio Veste Sorriso"
 http://cdn.canais.ink/RCFServer4/ondemand/AFCDMRTODEMOVSTSRSO.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=18etP74PlJBnIlfJ02K3dUoUSbZJ0lj_J" subtitles="https://drive.google.com/uc?export=download&id=1XFMEFmlcN2q0lMk66RjHX-MPbjTAnOL6" group-title="Letra - A", "A Família Addams"
+https://lh3.googleusercontent.com/w5_w87OHBmyg5nhSB36GyhXckUUcv4nRtRSqvGS7MQb05a920JO-OzXen1gWsUOGzhlCIPae1vd4ZAW5Zau2GKa3LwZmZ59zAXZPFQ_0cSzmE6l8qoP1t0XnOEhUturXMe_ZbTRG7A=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/A%20Fam%C3%ADlia%20do%20Futuro.jpg" subtitles="" group-title="Letra - A", "A Família do Futuro"
 http://cdn2.canais.ink/RCFServer1/ondemand/AFMLDFTRO.mp4
@@ -584,14 +587,17 @@ http://cdn2.canais.ink/RCFServer1/ondemand/ASCRNCDRDCKECLPSMRTL.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/As%20Cr%C3%B4nicas%20de%20Spiderwick.jpg" subtitles="" group-title="Letra - A", "As Crônicas de Spiderwick"
 http://cdn.canais.ink/RCFServer4/ondemand/ASCRNCSDSPRWCK.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/As%20Discipulas%20de%20Charles%20Manson.jpg"" subtitles="" group-title="Letra - A", "As Discipulas de Charles Manson"
-http://cdn2.canais.ink/RCFServer3/ondemand/ASDSCPLSDCRLSMNSN.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=18XGRwBIppCoIhbNgt02fPIj6uVNh1pJz" subtitles="https://drive.google.com/uc?export=download&id=17EAbfR1ExvK-B-s2k_b4-2vjDfXu9pG4" group-title="Letra - A", "As Discipulas de Charles Manson"
+https://lh3.googleusercontent.com/qIVHAN6dzRUtvcYi-DZeb110Tm9xMiknArVsuHUtw9cGE4mO-07EMu9MHdKfrLwV6nLCpckMJOlkYTNNgtEzSR5xTd3izsAAO1ulTa90nb07krtv4wQzUxYWCGV8ZabfGBOdVt41eA=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/As%20F%C3%A9rias%20de%20Mr.%20Bean.jpg" subtitles="" group-title="Letra - A", "As Férias de Mr. Bean"
 http://cdn2.canais.ink/RCFServer3/ondemand/AFRSDMRBEN.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/As%20Garotas%20Da%20Trag%C3%A9dia.jpg" subtitles="" group-title="Letra - A", "As Garotas Da Tragédia"
 http://cdn.canais.ink/RCFServer4/ondemand/ASGRTSDTRGDIA.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1sum_FtGnQGYRD1K4o5FBwkx6SCoSnqZj" subtitles="" group-title="Letra - A", "As Golpistas"
+https://lh3.googleusercontent.com/lF68Wwu6yQypV2crrKm9ol0pn5lS13x0Y4jDGUFCqFoiE1eNnS5Lwtf3Yo8ntuHAbVwB33DyBr4o5UiFT2gN2xlOwkHzsc_z-ZodM-07OJKPsPny-ozEXZRBG998Ld2HIu1D9IE2IA=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/As%20Loucas%20Aventuras%20de%20James%20West.jpg" subtitles="" group-title="Letra - A", "As Loucas Aventuras de James West"
 http://cdn.canais.ink/RCFServer4/ondemand/ASLCSAVNTSDJMSWST.mp4
@@ -601,6 +607,9 @@ http://cdn.canais.ink/RCFServer4/ondemand/ASMLPLVRS.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/As%20Muitas%20Aventuras%20do%20Ursinho%20Puff.jpg" subtitles="" group-title="Letra - A", "As Muitas Aventuras do Ursinho Puff"
 http://cdn2.canais.ink/RCFServer3/ondemand/ASMTSAVNTRSDUSRNPF.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=13miZruB1vE2PTGjKF7EFJ4AnmJxG0Ggx" subtitles="https://drive.google.com/uc?export=download&id=17nAkycphA7o2xjAsagPzuc0XX08Plctf" group-title="Letra - A", "As Panteras"
+https://lh3.googleusercontent.com/XeWLQSwlDH6c-cdZIoKLatrCL8X_qGTaopn2pV47MM50H4qPTr2rheCQYddiOAaGlXHcgnU33iYV3IGs9KEN1CFZLANbpcXuiheiYjUgPmVEWLJuat-qtRmyS_HDc3zig3SEqOe9IQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/As%20Tartarugas%20Ninja1.jpg" subtitles="" group-title="Letra - A", "As Tartarugas Ninja"
 http://cdn2.canais.ink/RCFServer3/ondemand/ASTARTGUSNJS1.mp4
@@ -679,6 +688,9 @@ http://cdn2.canais.ink/RCFServer2/ondemand/AUSTRLIA.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Avatar.jpg" subtitles="" group-title="Letra - A", "Avatar"
 http://cdn2.canais.ink/RCFServer1/ondemand/AVTR.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1U5mDy93BdZ-XPihtZqUVYilDmV_Lbb_s" subtitles="" group-title="Letra - A", "Aventuras de Betty"
+https://lh3.googleusercontent.com/Vi7RbEualJHY6j9O-mC0xUoApAF_MJcjy2PExeMpF2yV_j8cczcmRDWDl652gB60FOEEys2WSLwTa5FFJT6dUc2Lfo_E3SpHUxU2Eq6tXiKZI4iO6L7yErHiaJrfrot_gOHqR8CC9w=m22
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Axl%20-%20O%20C%C3%A3o%20Rob%C3%B4.jpg" subtitles="" group-title="Letra - A", "Axl: O Cão Robô"
 http://cdn2.canais.ink/RCFServer1/ondemand/AXLOCAORBO.mp4
@@ -833,6 +845,9 @@ http://cdn2.canais.ink/RCFServer3/ondemand/CDUMTMAGMEAQMRCE.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Cadaver.jpg" subtitles="" group-title="Letra - C", "Cadáver"
 http://cdn2.canais.ink/RCFServer2/ondemand/CDVR.mp4
 
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=16_dSxYC0vvzWtpsZiqyUL486y1uXrCVs" subtitles="" group-title="Letra - C", "Caminhando Com Dinossauros"
+https://lh3.googleusercontent.com/1vV-Xo61qDfctG0Z5r_uCSYls1ULPNr1c0Uc3qwuDw_GsXxtSpsHL41Zms-z5Ukuz15HYS92F2ITv3cPCT0ECnb87_yaea6ZlKRpdCDq8m4G7YqYj_q9IZfbyQXm-jyMdBNwrOnOJw=m37
+
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg" subtitles="" group-title="Letra - C", "Capitã Marvel"
 http://cdn2.canais.ink/RCFServer2/ondemand/CPTMRVL.mp4
 
@@ -971,7 +986,7 @@ http://cdn.canais.ink/RCFServer4/ondemand/CNSTNTNE.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Coraline.jpg" subtitles="" group-title="Letra - C", "Coraline e o Mundo Secreto"
 http://cdn2.canais.ink/RCFServer2/ondemand/CORLNE.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1gof6_ThNQ3AONCwpquCoybrUvI08rakL" subtitles="" group-title="Letra - C", "Coringa"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1gof6_ThNQ3AONCwpquCoybrUvI08rakL" subtitles="https://drive.google.com/uc?export=download&id=1TiQxrt4lEC0y-PIBnA0oJ_5y0DfXfmAc" group-title="Letra - C", "Coringa"
 https://lh3.googleusercontent.com/3PTuH09MpzgNMJE6AEIHHFNLSJeImyJhh3xWjZzZI1oALQlBoa-2Ax3S6vU-AOpS14C_qzLxqB__dMzUaTtw8jVeNzemj271WXxql4KhuKJylfMgT4P6mljrBK0cs6UwSm8vsVeJVw=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Corpo%20Fechado.jpg" subtitles="" group-title="Letra - C", "Corpo Fechado"
@@ -1304,8 +1319,8 @@ http://cdn2.canais.ink/RCFServer3/ondemand/ENDBRDO.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Enrolados.jpg" subtitles="" group-title="Letra - E", "Enrolados"
 http://cdn2.canais.ink/RCFServer2/ondemand/ENRLDS.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg" subtitles="" group-title="Letra - E", "Era uma Vez em... Hollywood"
-http://cdn2.canais.ink/RCFServer3/ondemand/ERAUMVZEMHLWOD.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1S8Z55_G6QpiN6SRRt9WFg09H3JUcWeQc" subtitles="https://drive.google.com/uc?export=download&id=1Dc2I7NSv23xwvU76PBOwLCiq9ppHCIAE" group-title="Letra - E", "Era uma Vez em... Hollywood"
+https://lh3.googleusercontent.com/QsUQyXEZcf-knyBgf6Z8KP_TOJIRtcistYlTMFDvrq6K9X16IKLT1SbYWoi_d1hVpaH-dK34hdxmSVmPi9O7GsWdSbHewQkh8NB-Qo1g_15m0Fa0ee-7UeJSBZHWYynAIhTiiLyfNg=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Era%20uma%20Vez%20um%20Deadpool.jpg" subtitles="" group-title="Letra - E", "Era uma Vez um Deadpool"
 http://cdn2.canais.ink/RCFServer3/ondemand/ERUMVZDEDPL.mp4
@@ -2024,7 +2039,7 @@ http://cdn.canais.ink/RCFServer4/ondemand/MDRGDADSMRTS.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Mal%C3%A9vola.jpg" subtitles="" group-title="Letra - M", "Malévola"
 http://cdn2.canais.ink/RCFServer3/ondemand/MALVLA.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1AfdjhrvF6ZsH5fSnlsQLt8fbY7j4Msdd" subtitles="" group-title="Letra - M", "Malévola: Dona do Mal"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1AfdjhrvF6ZsH5fSnlsQLt8fbY7j4Msdd" subtitles="https://drive.google.com/uc?export=download&id=1QQh55VnvIU_wzQzyviBjlC7Gceed9OkV" group-title="Letra - M", "Malévola: Dona do Mal"
 https://lh3.googleusercontent.com/m4iq4b1PsBRQwmUptwE93nVz8drtK6l6fBlrFlNvJa794mTpbdKUQtKnOeamlMofCCctBN4muGqE3tBdLK5DiY30Tou33ynImP-MDk1H-lyhG77DKbrNu51M-OCoBZxz4ERNwCPF6Q=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Maligno.jpg" subtitles="" group-title="Letra - M", "Maligno"
@@ -2137,6 +2152,9 @@ http://cdn2.canais.ink/RCFServer1/ondemand/MIBHMDPRT03.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Midsommar%20-%20O%20Mal%20N%C3%A3o%20Espera%20a%20Noite.jpg" subtitles="" group-title="Letra - M", "Midsommar: O Mal Não Espera a Noite"
 http://cdn2.canais.ink/RCFServer3/ondemand/MDSMROMALNESPRANTE.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=14aqM_p-B0Dzui5uJkbTM0J4pQke_1qRd" subtitles="https://drive.google.com/uc?export=download&id=1XR9FfwZga2xYtF3iMPE35bektvlNXH6U" group-title="Letra - M", "Midway – Batalha em Alto-Mar"
+https://lh3.googleusercontent.com/bOjM2bKsbYjgX3KnF8TKWLSgJDMSL7UA_MFtlWW_AqURVn90iF00y8d5f5GIbzzIDJ9v4esI756x2qvvFzpfqm2FdJZvuZYHXfq2Ev_rqNO4Z8dTGxjud_kNAOIoEsu7dRftNhS1sA=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Minha%20M%C3%A3e%20%C3%89%20Uma%20Pe%C3%A7a%20-%20O%20Filme.jpg" subtitles="" group-title="Letra - M", "Minha Mãe é uma Peça: O Filme"
 http://cdn2.canais.ink/RCFServer3/ondemand/MNHMAEUMPC.mp4
@@ -3056,6 +3074,9 @@ http://cdn.canais.ink/RCFServer4/ondemand/PAPBTUMBLAO.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Para%20Todos%20os%20Garotos%20que%20J%C3%A1%20Amei.jpg" subtitles="" group-title="Letra - P", "Para Todos os Garotos que Já Amei"
 http://cdn.canais.ink/RCFServer4/ondemand/PRTDSOSGRTSQUJAME.mp4
 
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1TdEhBj3tag7tDkWQWmCIwEboFPo-2xzU" subtitles="https://drive.google.com/uc?export=download&id=1RJrTOKrO1-P8jyCjGt7k0-8H62xr3njt" group-title="Letra - P", "Parasita (Legendado)"
+https://lh3.googleusercontent.com/1rsJsNYCixFKgxQL0TApxVdNyGDIL_CQq2XaisooewLBgsmuiNNvJ0ZxVHhFvtF6KGDEJevog9OcA1W5UbRwAORlf4tACNmwblFyH2ZEECjIN0V9q8KNFUypJsBHco1EVBy43tP33A=m37
+
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Pateta%20-%20O%20Filme.jpg" subtitles="" group-title="Letra - P", "Pateta: O Filme"
 http://cdn.canais.ink/RCFServer4/ondemand/PATEAOFLM.mp4
 
@@ -3221,7 +3242,7 @@ http://cdn.canais.ink/RCFServer4/ondemand/PRCRNDONEM.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Projeto%20Almanaque.jpg" subtitles="" group-title="Letra - P", "Projeto Almanaque"
 http://cdn2.canais.ink/RCFServer1/ondemand/PRJTALMNQ.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=19JBzVlbFHa9-_1CdFPUt3kubBln6O25b" subtitles="" group-title="Letra - P", "Projeto Gemini"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=19JBzVlbFHa9-_1CdFPUt3kubBln6O25b" subtitles="https://drive.google.com/uc?export=download&id=1tMkbm2gJ28GHMXG4UQ5YoGy1eCyawi2b" group-title="Letra - P", "Projeto Gemini"
 https://lh3.googleusercontent.com/CVZYQReqPCdltgdjfixfLPOCSs5f4C2EgPK8i968HfnrXoVXC1C2T4Z4IQUz5UMHnO4stj348mXZ-ThlnptAeCATmUGMNuK5pqoy0nR3dc4xW1inrTIOWM6_KzOkdK6TGOQa0obzSA=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Projeto%20X%20-%20Uma%20Festa%20Fora%20de%20Controle.jpg" subtitles="" group-title="Letra - P", "Projeto X: Uma Festa Fora de Controle"
@@ -3647,8 +3668,8 @@ http://cdn.canais.ink/RCFServer4/ondemand/TAX3.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/T%C3%A1xi%204.jpg" subtitles="" group-title="Letra - T", "Táxi 4"
 http://cdn.canais.ink/RCFServer4/ondemand/TAX4.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/T%C3%A1xi%205.jpg" subtitles="" group-title="Letra - T", "Táxi 5"
-http://cdn2.canais.ink/RCFServer3/ondemand/TAX5.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1WoO3S6-52VDBPrsicmaBN0E79X9tnACv" subtitles="https://drive.google.com/uc?export=download&id=1Cz_AfG-NYQSz4nG-D1vXLD72wxeKNoTi" group-title="Letra - T", "Táxi 5"
+https://lh3.googleusercontent.com/VRVDNHDlfLdL87veiz30fVCqz7_w1xxK6JTnCgsqun6qhKa26aPMzkfa1S8GOdVe9dQXKRU2nCwQMETODztQqLxTrplr3sGbUcG0EnYcCG_FZXXhhIDvUkoQX7GfyuMeWC48CYsxFw=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Te%20Pego%20na%20Sa%C3%ADda.jpg" subtitles="" group-title="Letra - T", "Te Pego na Saída"
 http://cdn.canais.ink/RCFServer4/ondemand/TPGNSDA.mp4
@@ -3790,6 +3811,9 @@ http://cdn.canais.ink/RCFServer4/ondemand/TRPLX.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Tr%C3%B3ia.jpg" subtitles="" group-title="Letra - T", "Tróia"
 http://cdn2.canais.ink/RCFServer2/ondemand/TROIA.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=16OAFjvd6Y9_k39GfpxuKiWq37qySV2KR" subtitles="https://drive.google.com/uc?export=download&id=1wal8Z41bFO-tIZKD7tLTrTcitWLfT2ku" group-title="Letra - T", "Trocando os Pés"
+https://lh3.googleusercontent.com/auMykyXghUsvaN5-csS64EMV_mTayzt6LskxtwyBV8LsvYxNK7_ghnVXiICufmLgZbWMlgf8xbezve5m17SmrjFuzdR9twddrE3yqi7bzS4ssLhlugfybRJGB4yCcD0A5hQ6QJbxAw=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Trolls.jpg" subtitles="" group-title="Letra - T", "Trolls"
 http://cdn2.canais.ink/RCFServer3/ondemand/TRLS.mp4
@@ -3968,11 +3992,11 @@ http://cdn2.canais.ink/RCFServer2/ondemand/VDRO.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Vingadores%20-%20Era%20de%20Ultron.jpg" subtitles="" group-title="Letra - V", "Vingadores: Era de Ultron"
 http://cdn2.canais.ink/RCFServer3/ondemand/VNGDRSEDURON.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Vingadores%20-%20Guerra%20Infinita.jpg" subtitles="" group-title="Letra - V", "Vingadores: Guerra Infinita"
-http://cdn.canais.ink/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=13TPhBQFzKTHGYHtX9yYAqU2kmfcT9j_g" subtitles="https://drive.google.com/uc?export=download&id=1v5LL-GAugzxdkGPbQ2qFxsqDR2VUcGKi" group-title="Letra - V", "Vingadores: Guerra Infinita"
+https://lh3.googleusercontent.com/8GiaGssO9_xvId_BkTmu8Yt2xxPCbJzRdu4E0Bk-f156HvP9RttGzbqJYhDHFZpTiPG36xDoh5RYszIhot0IxUwlnusuByYxK5jFuse2wqJmOnP3OeUswlMUENXyG7X3jWih2u9TJA=m37
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1DBM3ChrwAL2U4V3Vta2ypIBDBaWbPRZH" subtitles="" group-title="Letra - V", "Vingadores: Ultimato"
-http://cdn2.canais.ink/RCFServer1/ondemand/VNGDRSULTMTO.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1DBM3ChrwAL2U4V3Vta2ypIBDBaWbPRZH" subtitles="https://drive.google.com/uc?export=download&id=1JMehDdIsMuhnGCpUV2ybBGumcYnJEjA-" group-title="Letra - V", "Vingadores: Ultimato"
+https://lh3.googleusercontent.com/t4PTUJh9PM2B0r9GyqH_H4_0CXraT6-ZDRGwE4NKJCv8eNFny4w97Hur0t6-7Y2pP9TIAM4x7fgAQ5Pb_nMjHIwXg4ZvrBQ85vcR3cIHloHncMJ-ZgSgrUxlIBo7HRXTlfzDp7E3PA=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Vira-Lata.jpg" subtitles="" group-title="Letra - V", "Vira-Lata"
 http://cdn.canais.ink/RCFServer4/ondemand/VRLTA.mp4
@@ -4082,5 +4106,5 @@ http://cdn2.canais.ink/RCFServer2/ondemand/ZOTPIA.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Zumbil%C3%A2ndia.jpg" subtitles="" group-title="Letra - Z", "Zumbilândia"
 http://cdn2.canais.ink/RCFServer3/ondemand/ZMBLND.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1Epik8_DhWbSMcXsfrsvBvdrjR3XvO4bB" subtitles="" group-title="Letra - Z", "Zumbilândia: Atire Duas Vezes"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1Epik8_DhWbSMcXsfrsvBvdrjR3XvO4bB" subtitles="https://drive.google.com/uc?export=download&id=1q3WwoBe1F4uCm-BTrbX_xSCvpWfmIuHV" group-title="Letra - Z", "Zumbilândia: Atire Duas Vezes"
 https://lh3.googleusercontent.com/K6lVXDLExq1WbhlzdVSp6PE6jy7inOjKDHUfx8-jYUZs0w346peJi2g4r8YYQGE5S_9etUb-NR7JuQWfmpL5CoU7iXD5xvnsCaJBk8MpTj1ZWkcXbdlVN4zX3Q3gSCEDDsBbQ7V2pw=m37
