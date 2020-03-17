@@ -344,9 +344,6 @@ http://cdn2.canais.ink/RCFServer3/ondemand/AVSTA.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/A%20Volta%20do%20Todo%20Poderoso.jpg" subtitles="" group-title="Letra - A", "*A Volta do Todo Poderoso"
 http://cdn2.canais.ink/RCFServer3/ondemand/AVLTDTDPDRSO.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Abomin%C3%A1vel.jpg" subtitles="" group-title="Letra - A", "*Abominável"
-http://cdn2.canais.ink/RCFServer3/ondemand/ABMNVL.mp4
-
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Acabando%20com%20o%20Sossego.jpg" subtitles="" group-title="Letra - A", "*Acabando com o Sossego"
 http://cdn2.canais.ink/RCFServer3/ondemand/ACNDOCMOSOSGO.mp4
 
@@ -989,8 +986,8 @@ http://cdn.canais.ink/RCFServer4/ondemand/CNSTNTNE.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Coraline.jpg" subtitles="" group-title="Letra - C", "*Coraline e o Mundo Secreto"
 http://cdn2.canais.ink/RCFServer2/ondemand/CORLNE.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1PsLVE-n9zXTpluNVuHwHPlB5oXmHI3ul" subtitles="" group-title="Letra - C", "**Coringa*"
-----------
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1PsLVE-n9zXTpluNVuHwHPlB5oXmHI3ul" subtitles="" group-title="Letra - C", "Coringa"
+https://lh3.googleusercontent.com/gLKNiWxCSYfi4vVcAJ4Cn9NuUKoFqhEdL6SNHJJcU5mfss7kPqWDyfE1UJr88d3ssSTUcp_rjhpcOJ0LmarOAhofSz-WD-iFa8A0Sk3rLD_XqDmWfh67UGETn1zI3Ofb03P6RBFymA=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Corpo%20Fechado.jpg" subtitles="" group-title="Letra - C", "*Corpo Fechado"
 http://cdn.canais.ink/RCFServer4/ondemand/CRPFCHDO.mp4
