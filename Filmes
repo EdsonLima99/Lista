@@ -14,8 +14,8 @@ https://lh3.googleusercontent.com/-dvLmqjUyYsjbf4j0NLrSrvVKxJEw_gtE1Rtsc4pbSwrqr
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=11Ok3c69_031VWQNwUbsCMcaLWMF8q_Qw" subtitles="" group-title="Números & Símbolos", "12 Horas para Sobreviver: O Ano da Eleição"
 https://lh3.googleusercontent.com/RAhH9OIUZJrTwodiBZ96n60ZBdQFyjTx_YvDVOs_r9L2Kn8xKGwIW8soribqFbJezB5Qns1-WG9Pq95jACjct4nHg4ulkZ3IS9_w1_QX_pRlhhWA0jv6TFMWHq8hP1zwhRlJaPu_Bw=m37
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1sGejis-RXPeGEQFQycJEkfO5mv0DhlZ4" subtitles="" group-title="Números & Símbolos", "17 Outra Vez"
-https://lh3.googleusercontent.com/zkKMSFGqgN4NA9XaQ9wKQXHpva-Amu8FewTOroJB4-6EzUzfrvuua5cctrfuUts8YFDM6kU5-EyejlW8qqltIHPU6KOYNrgnjUdk13yCnb3t3R_-mghKVmwVHugBX4g3ChTSR4J0IA=m37
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1sGejis-RXPeGEQFQycJEkfO5mv0DhlZ4" subtitles="" group-title="Números & Símbolos", "*17 Outra Vez"
+----------
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/101%20Dalmatas1.jpg" subtitles="" group-title="Números & Símbolos", "*101 Dálmatas: A Guerra dos Dálmatas"
 http://cdn2.canais.ink/RCFServer3/ondemand/101DMLTS1.mp4
@@ -986,8 +986,8 @@ http://cdn.canais.ink/RCFServer4/ondemand/CNSTNTNE.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Coraline.jpg" subtitles="" group-title="Letra - C", "*Coraline e o Mundo Secreto"
 http://cdn2.canais.ink/RCFServer2/ondemand/CORLNE.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1PsLVE-n9zXTpluNVuHwHPlB5oXmHI3ul" subtitles="" group-title="Letra - C", "Coringa"
-https://lh3.googleusercontent.com/gLKNiWxCSYfi4vVcAJ4Cn9NuUKoFqhEdL6SNHJJcU5mfss7kPqWDyfE1UJr88d3ssSTUcp_rjhpcOJ0LmarOAhofSz-WD-iFa8A0Sk3rLD_XqDmWfh67UGETn1zI3Ofb03P6RBFymA=m37
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1PsLVE-n9zXTpluNVuHwHPlB5oXmHI3ul" subtitles="" group-title="Letra - C", "*Coringa"
+----------
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Corpo%20Fechado.jpg" subtitles="" group-title="Letra - C", "*Corpo Fechado"
 http://cdn.canais.ink/RCFServer4/ondemand/CRPFCHDO.mp4
@@ -2020,6 +2020,9 @@ http://cdn2.canais.ink/RCFServer3/ondemand/LONEYTNSDVLTACO.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Lucas%20-%20Um%20Intruso%20no%20Formigueiro.jpg" subtitles="" group-title="Letra - L", "*Lucas, Um Intruso no Formigueiro"
 http://cdn.canais.ink/RCFServer4/ondemand/LCSUMINTRSONFRMGRO.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ciypHq7_ppHt2HEAtMG8zcb-b8xSlIeF" subtitles="" group-title="Letra - L", "Luta Por Justiça"
+https://lh3.googleusercontent.com/HTyYqvVwvwFynofSApSYZptaaU6MfYhbumWPzDqPQRzzrpLtFK6sLEj5Mb5TDBqUGkGRbfhO6XmALGnJpr4rOiAI3DNYsxxnStPspbu1TfUu8QlQr46dBCzjwtFr8qhtFX5-rfPpZQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Lutando%20Pela%20Fam%C3%ADlia.jpg" subtitles="" group-title="Letra - L", "*Lutando Pela Família"
 http://cdn2.canais.ink/RCFServer1/ondemand/LTNDPLFMLIA.mp4
@@ -3622,6 +3625,9 @@ http://cdn2.canais.ink/RCFServer3/ondemand/SPCJAMOJGDSCLO.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Spirit%20-%20O%20Corcel%20Indom%C3%A1vel.jpg" subtitles="" group-title="Letra - S", "*Spirit - O Corcel Indomável"
 http://cdn2.canais.ink/RCFServer3/ondemand/SPRTOCRCLINDMVL.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1wzx5N8Ce-zY2TejO0HTWanfqCIdeaupJ" subtitles="" group-title="Letra - S", "Star Wars: A Ascensão Skywalker"
+https://lh3.googleusercontent.com/PMBYrSV8TqKSSjNybjBQzRRcKO-XwU3XiKdWe-MEYRlk6plIxj6ADasFxkQ5r5AvsVx7f6Wy_6u-fPuOtHIFI0qpae7oQU2SyaqFEv-KXTFVx-jpmal1Wp2uxTCESD88a7EPF9bepQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Steven%20Universo%20-%20O%20Filme.jpg" subtitles="" group-title="Letra - S", "*Steven Universo: O Filme"
 http://cdn2.canais.ink/RCFServer1/ondemand/STVNUNVSOFLM.mp4
