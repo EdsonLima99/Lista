@@ -320,8 +320,11 @@ http://cdn2.canais.ink/RCFServer1/ondemand/ASGCRSPCLO03.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/A%20Saga%20Crep%C3%BAsculo%20-%20Lua%20Nova.jpg" subtitles="" group-title="Letra - A", "*A Saga Crepúsculo: Lua Nova"
 http://cdn2.canais.ink/RCFServer1/ondemand/ASGCRSPCLO02.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/A%20S%C3%A9rie%20Divergente%20-%20Convergente.jpg" subtitles="" group-title="Letra - A", "*A Série Divergente: Convergente"
-http://cdn2.canais.ink/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=114C-C6rB0WmhJB9gQbeZb9Bg6WlKex2q" subtitles="" group-title="Letra - A", "A Série Divergente: Convergente"
+https://lh3.googleusercontent.com/Q0QAOdlp45uwDPhW4-fPS9QF6xYYyZ3WWSG8bQdTu1FtvzTVHu9_0GtBMi8ZIzJpC_w4QcMeVsYIlsvghG5NH9Zao2qKfVKc9ea8G_63OFCOShFETTBQliLIxB201UcDklpvmkIdDA=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1Za7qXkzx8W27mverSWLs2FzWyL0Y7ZBE" subtitles="" group-title="Letra - A", "A Série Divergente: Insurgente"
+https://lh3.googleusercontent.com/ZXExu8rbZQd_Xkg2oSDdCmMKqlJE0BMT9B54-VsEaf0zlRemixQnEtkhB6tj5-OkiSJpZg_pmjrMEcTkNZxTovWMnZUcST5C68T8qUAguFKoS3aMrSUy3NMGk39SDU2Tx6a2bPdfyg=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/A%20Teoria%20De%20Tudo.jpg" subtitles="" group-title="Letra - A", "*A Teoria De Tudo"
 http://cdn2.canais.ink/RCFServer1/ondemand/ATORIDTD.mp4
@@ -703,6 +706,9 @@ http://cdn2.canais.ink/RCFServer1/ondemand/BDBYS1.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Bad%20Boys2.jpg" subtitles="" group-title="Letra - B", "*Bad Boys II"
 http://cdn2.canais.ink/RCFServer1/ondemand/BDBYS2.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1YcfnJzv9ySmoXoOemKL_xbGRMWogjjeg" subtitles="" group-title="Letra - B", "Bad Boys Para Sempre"
+https://lh3.googleusercontent.com/VLkjS-o-x2MHDlff5O9M7b6FGO1rlkVkfWfayI5enzevwhf8dAlIC9As1c-XFTvspUuB6i52e9MxTGMdGYqlx_vHZInrN6NBti5UedTOYr7xEhJMfg_vMKUSai2dVMR2BRhLCrlLSw=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Bambi.jpg" subtitles="" group-title="Letra - B", "*Bambi"
 http://cdn.canais.ink/RCFServer4/ondemand/BMBI.mp4
@@ -1133,8 +1139,8 @@ http://cdn2.canais.ink/RCFServer3/ondemand/DIDQRSRCRNCA.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Distrito%209.jpg" subtitles="" group-title="Letra - D", "*Distrito 9"
 http://cdn2.canais.ink/RCFServer2/ondemand/DISTRIT9.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Divergente.jpg" subtitles="" group-title="Letra - D", "*Divergente"
-http://cdn2.canais.ink/RCFServer2/ondemand/DVRGNT.mp4
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1dYPa0VEy9JRiEU1Tfg3edLuCe-98ZE2W" subtitles="" group-title="Letra - D", "Divergente"
+https://lh3.googleusercontent.com/5kWRhPgoikQrLjso4V_lEnoEvCJWiPryYXzOMSz040DgBgBBRnYhuaskxGfOWW3WMZZfz8Liqt4H_rfQ8mhQahjskCa5BVctt0sWQsMydGTmMQS25DiyfVwUVFnPr7SoEdfoNy_iAQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Divertida%20Mente.jpg" subtitles="" group-title="Letra - D", "*Divertida Mente"
 http://cdn2.canais.ink/RCFServer2/ondemand/DVRTDMNT.mp4
@@ -1162,6 +1168,9 @@ http://cdn2.canais.ink/RCFServer1/ondemand/DOISNLNA.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Dois%20Papas.jpg" subtitles="" group-title="Letra - D", "*Dois Papas"
 http://cdn2.canais.ink/RCFServer3/ondemand/DOSPAPS.mp4
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LKjrXoGRPcNnna0oLMzVlsaXByHtc9KD" subtitles="" group-title="Letra - D", "Don't Let Go"
+https://lh3.googleusercontent.com/Nb034xmZVPb4QlJ47PySKW0N3av8CYAp1QFenIFwIAnocTqNJwsD_SK7K1kSTFZjyPVu7OxyoE_TuwZS1m4siguIVbug80i7ID60f0g7J01yhr7oTtUifTOH9J0L5QCKDZzNp6umGQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Dona%20Flor%20e%20Seus%20Dois%20Maridos.jpg" subtitles="" group-title="Letra - D", "*Dona Flor e Seus Dois Maridos"
 http://cdn.canais.ink/RCFServer4/ondemand/DONFLRESUSDOSMRDS.mp4
@@ -1578,7 +1587,7 @@ http://cdn2.canais.ink/RCFServer3/ondemand/HPYFT2.mp4
 https://lh3.googleusercontent.com/4cgJ9WYw7eOQ65hfo6aF1zcwPGaNmD3_RXHxK8AYtAeXQeTj2mz2-pmhWmoLF6LcqERKEJ-Y542Meko3xXzVucY1nVGAbIfRHJAAmzTSoqPZdHnLaIa8ktby_JCmDelMqL5kIU4tOA=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1DTyaZPc1KlL_S7YxJHqH-wm5bUbViSGH" subtitles="" group-title="Letra - H", "Harry Potter e a Ordem da Fênix"
-https://lh3.googleusercontent.com/xxHF9JS_b1A8eQc3SV8x6IfPQLay-Fd45ZVkstxIVxdd33DyQy46O5UVUTNTmIpLMhFXbyCsPeoqF2pa7b0vlGPm-5ohnffTTu6h5TmdxbTSCsmZvpzgZmrZDCTHKbUyZsVqgWupWg=m37
+https://lh3.googleusercontent.com/RHYGPnaStk5u6YrVAdTsbab-LZkylumvRRRtsPl7El_gQarND34BJ4-BVDI7JaBWXMNfbqmyuupEJ4Ga2u6UjQZ_RH6WfJpcas_tweH5o0hNJSbwtjyIf1UYJCZRLursRrrnuEsbwQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1oZl1nozHMBO9cGyqANIIAWVVZFCsQxi4" subtitles="" group-title="Letra - H", "Harry Potter e a Pedra Filosofal"
 https://lh3.googleusercontent.com/U9JYS0SLeuu2b7S4EjBldW_W8AExmow__XjL1_d3CVOTpqAjh3Cg9ph1i6HVNPJHPPNkcbMBXYEqgc7HN2vvt9kvqHis8lEFEvyQ0FQyPBjjgjSN6-FoggKsHJe6nIMVOQJsJxN8EQ=m37
@@ -2186,8 +2195,8 @@ https://lh3.googleusercontent.com/bOjM2bKsbYjgX3KnF8TKWLSgJDMSL7UA_MFtlWW_AqURVn
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=16a6hz0N7Z024m8s3vUMvqaC_gDFlRJo8" subtitles="" group-title="Letra - M", "Minha Mãe é Uma Peça: O Filme"
 https://lh3.googleusercontent.com/R-raI-Tf5holh0EO7f2zBnZ_uruzjTWdybYSJ8cC0ckAwpWybaPIcJBetDUxGQ2yIugX_rSiscKQUAWwPRgPG_Q2I8HEdPovgPzEoamkTSV34_G6IcSTI_CPz6OTe3AsfDvCUzOXdg=m22
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1bNToagjvM1BfBeFaB5rdinBRbhQ0NExJ" subtitles="" group-title="Letra - M", "Minha Mãe é Uma Peça 2"
-https://lh3.googleusercontent.com/7AYdmgZP-Oq6MBEmX9C_epV2t95EakzSL_VFawjYMeIJco4mkhlVCngEBxhK0DGhMXzVYiNNGSsDVOn8AouyqrBDeM3JcqtMm9X2Ek1KuPQmDI1HPR9H2t29YlsQ__D8BZMQY33edA=m37
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1bNToagjvM1BfBeFaB5rdinBRbhQ0NExJ" subtitles="" group-title="Letra - M", "*Minha Mãe é Uma Peça 2"
+----------
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1H2OQDJVIdIZ4_9bfFgOroV_deOyQBLbB" subtitles="" group-title="Letra - M", "Minha Mãe é uma Peça 3"
 https://lh3.googleusercontent.com/o6qg0sq5v1DdKl8TUZESZw_mLQNfFHIzEH0Cg945elYNt_7QI9wWOpDVR8Hn6nr6ePSigDAZ-LAG2sC937HkPyJkX-pi_bMzgDaz3EDgbSudWwHHGkDoPD4CH8RSREH0_DPYm_1rDQ=m37
@@ -3527,6 +3536,9 @@ http://cdn2.canais.ink/RCServer09/ondemand/SCBDFLM10.mp4
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Scooby-Doo%202%20-%20Monstros%20%C3%A0%20Solta.jpg" subtitles="" group-title="Letra - S", "*Scooby-Doo 2: Monstros à Solta"
 http://cdn2.canais.ink/RCFServer2/ondemand/SCBYDO2.mp4
 
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1XVA7O2QoDKo8L3zeyenhTY_DjfuzOGuU" subtitles="" group-title="Letra - S", "Scott Pilgrim Contra o Mundo"
+https://lh3.googleusercontent.com/sDJv-nXcFP2gGNKBP4b-ZFBYLN6zILT7SKlbO4hL4Js6STu88aJLbdvkYsiR57bFfRG960CsfVaT4n3zNrDZm9dLiYHd-NGHiy3JXnZmzmiGoOsJjQT04cn6lufU4IGVwILKSSRUQQ=m37
+
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Se%20Beber,%20N%C3%A3o%20Case!.jpg" subtitles="" group-title="Letra - S", "*Se Beber, Não Case!"
 http://cdn2.canais.ink/RCFServer2/ondemand/SEBBRNCSE.mp4
 
@@ -3901,6 +3913,9 @@ http://cdn2.canais.ink/RCFServer1/ondemand/UGLSDLS.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1XEkvaw-jc0F3t3zrVdIjVMfMqPtt59Ee" subtitles="" group-title="Letra - U", "Um Amor Para Recordar"
 https://lh3.googleusercontent.com/zzQf83tpLmJQjKPnb3zM2ZuOFsZo79i8z2i19uK29Wc4V12LUdhZhqNbL0lhxiFkOJUJ10BDF47dsgHS0ybc9RH2yOHNdL8RX30-S6gQxj7IRVQL-lnFzbfzZQCWyRtrBq-k35Nk7g=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1jz8r2hU-ovwIZrYW4LMLQD2w56PO9S23" subtitles="" group-title="Letra - U", "Um Espião Animal"
+https://lh3.googleusercontent.com/zLD3gCG7qg2mWAPsAjeeNOsQLS65ZKb18Z6a_dSU3zgXDP5sECkbnL1z_Bg5JtSzOPMEIh-YHKdhuU0I9dvhMWWhpQIoZol_fOPe69EmXGPVT-sX8jVSzJdF-CmG9QY0PA8Q2SK-XQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Filmes/Um%20Espi%C3%A3o%20e%20Meio.jpg" subtitles="" group-title="Letra - U", "*Um Espião e Meio"
 http://cdn.canais.ink/RCFServer4/ondemand/UMESPEMEIO.mp4
