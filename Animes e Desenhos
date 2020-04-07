@@ -7,16 +7,16 @@
 
 ################## American Dad! ########################
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x01 - Piloto"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x01"
 http://cdn2.canais.ink/RCServer10/ondemand/AMRCDDT01EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x02 - A Dona do Pedaço"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x02"
 http://cdn2.canais.ink/RCServer10/ondemand/AMRCDDT01EP02.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x03 - Papai Sabe Tudo"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x03"
 http://cdn2.canais.ink/RCServer10/ondemand/AMRCDDT01EP03.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x04 - A Perda de Memória de Francine"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x04"
 http://cdn2.canais.ink/RCServer10/ondemand/AMRCDDT01EP04.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1ASATy5X3fFbP7PJyrTHXVfc5LiRbfrlk" subtitles="" group-title="American Dad!", "*01x05 - Roger O Excêntrico"
@@ -5985,11 +5985,68 @@ https://lh3.googleusercontent.com/j1yoL4xIatLDI1vCMx6oQSvI-IdQg-XpXNwD6m3ycFV4aY
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Os%20Simpsons26.jpg" subtitles="" group-title="Os Simpsons", "*26x22 - ----------"
 ----------
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Os%20Simpsons27.jpg" subtitles="" group-title="Os Simpsons", "*27x01 - ----------"
-----------
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x01"
+https://lh3.googleusercontent.com/hQ-VeOAB63vpUYHRp_MmP2yRWuBWYAa_RJuqzrtXccAQgaZHWi0x22weBAWYwGu8FeAgfWOqFYbUp9xnJbGjoEWM0LANSers0UuAyLanjxH__kaUIjQJByQyKuVMOIsI78bRYIU4pQ=m37
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Os%20Simpsons27.jpg" subtitles="" group-title="Os Simpsons", "*27x22 - ----------"
-----------
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x02"
+https://lh3.googleusercontent.com/YE_BWVgARNn-dg3YpdyglrRFSxs_7Mg1Jzjlybjc9m8KVcrONMwiVCiCJrFtKmDpcVXB3W9vI38zxDi1i8UgtK3YNKrTMFx1osGTm-BJACv1MSp2Emx4H7FyIUeWczp1Z79DYHoBkw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x03"
+https://lh3.googleusercontent.com/3NpPygTGoyImVPuen6_2rjTmV4BXTmKg61Cp0m_Susr5Ppp4OZpfXi8En1-vURYbN2waECmyLkECSaeBy3ze7rWrcjDqFsJP5dEMDNaiLIs3k23pu0I4GVIlXsMrACqAOrch3UCtzA=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x04"
+https://lh3.googleusercontent.com/XJ81iknkglIMu3VfEORIYwUTyMUj_B3p_1IZZoiYI4rjxcehIBFu-JyrrlpGETyfkCU9nGT7_s92DlbQQBnjgSJFRXVwnqxMMpDkZPt72D234n2ftK1qjKJtfJQVxwSeh7kCSZsyWw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x05"
+https://lh3.googleusercontent.com/DE-TINeI-qIn4OBi7YCMNArCcqrGr79dgbmOdBxJYjT48L1iVHYFKThQqE6oiK2k0WUAxtzAnPN4YbB-l7x3QEG9KU58hr-myYnRD10mcqqzFARdXVGfpHcR6tG0qrUCxiMXpgahvw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x06"
+https://lh3.googleusercontent.com/eXeE1l8itjH705ymw03wNoEYPzT9LEmar1Pu4Hqbd-ao8AZ6A_s_b8rGV6oyIfFF0LqwjuAflDhaJrh9SDVr6ciHALw1dn1QzycweHwHIQm64-sEypajxVenY5CjgroqSeSqES3Glw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x07"
+https://lh3.googleusercontent.com/ZHEwZVrWw0HBPTy4eb-UiidYgSeRNSCXyeohE-g8JX5Z_2TD9qTELrjLaA6ZeszD4kWbm_Q2lI8pWN4h-FxU9xfvWxYcr_xFWKQAmk-pdwD7tpOrkyACYysR883WkAjLQKil-bJ3lA=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x08"
+https://lh3.googleusercontent.com/etsAOcBFVSKnpV3OcjiEupGIHagbzSoGJkf0Ii4fDISF_rlTPcDuqpUYOvQLf5q5HF1gWAxzqpY4bP4zUzXMQWxD4ExBNOZs8lKI9atiAEkmKdxyqCYYPl6SPzse8wtuoE3XQPHK7w=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x09"
+https://lh3.googleusercontent.com/IbnBRt_YzQxSg2KAvpDwYbag4aheNgZcwiOokQuORP_KWCLkT8GuXjFEi4GyYtQOKYfyuJ0l200iUw6DQNKhMApVBNnOO9sVouBHhmVyxjenw5A9S0Icug2y1KTrE5Vj02oxFkF8Ng=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x10"
+https://lh3.googleusercontent.com/nHD85Afl1c0RUQbAX02dJmk6mDO9bWSXajOMfuaHGDrA0f0n_vAoD5tVg3LdjOWsf_URmTX1kp9e5ayMVjONkd0THLTDr2GjXvIBlMJWXa2HRvHvrfd3ffOKCPeOV5VJJGMSZP2SKw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x11"
+https://lh3.googleusercontent.com/vFLJ2wehJKTfJP-YfJ8axUC-f9fLOOrjxXv2XhyjGCBxwqjRl654wWjaC_Tb_CzrlL3pkCPYtcOYfGna5ZUc72EYuTrfWsjOpoiOS6qYLkgbQ20XqLoGlpJEomkAA-XK0ZL3iw9KQg=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x12"
+https://lh3.googleusercontent.com/y0HPsUci-Zfb9j7StnUDUVeBphQ5jIqer-YfNL_CpJ-Xlx8GERgUKFL7ZCZXSkTRlPfwhwgCWx8RrlK1-bUyFizBEtN6r-hk69xHtCLdxzp0GKKVMEscrIxxpGvDMOg-D5-odY40qQ=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x13"
+https://lh3.googleusercontent.com/OweHBZkjcFQIhx4FhAIbahK5hFNBloEhckGzJpo__k5ajxmcXpA6Wz3hMKN_JnRwdSBQ2qgP9cCvjpGi47QJrBxGTEtklSKQC5MKQ-MV83CXgp91_KIZgw82eP5OtjyXX1ghFPVHsA=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x14"
+https://lh3.googleusercontent.com/9G3gUbz-gKj_D8DrZQIRBNrqszcaagSbcbr6P1mq4poD7eZ_5edxoMfLxZopCnuT2rOU1M7tP0emMYFrRhWQgcljKDn49wkf7Uz-BsHTEsoMCK1t58_iQ_JwFt24puUr0IAGst6eVQ=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x15"
+https://lh3.googleusercontent.com/YQPAdPlIxYJsOwD3BS4kEYKS3IudD9eET89vXXozZl7BUrkILB1rlIeyChfPfPmFMVXpPkG193Z-p38i4XFl-l3vXiHF6cP7Z3_2jfvWMNhqxIoT06ti9HUvPJEsC3gLU63ry752kw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x16"
+https://lh3.googleusercontent.com/dOeaM4uTR8yDYeQsz1bnC5jgg3IRlB6h6Y3iZIjzFbZsB378TkHHpVKmccxNRbf8wwlfAV-dnKKX6XHINHOy24kVLYu93NZIgMTO9wLKdUzLB1yQtLZBbaep7yOYQrxprNa4ZxuwWw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x17"
+https://lh3.googleusercontent.com/Btti0iOCvulOiKWCPELODxtR2YBrPVwzBXPJN9OAyj9FwJUnrprirMEazLHcmkaFxjCvU3MxSD3ZXS8WIRKgsEPxa-obTiCuykJEA53kosuK6JD-YC4JKHRLNZ0ru6B3_UjZcGtEMw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x18"
+https://lh3.googleusercontent.com/tLJU3Cd3tSzmLNTcPMkDUIUrAhNsu0eUpXes7kgrpOptSMDvQH1Hk-JxgeE6jQ1tSv2jKACF_lvH9FHvlScOEGOW5n6UeG5QWJqdCtcf_xyol05PtH-Eac2Jwl5cO7S4vV2InlLa3Q=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x19"
+https://lh3.googleusercontent.com/U8eXp5feK3ULuCW8PakfvoqseYTk26oG5xIO6xqFyBVV-dn7L5izHnua7rKrxAIErAg7xZjy9vl8tr_9NCipRUGZXqbFIhYESzB-3G57i1ovVwJvZqNieMmsmTkifoT_jkK7w_8b8Q=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x20"
+https://lh3.googleusercontent.com/CjU5wCKK_yVxbrqYddVO6n_sVkwYCNnHlaX0taeJctwFnfCEPUH4IELEzcQJxNN3YqbfKmzvRfbzOeIObfMqBiW6-ntZ0_cRXMy9aCQa0gRWyrYR-7I-O26EhTm5txJ0EQX-kyqz4A=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1LLUFdmIeQqPQ0LlWhBpK6MbokeHKkYo8" subtitles="" group-title="Os Simpsons", "27x21"
+https://lh3.googleusercontent.com/VbaKs8uvHC15FAfz5KL56GCAj7QbeWs0fLff2vJDKr7MvLO2M2urWDZP757P2ckGCiUzhP4tc1bzcI45W1cHfjyWsyzR0Q53Z6zeeHKnDCKCAAjXNHzHMUq_cXTcn3jRkzP1ZAM-4g=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Os%20Simpsons28.jpg" subtitles="" group-title="Os Simpsons", "*28x01 - ----------"
 ----------
@@ -7374,97 +7431,97 @@ http://cdn2.canais.ink/RCServer09/ondemand/THECVLNDSHWT04EP23.mp4
 
 ################## Uma Família da Pesada / Family Guy ########################
  
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada1.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*01x01 - A Morte como uma Sombra"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada1.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*01x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT01EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada1.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*01x07 - Brian: Retrato de um Cachorro"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada1.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*01x07"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT01EP07.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada2.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*02x01 - Peter na Alta Sociedade"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada2.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*02x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT02EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada2.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*02x21 - Pai Adotivo"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada2.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*02x21"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT02EP21.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada3.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*03x01 - A Tênue Linha Branca"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada3.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*03x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT03EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada3.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*03x22 - Quando Se Faz um Pedido"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada3.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*03x22"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT03EP22.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada4.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*04x01 - Intriga Nacional"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada4.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*04x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT04EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada4.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*04x30 - A Excelente Aventura de Stu e Stewie"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada4.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*04x30"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT04EP30.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada5.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*05x01 - Stewie Ama Lois"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada5.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*05x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT05EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada5.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*05x18 - Conheça os Quagmires"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada5.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*05x18"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT05EP18.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada6.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*06x01 - Colheita Azul"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada6.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*06x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT06EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada6.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*06x12 - Longo John Peter"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada6.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*06x12"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT06EP12.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada7.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*07x01 - Amor, Blactually"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada7.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*07x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT07EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada7.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*07x16 - O Progresso de Peter"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada7.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*07x16"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT07EP16.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada8.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*08x01 - Estrada para Meta Universo"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada8.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*08x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT08EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada8.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*08x21 - A Escolha"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada8.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*08x21"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT08EP21.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada9.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*09x01 - Convite Para Morte"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada9.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*09x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT09EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada9.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*09x18 - É uma Armadilha"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada9.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*09x18"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT09EP18.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada10.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*10x01 - A Fébre da Loteria"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada10.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*10x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT10EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada10.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*10x23 - Problemas Conjugais"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada10.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*10x23"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT10EP23.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada11.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*11x01 - A Escalada"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada11.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*11x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT11EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada11.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*11x22 - Somente Para Sócios"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada11.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*11x22"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT11EP22.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada12.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*12x01 - Achou Levou"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada12.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*12x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT12EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada12.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*12x21 - Stewe Britânico"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada12.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*12x21"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT12EP21.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada13.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*13x01 - Os Simpsons da Pesada"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada13.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*13x01"
 http://cdn.canais.ink/RCServer05/ondemand/UFMLDPSDT13EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada13.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*13x18 - Levar a Minha Esposa"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada13.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*13x18"
 http://cdn2.canais.ink/RCServer09/ondemand/UFMLDPSDT13EP18.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada14.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*14x01 - Pilling-los Suavemente"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada14.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*14x01"
 http://cdn2.canais.ink/RCServer10/ondemand/UFMLDPSDT14EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada14.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*14x20 - Estrada Para Índia"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada14.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*14x20"
 http://cdn2.canais.ink/RCServer11/ondemand/UFMLDPSDT14EP20.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada15.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*15x01 - Os Caras da Banda"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada15.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*15x01"
 http://cdn.canais.ink/RCServer12/ondemand/UFMLDPSDT15EP01.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada15.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*15x20 - Uma Casa Cheia de Peter's"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada15.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*15x20"
 http://cdn.canais.ink/RCServer13/ondemand/UFMLDPSDT15EP20.mp4
 
-#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada16.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*16x01 - Ganhador do Emmy"
+#EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/Legado/Uma%20Fam%C3%ADlia%20da%20Pesada16.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*16x01"
 http://cdn.canais.ink/RCServer13/ondemand/UFMLDPSDT16EP01.mp4
 
 #EXTINF:-1 type="video" tvg-logo="https://redecanais.pictures/imgs-videos/RCServer09/imgs-videos/Uma%20Fam%C3%ADlia%20da%20Pesada16.jpg" subtitles="" group-title="Uma Família da Pesada / Family Guy", "*16x20 - Pés Com Pai e Marido"
