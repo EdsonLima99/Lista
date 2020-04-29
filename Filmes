@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1w-Bkx3wmMk9BlH16IbimRj4TeUgzH3WZ" subtitles="https://drive.google.com/uc?export=download&id=1hPDBvpf8g16U5JmNHeYoUqeFAHHmYeJj" group-title="Números & Símbolos", "+Velozes +Furiosos"
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1w-Bkx3wmMk9BlH16IbimRj4TeUgzH3WZ" subtitles="" group-title="Números & Símbolos", "+Velozes +Furiosos"
 https://lh3.googleusercontent.com/-dvLmqjUyYsjbf4j0NLrSrvVKxJEw_gtE1Rtsc4pbSwrqrGo3u4q8wsm-25uZQRPqs9XfdB6ZKQcMtkDcgeMXZoDpLmPK54uI6-wfMWvL3TZqUn9vXpuMU0uH2I-FFqnIFWaim2mdQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=11Ok3c69_031VWQNwUbsCMcaLWMF8q_Qw" subtitles="" group-title="Números & Símbolos", "12 Horas para Sobreviver: O Ano da Eleição"
@@ -8,6 +8,9 @@ https://lh3.googleusercontent.com/RAhH9OIUZJrTwodiBZ96n60ZBdQFyjTx_YvDVOs_r9L2Kn
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1sGejis-RXPeGEQFQycJEkfO5mv0DhlZ4" subtitles="" group-title="Números & Símbolos", "17 Outra Vez"
 https://lh3.googleusercontent.com/u4bI--Gqvo0YBDDR9qVr5b-invNv6OZm51-T2wxzeUh1RE84DM97bxzwQH3u4FhZaZe1PcVfryI48qFB8MM9cPV1c3oyYjPbLhd06EJyjhRmSoTx7aeWfPKEieKAUdCSojfMFuS0pw=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1rYSIUsfrQ1reDf8QsuSO_ViNj1ek9j1Y" subtitles="https://drive.google.com/uc?export=download&id=1hlchE4nCkHGLhsHWZxCzSJVjnrsqM4sS" group-title="Números & Símbolos", "1917"
+https://lh3.googleusercontent.com/fGhA6Qusd9yvZwTbmxQVrFFugzlcGqYmfHcxhbfsy3MH0qnr3SQwqBAdkAhn0V5VzDKCSFSziY9IA__sy84u-6SVuj6LvEdg7YzY6nerRLjXFhUnfK_Dv7WPfF-JE5xLQAvup7hVFQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1rav_eJzC9WuEZ6l_I3wzUhd8Npf21sXW" subtitles="" group-title="Números & Símbolos", "1964: O Brasil Entre Armas e Livros"
 https://lh3.googleusercontent.com/cb_4yGRK14Nbk7XUvrsArij4Y3J2I7VPZL8JtyfPhzaCkwUU3tbhnncE7soZzPBY7E_CZ8e3XJLm3Iva23cRYYtQM6ABQ_wWhbH_WvTC5-YXu-Kel2JbaeoPdgv1NO7OCHd-E2ojAw=m22
@@ -86,6 +89,12 @@ https://lh3.googleusercontent.com/MQy6TVhoHwe1j5luThNVpob98GO01w2TQ7TcvkSX05aQD2
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1_SZj6fbiO2ArAi5HvSPvcMfhIxRLujTU" subtitles="" group-title="Letra - A", "A Escolha Perfeita 3"
 https://lh3.googleusercontent.com/lmcel1_oxbQAqR2ZMgYMxL2Gm50oomCwGz0ixT4kSHotwqtXoUbvFUjtgNGNBNNp0BtWcdCB7baqq2r2NjwQTOJXyG_IELRLwmjE4CEhZC8b3KWFYWU_UWeinaDAaEccSV1kq0lzmA=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1qVqGYnbuW7Joeys5vUdzWFnCOqlcxvjN" subtitles="" group-title="Letra - A", "A Espada Era a Lei"
+https://lh3.googleusercontent.com/1D7J8ms3mqwPxe2l_rXneVhaubC0FFbw7XKgqXghZXzkibd0m-CgZEkSkYwpERp7TnfKvutoz8gC7DeuP5D7L5Ekup9DmDNy7M2XQ09rX0FtXi7A8befCAROKAtfvHKwSr6PoKS4MA=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1IBVe2YQE9Bt1N3hwlolwjxeyC_h2PmBI" subtitles="" group-title="Letra - A", "À Espera de Um Milagre"
+https://lh3.googleusercontent.com/T0ud_cNJpLIzGRtsO-ln56KUgxlT2sy9YoD7O60ka8yw30DTUvDFGWtohFkXTqzXZRBZJ4o_3XdQDWA1ODAyvGw1sT7mAsRWjTzvMdKek_Z7pZAfrNt1R_oarBRUSG33RmsaRpmf-g=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1NXN86f_lqXdmBa63skAnJVUfzUDEqnza" subtitles="" group-title="Letra - A", "A Família Addams"
 https://lh3.googleusercontent.com/w5_w87OHBmyg5nhSB36GyhXckUUcv4nRtRSqvGS7MQb05a920JO-OzXen1gWsUOGzhlCIPae1vd4ZAW5Zau2GKa3LwZmZ59zAXZPFQ_0cSzmE6l8qoP1t0XnOEhUturXMe_ZbTRG7A=m37
@@ -228,11 +237,17 @@ https://lh3.googleusercontent.com/HTyYqvVwvwFynofSApSYZptaaU6MfYhbumWPzDqPQRzzrp
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=17-dYZzlDbWCxwMEzLvfX2PegL9pjMIXp" subtitles="" group-title="Letra - M", "Malévola: Dona do Mal"
 https://lh3.googleusercontent.com/m4iq4b1PsBRQwmUptwE93nVz8drtK6l6fBlrFlNvJa794mTpbdKUQtKnOeamlMofCCctBN4muGqE3tBdLK5DiY30Tou33ynImP-MDk1H-lyhG77DKbrNu51M-OCoBZxz4ERNwCPF6Q=m37
 
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1mqMCoBKzruWwCnj3aXfZmKYmBDj82OCI" subtitles="https://drive.google.com/uc?export=download&id=1hPDBvpf8g16U5JmNHeYoUqeFAHHmYeJj" group-title="Letra - M", "Maria e João: O Conto das Bruxas"
+https://lh3.googleusercontent.com/gZpuj4_P_wDY29-pGyo1-AVTxyhTNbK4gChivbrgdmOnvb5zRbkieUmNA8tpK5UJg1aIdAK3wmLeoF9PuKaenCtwsKir2wp2ux9W8PrHxdRfr86nH9qcPy4TyR_-UCbC_RBkoZabog=m37
+
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1cyya4nhEedCN2eewExr5p4j91rCqnwq3" subtitles="" group-title="Letra - M", "MIB: Homens de Preto - Internacional"
 https://lh3.googleusercontent.com/HS5g7Qt5Jx2jTpHjrvCPjWe5V3ZFjazJHaQMPTY-9B1dHddQL7kcILXpQKjF9W5rtWrBgAiSoO0qMfpzACAWtuyPMbCrE6JEe380ofo2QrCQmTQtUY1VO3xfuw_wuT8Kvew5OWof4g=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1aDswqNyVRVswCSNgPaD2ybFSqsCJNhVz" subtitles="" group-title="Letra - M", "Midway - Batalha em Alto Mar"
 https://lh3.googleusercontent.com/bOjM2bKsbYjgX3KnF8TKWLSgJDMSL7UA_MFtlWW_AqURVn90iF00y8d5f5GIbzzIDJ9v4esI756x2qvvFzpfqm2FdJZvuZYHXfq2Ev_rqNO4Z8dTGxjud_kNAOIoEsu7dRftNhS1sA=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=16h0Hj2o1WvTo8ILI9Gi4q2FVRr94dgB0" subtitles="https://drive.google.com/uc?export=download&id=1FAYV5Awei2CWKHPPijNg2dXPzGYEQjWm" group-title="Letra - M", "Milagre na Cela 7"
+https://lh3.googleusercontent.com/CLakjdW0pTcNg1B_2uER70KVg_Wj0WsMUBQt_s5xC5FkizIu1gV6RfB4i2kDceUsGXUOUYGLYINz6lk-qpE_vCrrhH0MB01JhwKW_bAgJxcVTxs-IpAjxo97IrBuCttrsQ8nchCipA=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=16a6hz0N7Z024m8s3vUMvqaC_gDFlRJo8" subtitles="" group-title="Letra - M", "Minha Mãe é Uma Peça: O Filme"
 https://lh3.googleusercontent.com/R-raI-Tf5holh0EO7f2zBnZ_uruzjTWdybYSJ8cC0ckAwpWybaPIcJBetDUxGQ2yIugX_rSiscKQUAWwPRgPG_Q2I8HEdPovgPzEoamkTSV34_G6IcSTI_CPz6OTe3AsfDvCUzOXdg=m22
@@ -264,6 +279,9 @@ https://lh3.googleusercontent.com/3Objj47Fj33nx-tjY5rMXUZbnEMTyflCKEnHBve6Bg-CwP
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=14uBv6WG1EzmBfhYeIwbaX1EICTEno2zn" subtitles="" group-title="Letra - O", "O Sexto Sentido"
 https://lh3.googleusercontent.com/aGQKzhO8S7wM1d3_zBxcn6VZNDGlFPHZDRpaWoV-nO9AYPlPMRhlEhRwQ7hkPR9A1f70TxnPyLqU2YpnACr_t7aKG0X6dGl35OniE3vtBIgxxvV4ElsUmG84qOW2SLiCm0_P_7Z5yg=m37
 
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1lY-NGZePIrY5YSmg6aeMK-4WGcP2WFEX" subtitles="https://drive.google.com/uc?export=download&id=1IrvvlL2r-DbVbKZWBceOvG1m5OgvyiaC" group-title="Letra - O", "Os Irmãos Willoughbys"
+https://lh3.googleusercontent.com/h2sQz2maaqyf9EvfYo_odsuSqVVl7f93bPZwyV2QiozBEsDBypWlTsSRS_h5VgAn-cTs3RbNgL00H7mekntMZsrpKdNi_K9BZPjG_M1JTVOafcEdcDhGQb4d0odU0AIcEFY1X6YSFg=m37
+
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1KQxJZeRHwri7nO2yxA9N3gYN0V7qP50j" subtitles="" group-title="Letra - P", "Padrinhos LTDA"
 https://lh3.googleusercontent.com/ifDYrBZfBQS4oxdDmINIyDaLw97YHa-c2n8NodR1jiR6hlEud6GofNYCem_aksKP6RCYaVCoI7mIV0TC-zsOfQeAtbuQ0gB_mywr5vBHgoSXkok4FUQFPxtV9jbxKVFxMtN8o99-fg=m37
 
@@ -278,6 +296,9 @@ https://lh3.googleusercontent.com/P4WK4zHHXOF4SgO1wj9Yz2gOQNXTKBxpD9dEVrsny_sKLK
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1XVA7O2QoDKo8L3zeyenhTY_DjfuzOGuU" subtitles="" group-title="Letra - S", "Scott Pilgrim Contra o Mundo"
 https://lh3.googleusercontent.com/sDJv-nXcFP2gGNKBP4b-ZFBYLN6zILT7SKlbO4hL4Js6STu88aJLbdvkYsiR57bFfRG960CsfVaT4n3zNrDZm9dLiYHd-NGHiy3JXnZmzmiGoOsJjQT04cn6lufU4IGVwILKSSRUQQ=m37
+
+#EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1OBkd8XWhQCcweCwhwYFV0ktziEOKf4c_" subtitles="https://drive.google.com/uc?export=download&id=1Ei2XdAXbWMnhZcIQHukHZw6htJHsPEtK" group-title="Letra - S", "Sonic: O Filme"
+https://lh3.googleusercontent.com/1ClypJjOKs4QrX2t2qMRWIx0OgCHgtStdOdHjtLWIGA9xGyrwGapk6lbPHtIEy-BVYDSwySBuJfAxGtg32oK7dImNlpydq7bRrQm7oyWuojHD3Bl6N1B37_ddKBDGxQEcHbqDxlDqQ=m37
 
 #EXTINF:-1 type="video" tvg-logo="https://drive.google.com/uc?export=download&id=1wzx5N8Ce-zY2TejO0HTWanfqCIdeaupJ" subtitles="" group-title="Letra - S", "Star Wars: A Ascensão Skywalker"
 https://lh3.googleusercontent.com/PMBYrSV8TqKSSjNybjBQzRRcKO-XwU3XiKdWe-MEYRlk6plIxj6ADasFxkQ5r5AvsVx7f6Wy_6u-fPuOtHIFI0qpae7oQU2SyaqFEv-KXTFVx-jpmal1Wp2uxTCESD88a7EPF9bepQ=m37
